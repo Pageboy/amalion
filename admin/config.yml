@@ -1,14 +1,14 @@
 backend:
   name: github
-  repo: githubusername/yourrepositoryname # Path to your GitHub repository
+  repo: pageboy/Amalion # Path to your GitHub repository
   branch: master # Branch to update (master by default)
-  site_domain: yoursite.netlify.app #Your site on netlify
+  site_domain: amalion.netlify.app #Your site on netlify
   use_graphql: true
 
 publish_mode: editorial_workflow
 show_preview_links: true
-display_url: https://yoursite.netlify.app
-logo_url: https://yoursite.netlify.app/uploads/logo.jpg
+display_url: https://amalion.netlify.app
+logo_url: https://amalion.netlify.app/uploads/logo.jpg
 
 # Do NOT edit below this line unless you want to change the home page
 
@@ -17,12 +17,12 @@ public_folder: "../uploads"
 
 collections:
   - name: "posts" # Used in routes, e.g., /admin/collections/blog
-    label: "Posts" # Used in the UI
-    label_singular: "Post"
+    label: "News" # Used in the UI
+    label_singular: "News Item"
     folder: "_posts/" # The path to the folder where the documents are stored
     editor:
       preview: false
-    description: "These are your existing blog posts. Click -New Post- to create a new post."
+    description: "These are your existing news items. Click -New News Item- to create a new post."
     create: true # Allow users to create new documents in this collection
     media_folder: "/uploads"
     public_folder: "../uploads"
@@ -50,25 +50,16 @@ collections:
         }
       - { label: "Caption", name: "caption", widget: "string", required: false }
       - {
-          label: "Comments",
-          name: "comments",
-          widget: "boolean",
-          default: false,
-          hint: "Only if you setup your Disqus account will this allow comments. If you don't want comments for this post then turn this off.",
-        }
-      - {
-          label: "Body",
-          name: "body",
+          label: "Blurb or Intro",
+          name: "blurb",
           widget: "markdown",
-          hint: "You can type straight into this field and use the toolbar to select styles. You can also use markdown directly when you switch this off. In markdown mode, you can also add HTML.",
+          hint: "You can type straight into this field and use the toolbar to select styles. You can also use markdown directly when you switch this off. In markdown mode, you can also add HTML. This will show on the news listing page.",
         }
       - {
-          label: "Tags",
-          name: "tags",
-          widget: "list",
-          default: [""],
-          required: false,
-          hint: "By adding tags the posts can be listed together under that tag. You will need to enable the tags page (by turning on show on menu for the tags page.",
+          label: "Longer Article",
+          name: "longer",
+          widget: "markdown",
+          hint: "Use this field to extend the article. This will be added to the above on it's own page.",
         }
 
   - name: "pages"
@@ -106,6 +97,100 @@ collections:
         name: "layout"
         widget: "hidden"
         default: "page"
+
+  - name: "catalogue"
+    label: "Catalogue" # Used in the UI
+    label_singular: "Item"
+    description: "This is where you add your catalogue items."
+    folder: "_catalogue/" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    delete: true
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    media_folder: "/uploads"
+    public_folder: "../uploads"
+    editor:
+      preview: false
+    fields: # The fields for each document, usually in front matter
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Order"
+        name: "order"
+        widget: "number"
+        value_type: "int"
+        default: 1
+        min: 1
+        max: 20
+        hint: "If you want to order the catalogue items rather than the default alphabetical ordering then put a number here (1 will be at the top of the catalogue list page)."
+      - label: "Publish Date"
+        name: "date"
+        widget: "datetime"
+      - label: "Cover Image"
+        name: "cover_image"
+        widget: "image"
+        required: false
+        hint: "This image will appear to the right and will enlarge on click"
+      - label: "Introduction"
+        name: "introduction"
+        widget: "markdown"
+        hint: "This information will show in the catalogue listing. Add the further details in the next text box."
+      - label: "Further Details"
+        name: "body"
+        widget: "markdown"
+        hint: "Put here the text about this item including pictures. Remember the first paragraph will show on the cataloge listing page."
+      - label: "Author Details"
+        name: "author"
+        widget: "markdown"
+        hint: "Put here the text about the author"
+      - label: "ISBN Numbers"
+        name: "isbn"
+        widget: "string"
+        hint: "Enter the ISBN numbers seperated by a comma"
+      - label: "Price"
+        name: "price"
+        widget: "string"
+        hint: "Enter the price here"
+      - label: "Extent, Size, etc"
+        name: "extent"
+        widget: "string"
+        hint: "Put in here the extent, diemnsions and anything else"
+      - label: "Layout"
+        name: "layout"
+        widget: "hidden"
+        default: "catalogue"
+
+  - name: "events"
+    label: "Events" # Used in the UI
+    label_singular: "Event"
+    description: "Add an event here"
+    folder: "_events/" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    delete: true
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    media_folder: "/uploads"
+    public_folder: "../uploads"
+    editor:
+      preview: false
+    fields: # The fields for each document, usually in front matter
+      - label: "Name of Event"
+        name: "event_name"
+        widget: "string"
+      - label: "Event Date"
+        name: "date"
+        widget: "datetime"
+      - label: "Event Image"
+        name: "event_image"
+        widget: "image"
+        required: false
+        hint: "Optional image to go with this event"
+      - label: "About this event"
+        name: "about_event"
+        widget: "markdown"
+        hint: "Add here all about this event (place, details etc)"
+      - label: "Layout"
+        name: "layout"
+        widget: "hidden"
+        default: "event"
 
   # uncomment out the following collection block if you want to use a home page rather than the blog on the home page. This needs to be done after you have changed the settings in the _config.yml file in the root of your project. DO NOT UNCOMMENT this paragraph!
 
