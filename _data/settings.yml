@@ -3,10 +3,10 @@ description: ""
 footer_text: Copyright 2021 Amalion
 header_feature_image: ../uploads/headerbackfull.jpg
 header_text: Amalion
-header_text_color: "#484040"
-bannerheight: 40vmax
+header_text_color: "#a60000"
+bannerheight: 10vmax
 logo: ../uploads/lionlogo.jpg
 favicon: ../uploads/favicon.ico
-gridlayout: false
+gridlayout: true
 fixednavbar: true
 upzoom: true
