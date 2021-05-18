@@ -50,16 +50,10 @@ collections:
         }
       - { label: "Caption", name: "caption", widget: "string", required: false }
       - {
-          label: "Blurb or Intro",
-          name: "blurb",
+          label: "Main Text",
+          name: "body",
           widget: "markdown",
-          hint: "You can type straight into this field and use the toolbar to select styles. You can also use markdown directly when you switch this off. In markdown mode, you can also add HTML. This will show on the news listing page.",
-        }
-      - {
-          label: "Longer Article",
-          name: "longer",
-          widget: "markdown",
-          hint: "Use this field to extend the article. This will be added to the above on it's own page.",
+          hint: "You can type straight into this field and use the toolbar to select styles. You can also use markdown directly when you switch this off. In markdown mode, you can also add HTML. Only the first paragraph will show on the news listing page.",
         }
 
   - name: "pages"
@@ -130,18 +124,14 @@ collections:
         widget: "image"
         required: false
         hint: "This image will appear to the right and will enlarge on click"
-      - label: "Introduction"
-        name: "introduction"
-        widget: "markdown"
-        hint: "This information will show in the catalogue listing. Add the further details in the next text box."
-      - label: "Further Details"
+      - label: "Main Text"
         name: "body"
         widget: "markdown"
-        hint: "Put here the text about this item including pictures. Remember the first paragraph will show on the cataloge listing page."
-      - label: "Author Details"
+        hint: "The first paragraph of this text will show in the catalogue listing unless you use the excerpt separator <!--more--> and then everything above this will show."
+      - label: "Author"
         name: "author"
-        widget: "markdown"
-        hint: "Put here the text about the author"
+        widget: "text"
+        hint: "Put here the name of the author"
       - label: "ISBN Numbers"
         name: "isbn"
         widget: "string"
