@@ -24,7 +24,7 @@
             </h1>
           </header>
           <div class="excerpt">
-              {{ post.excerpt | strip_html | escape }}
+              {{ post.blurb }}
           </div>
 
     </div>
@@ -57,7 +57,7 @@
             {% include post_info.html post=post %}
           </header>
           <div class="excerpt">
-              {{ post.excerpt }}
+              {{ post.blurb }}
           </div>
 
     </div>
