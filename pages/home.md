@@ -1,5 +1,5 @@
 ---
-title: order
+title: Order
 permalink: /order/
 layout: home
 header_feature_image: /uploads/tomatoes.jpg
