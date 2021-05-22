@@ -1,6 +1,6 @@
 ---
 title: Authors
-permalink: /authors
+permalink: /authors/
 date: 2021-05-22T17:42:22.182Z
 show: true
 layout: page
