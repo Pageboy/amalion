@@ -18,11 +18,11 @@ public_folder: "../uploads"
 collections:
   - name: "posts" # Used in routes, e.g., /admin/collections/blog
     label: "News" # Used in the UI
-    label_singular: "News Item"
+    label_singular: "Item"
     folder: "_posts/" # The path to the folder where the documents are stored
     editor:
       preview: false
-    description: "These are your existing news items. Click -New News Item- to create a new post."
+    description: "These are your existing news items. Click -New Item- to create a new post."
     create: true # Allow users to create new documents in this collection
     media_folder: "/uploads"
     public_folder: "../uploads"
@@ -33,33 +33,18 @@ collections:
       - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - {
-          label: "Featured Image",
-          name: "header_feature_image",
-          widget: "image",
-          required: false,
-          hint: "This image will appear at the top of your post in the listing but over the feature image on the article's page.",
-        }
-      - {
-          label: "Title text colour over the feature image",
-          name: "title_color",
-          widget: "color",
-          required: false,
-          default: "#ffffff",
-          hint: "The text is white by default, but you can change the colour to get more contrast against the image.",
-        }
       - { label: "Caption", name: "caption", widget: "string", required: false }
       - {
           label: "Main Text",
           name: "body",
           widget: "markdown",
-          hint: "You can type straight into this field and use the toolbar to select styles. You can also use markdown directly when you switch this off. In markdown mode, you can also add HTML. Only the first paragraph will show on the news listing page.",
+          hint: "You can type straight into this field and use the toolbar to select styles. You can also use markdown directly when you switch this off. In markdown mode, you can also add HTML. Only the first 50 words will show on the news listing page.",
         }
 
   - name: "pages"
     label: "Pages" # Used in the UI
     label_singular: "Page"
-    description: "These are seperate pages from the blog. Not date ordered, but simply available from the menu if you turn that setting on."
+    description: "These are separate pages not date ordered, but simply available from the menu if you turn that setting on."
     folder: "pages/" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     delete: false
@@ -127,7 +112,7 @@ collections:
       - label: "Main Text"
         name: "body"
         widget: "markdown"
-        hint: "The first paragraph of this text will show in the catalogue listing unless you use the excerpt separator <!--more--> and then everything above this will show."
+        hint: "The first 50 words of this text will show in the catalogue listing."
       - label: "Author"
         name: "author"
         widget: "text"
@@ -174,7 +159,7 @@ collections:
         required: false
         hint: "Optional image to go with this event"
       - label: "About this event"
-        name: "about_event"
+        name: "body"
         widget: "markdown"
         hint: "Add here all about this event (place, details etc)"
       - label: "Layout"
