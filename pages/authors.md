@@ -7,15 +7,15 @@ layout: page
 ---
 We are committed to publishing works of high quality and originality on Africa and its Diaspora for wider distribution on the continent and the world over. We cover monographs, textbooks, journals and literary writing and welcome contributions of proposals and completed manuscripts in various fields:
 
--   Art, Literature, Music and Culture Studies
--   Development Studies and International Relations
--   History and the science of history making
--   Language and Linguistics
--   Philosophy
--   Politics
--   Psychology
--   Religious Studies
--   Social Sciences
+-  Art, Literature, Music and Culture Studies
+-  Development Studies and International Relations
+-  History and the science of history making
+-  Language and Linguistics
+-  Philosophy
+-  Politics
+-  Psychology
+-  Religious Studies
+-  Social Sciences
 
 At Amalion we publish only what we like and can promote; currently, that is a very limited number of titles programmed each year. Kindly contact us beforehand to know more about our editorial policy before any submission of manuscripts.
 
