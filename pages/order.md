@@ -7,33 +7,33 @@ layout: page
 ---
 Information about titles published by Amalion Publishing can be found in various online and physical retail outlets around the world, including [www.amazon.com](http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=amalion+publishing&x=0&y=0), [www.barnesandnoble.com](http://www.barnesandnoble.com/), [www.adlibris.com](http://www.adlibris.com/), [www.centralbooks.com](https://www.centralbooks.com/publishers/ABAAMA/ "Central Books"), [www.fnac.com](https://www.fnac.com/SearchResult/ResultList.aspx?SCat=0%211&Search=amalion&sft=1&sa=0 "Fnac") and [www.jumia.sn](http://www.jumia.sn/) You can also order directly from or through the following partner distributors and outlets:
 
-**Africa**
+### Africa
 
 Amalion\
 133 Cité Assemblée, Ouakam, BP 5637 Dakar-Fann, 00004 Dakar, Senegal\
 Tel: +221 33860 19 04 • Fax: +221 33860 19 04 • orders(a)amalion.net
 
-**Benin**
+### Benin
 
 SONAEC\
 558 Avenue Clozel, GANHI, 01 BP 2042, Cotonou, Benin\
 Tel: +229 2131 22 42 • Fax: +229 2131 2058 • Email: sonaeclibs(a)yahoo.fr\
 http://www.sonaec.com
 
-**Ghana**
+### Ghana
 
 Vidya Bookstore\
 18th Lane Oxford Street, Osu Re, Accra, Ghana\
 Tel: +233 30 278 1005 Email: orders(a)vidyaboostore.com or vidyabookstore(a)gmail.com • [http://www.vidyabookstore.com](http://www.vidyabookstore.com/)
 
-**Niger**
+### Niger
 
 LIBRAIRIE LA FARANDOLE DES LIVRES\
 Rue du Sahel - Niamey Bas (NB) Quartier Terminus.\
 BP 11 582 NIAMEY (NIGER)\
 Tel: +227 90 07 45 15 - 96 97 98 58 Email: bintatini(a)yahoo.fr
 
-**Nigeria**
+### Nigeria
 
 Molofin Nominees\
 18 Lewis Street, Lagos Island, Lagos, Nigeria\
@@ -43,7 +43,7 @@ Terra Kulture\
 Plot 1376 Tiamiyu Savage Street, Victoria Island, Lagos, Nigeria\
 Tel: +234 1 2700588 • Fax: +234 1 2700599 • [http://www.terrakulture.com](http://www.terrakulture.com/)
 
-**Senegal**
+### Senegal
 
 Layu\
 Route de King Fahd, Immeuble 26, Almadies, Dakar, Senegal\
@@ -57,13 +57,13 @@ Librairie Clairafrique\
 Av Cheikh Anta Diop x Route de Université prolongée, Dakar, Senegal\
 Tel: +221 33864 4429 • Fax: +221 33864 58 54 • Email: clairafinde(a)arc.sn / clairaf(a)orange.sn
 
-**France, Belgium & Switzerland**
+### France, Belgium & Switzerland
 
 Pollen-Littéral Distribution\
 33 ZI du Bois Imbert, 85280 La Ferrière, France\
 Tél : +33 (0)2 51 98 33 44 • Dilicom : 301 241 037 0014 • [http://www.pollen-diffusion.com](https://www.pollen-difpop.com/ "Pollen")
 
-**United Kingdom and rest of the world**
+### United Kingdom and rest of the world
 
 Central Books\
 50 Freshwater Road, Chadwell Heath, London, RM8 1RX, United Kingdom\
