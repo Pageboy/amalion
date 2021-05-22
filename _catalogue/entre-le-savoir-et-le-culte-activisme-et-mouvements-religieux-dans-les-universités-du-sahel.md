@@ -4,9 +4,6 @@ title: "Entre le Savoir et le Culte: Activisme et mouvements religieux dans les
 order: 1
 date: 2021-05-22T12:08:52.961Z
 cover_image: ../uploads/EntreleSavoiretleCulte-web.jpg
-author: Mamadou Ballo, Mamadou Bodian, Mamadou Lamine Dembélé, Ladiba Gondeu,
-  Koudbi Désiré Kaboré, Abakar Walar Modou, Elemine Ould Mohamed Baba Moustapha,
-  Benjamin Soares*,* Magloire Somé, Abdoulaye Sounaye, Leonardo A. Villalón.
 isbn: 782359260908 PB, 9782359260915 E
 price: $35 • £30 • €35 • CFA15000
 extent: 234 mm x 156 mm, 224pp, 2020
