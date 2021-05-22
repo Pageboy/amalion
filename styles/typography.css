@@ -11,7 +11,7 @@ h4,
 h5,
 h6 {
   line-height: 1.3;
-  margin: 0.67em 0;
+  margin: 0.67em 0 0 0;
   font-family: "Roboto Slab", Georgia, serif;
 }
 
@@ -39,10 +39,12 @@ h1 a {
 
 h2 {
   font-size: 1.75em;
+  color: #fa7c03;
 }
 
 h3 {
   font-size: 1.5em;
+  color: #ad6118;
 }
 
 h4 {

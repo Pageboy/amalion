@@ -1,4 +1,4 @@
-/* Version 2 */
+/* Version 2.5 Amalion */
 /* wanna show some code */
 @import "highlighter.css";
 
@@ -109,7 +109,7 @@ h4 {
   }
 
   header#main h1 {
-        font-size: 1.8em;
+        font-size: 2.8em;
     }
 
     p {
@@ -330,6 +330,7 @@ footer a.button {
 header h1 {
     margin: 8px 0;
     line-height: 1.1;
+    font-size: 2.5rem;;
 }
 
 header {
@@ -456,7 +457,7 @@ header {
   /* font-size: 1.2em; */
   text-align: center;
   color: #FFF;
-  background: #337ab7 no-repeat;
+  background: #d30310 no-repeat;
   background-size: cover;
   background-position: center;
   /* background-origin: content-box; */

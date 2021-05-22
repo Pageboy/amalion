@@ -1,5 +1,4 @@
 ---
-header_feature_image: /uploads/log.jpg
 permalink: /about/
 layout: page
 published: true
