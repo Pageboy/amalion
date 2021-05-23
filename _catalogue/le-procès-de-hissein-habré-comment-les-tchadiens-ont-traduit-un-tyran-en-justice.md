@@ -1,17 +1,16 @@
 ---
+price: $27.95 • £21.95 • €24.95 • CFA12500
+extent: 216 mm x 140 mm, 224pp, 2020
+layout: catalogue
+author: test
 title: "Le procès de Hissein Habré: Comment les Tchadiens ont traduit un tyran
   en justice"
 order: 2
 date: 2021-05-22T13:46:35.969Z
-author: test
+cover_image: ../uploads/9782359260984-cov-web.jpg
 isbn: 9782359260984 PB,  9782359260991 E
-price: $27.95 • £21.95 • €24.95 • CFA12500
-extent: 216 mm x 140 mm, 224pp, 2020
-layout: catalogue
 ---
 ## Celeste Hicks
-
-![Le procès de Hissein Habré: Comment les Tchadiens ont traduit un tyran en justice](../uploads/9782359260984-cov-web.jpg "Le procès de Hissein Habré: Comment les Tchadiens ont traduit un tyran en justice")
 
 Le procès de Hissein Habré: Comment les Tchadiens ont traduit un tyran en justice
 
