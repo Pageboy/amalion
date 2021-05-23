@@ -75,6 +75,22 @@ h4 {
   margin-top: 6px;
 }
 
+/* for the catalogue pages */
+
+
+aside img {
+    display: block;
+    width:100%;
+    padding:0 0 1rem 1rem;
+}
+
+.post-content aside {
+float:right;
+width:30%;
+padding:0;
+}
+
+
 @media screen and (max-width: 768px) {
 
     body {
@@ -455,9 +471,9 @@ header {
   width: 100%;
   height: 100%;
   /* font-size: 1.2em; */
-  text-align: center;
-  color: #FFF;
-  background: #d30310 no-repeat;
+  text-align: left;
+  color: rgb(54, 54, 54);
+  background: #ffffff no-repeat;
   background-size: cover;
   background-position: center;
   /* background-origin: content-box; */
@@ -694,11 +710,15 @@ h3.tag-anchor i {
 }
 
 .site-header {
-background: #fff;
+background-image: url('/uploads/headerbackfull.jpg');
+color:#d15e2d;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: left;
 width: 100%;
 top:0;
 padding-right: 20px;
-height: 55px;
+height: 120px;
 z-index: 100;
 display: flex;
 justify-content: space-between;
@@ -730,7 +750,7 @@ align-items: center;
 
 .branding img.avatar {
   display: block;
-    max-height: 45px;
+    max-height: 120px;
     /* width: 50px; */
     margin: 0 0.5em;
     padding:0;
@@ -738,7 +758,8 @@ align-items: center;
 
 .site-header .site-title {
     font-weight: bold;
-    font-size: 1.3em
+    font-size: 2.3em;
+    color: red;
 }
 
 .site-header nav {
@@ -1377,8 +1398,8 @@ a.word {
 #main {
 
   display:flex;
-  justify-content: center;
-  flex-wrap: nowrap;
-  flex-direction: column;
-  align-items: center;
+  justify-content: left;
+  flex-wrap: wrap;
+  flex-direction:row;
+  align-items: left;
 }

@@ -109,6 +109,11 @@ collections:
         widget: "image"
         required: false
         hint: "This image will appear to the right and will enlarge on click"
+      - label: "Caption"
+        name: "caption"
+        widget: "string"
+        required: false
+        hint: "If you don't put this in then the title of this book will appear with the image."
       - label: "Main Text"
         name: "body"
         widget: "markdown"
