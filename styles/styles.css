@@ -795,7 +795,7 @@ align-items: center;
 }
 
 .clear {
-    * zoom: 1
+    * zoom: 1;
 }
 
 .clear:after {
