@@ -1,17 +1,12 @@
 ---
-<<<<<<< HEAD
 permalink: /about/
 layout: page
 published: true
-=======
-header_feature_image: /uploads/log.jpg
->>>>>>> 2f6b4076d56d6d78d84d2b50f7db45bf01aee898
 title: About us
 subtitle: ""
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
 layout: page
-published: true
 tags: null
 description: null
 show: true
