@@ -7,7 +7,7 @@ layout: default
   </header>
   <section class="post-content">
     {% if page.cover_image %}
-    <aside class="cover"><img src="{{ page.cover_image| replace: '../uploads', '/uploads' }}" alt="" /></aside>
+    <img src="{{ page.cover_image| replace: '../uploads', '/uploads' }}" alt="{{ page.title }}" />
     {% endif %}
     <section class="details">
       {{ content | replace: "../uploads", "/uploads" }}
