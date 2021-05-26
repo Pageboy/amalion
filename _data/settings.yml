@@ -1,11 +1,16 @@
+header_feature_image: ""
 title: Amalion Publishing
 description: ""
 footer_text: Copyright 2021 Amalion
-header_feature_image: ""
-header_text: Amalion
-header_text_color: "#a60000"
-bannerheight: 10vmax
 logo: ../uploads/lionlogo.jpg
 favicon: ../uploads/favicon.ico
 gridlayout: true
+items:
+  - name: News
+    siteurl: /news/
+  - name: Catalogue
+    siteurl: /catalogue/
+header_text_color: "#a60000"
 fixednavbar: true
+bannerheight: 10vmax
+header_text: Amalion
