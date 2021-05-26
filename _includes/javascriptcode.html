@@ -17,10 +17,10 @@
 
 
 
-<!-- add a link to the image itself -->
+<!-- add a link to the image itself and wrap in figure and add caption from alt -->
 <script>
 
-<!-- add a link to the image itself and wrap in figure and add caption from alt-->
+
 $(document).ready(function() {
   $('.post-content img').each(function ()
   {
@@ -42,6 +42,6 @@ $(document).ready(function() {
 <script>
   if (localStorage.getItem("netlify-cms-user") != '') {
   var theuser = JSON.parse(localStorage.getItem("netlify-cms-user")).name;
-  $("#user").html("<a class='editlink' title='With permission through GitHub' href='/admin/#/collections/posts/entries{{ page.path | remove: ".md" | remove: "_posts" }}'>" + "edit this page" + "</a>");
+  $("#user").html("<a class='editlink' title='With permission through GitHub' href='/admin/#/collections/posts/entries{{ page.path | remove: '.md' | remove: '_posts' }}'>" + "edit this page" + "</a>");
 }
 </script>

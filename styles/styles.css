@@ -272,7 +272,7 @@ hr {
 }
 
 a {
-  color: #337ab7;
+  color: #d15e2d;
   text-decoration: none;
 }
 
@@ -843,7 +843,7 @@ h3.tag-anchor i {
 
 .branding img.avatar {
   display: block;
-  max-height: 120px;
+  max-height: 119px;
   /* width: 50px; */
   margin: 0 0.5em;
   padding: 0;
@@ -883,7 +883,7 @@ h3.tag-anchor i {
 }
 
 .site-header nav a:hover {
-  color: #337ab7;
+  color: #b30838;
 }
 
 .site-header nav a#pull i {

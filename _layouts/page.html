@@ -2,8 +2,8 @@
 layout: default
 ---
 
-<article id="page-content" {%- if page.header_feature_image > "" -%}class="feature-image"{% endif %}>
-  <header id="main">
+<article id="page-content">
+  <header id="main" class="{{ page.title | escape }}">
       <h1 id="{{ page.title | escape }}" class="title">{{ page.title }}</h1>
     {%- if page.subtitle -%}
     <h2 class="subtitle">{{ page.subtitle }}</h2>
