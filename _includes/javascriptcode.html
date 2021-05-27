@@ -39,9 +39,22 @@ $(document).ready(function() {
 
 
 <!-- now follows the javascript to show that a post can be edited -->
-<script>
+<!-- <script>
   if (localStorage.getItem("netlify-cms-user") != '') {
   var theuser = JSON.parse(localStorage.getItem("netlify-cms-user")).name;
   $("#user").html("<a class='editlink' title='With permission through GitHub' href='/admin/#/collections/posts/entries{{ page.path | remove: '.md' | remove: '_posts' }}'>" + "edit this page" + "</a>");
 }
+</script> -->
+
+<script>
+  {% if page.layout = "catalogue" %}
+  if (localStorage.getItem("netlify-cms-user") != '') {
+  var theuser = JSON.parse(localStorage.getItem("netlify-cms-user")).name;
+  $("#user").html("<a class='editlink' title='With permission through GitHub' href='/admin/#/collections/catalogue/entries{{ page.path | remove: '.md' | remove: '_catalogue' }}'>" + "edit this page" + "</a>");
+}
+{% endif %}
 </script>
+
+
+<!-- 
+admin/#/collections/catalogue/entries/entre-le-savoir-et-le-culte-activisme-et-mouvements-religieux-dans-les-universités-du-sahel -->
