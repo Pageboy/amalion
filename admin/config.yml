@@ -71,7 +71,7 @@ collections:
           default: false,
           hint: "If this is switched on, the link will show on the menubar to the right.",
         }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Body", name: "body", widget: "markdown", required: false }
 
       - label: "Layout"
         name: "layout"

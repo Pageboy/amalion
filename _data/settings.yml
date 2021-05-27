@@ -6,7 +6,6 @@ logo: ../uploads/lionlogo.jpg
 favicon: ../uploads/favicon.ico
 gridlayout: true
 items: []
-header_text_color: "#a60000"
 fixednavbar: true
 bannerheight: 10vmax
 header_text: Amalion
