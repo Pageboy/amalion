@@ -6,13 +6,16 @@
         <span>
           <header>
             <h1>
-              <a aria-label="{{ homepageitem.title }}" class="post-link" href="{{ homepageitem.url | relative_url }}">
+              <a aria-label="{{ atalogue.title }}" class="post-link" href="{{ catalogue.url | relative_url }}">
                 {{ catalogue.title }}
               </a>
             </h1>
           </header>
           <div class="excerpt">
-              {{ catalogue.excerpt }}
+              {{ catalogue.content | markdownify | truncatewords: 50 }}
+              <a aria-label="{{ post.title }}" class="post-link" href="{{ catalogue.url | relative_url }}">
+                <p>Read more</p>
+              </a>
           </div>
       </span>
     </div>

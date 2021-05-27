@@ -124,7 +124,7 @@ collections:
       - label: "Main Text"
         name: "body"
         widget: "markdown"
-        hint: "You can type straight into this field and use the toolbar to select styles. You can also use markdown directly when you switch this off. In markdown mode, you can also add HTML. Only the first 50 words will show on the news listing page.",
+        hint: "You can type straight into this field and use the toolbar to select styles. You can also use markdown directly when you switch this off. In markdown mode, you can also add HTML. Only the first 50 words will show on the news listing page."
       - label: "ISBN Numbers"
         name: "isbn"
         widget: "string"
