@@ -2,14 +2,13 @@
 title: "Rhythms of Dignity: Poems"
 order: 1
 date: 2021-05-22T17:31:00.549Z
+cover_image: ../uploads/9782359261004-cov.jpg
 isbn: 9782359261004 PB,  9782359261011 E
 price: $18.95 • £15.95 • €15.95 • CFA7500
 extent: 216 x 140mm, 136pp, 2020
 layout: catalogue_item
 ---
 ## Akwasi Aido
-
-![Rhythms of Dignity: Poems](../uploads/9782359261004-cov.jpg "Rhythms of Dignity: Poems")
 
 “Akwasi Aidoo’s *Rhythms of Dignity* is a remarkable, bold first collection. There is a rich diversity in range of form, expressiveness, experience, and passion. Reading through this work is a journey through the undercurrents of experience that reflect on living through the charged realities of the ‘post-colonial’ decades of our modern African not only with an intimate Pan-African awareness of history but also with a poignant sensibility of brotherhood, sisterhood and belonging. Clearly evocative of the age the poet has lived through, these poems have both a sharp clear eye on history, and an abiding tender trust in human relationships.” – **Abena P.A. Busia,** professor of literature, poet, and Ghanaian ambassador to Brazil.
 
