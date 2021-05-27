@@ -81,6 +81,7 @@ collections:
           - { label: "Standard Page", value: "page" }
           - { label: "Catalogue", value: "catalogue" }
           - { label: "Events", value: "events" }
+          - { label: "News", value: "news" }
         default: "page"
 
   - name: "catalogue"
