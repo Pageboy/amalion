@@ -9,7 +9,7 @@ price: $35 • £30 • €35 • CFA15000
 extent: 234 mm x 156 mm, 224pp, 2020
 layout: catalogue_item
 ---
-**Préface par Benjamin Soares**
+## Préface par Benjamin Soares
 
 *Entre le Savoir et le Culte* présente des études et documents originaux qui mettent à jour l’évolution de l’islam et du christianisme parmi les étudiants d’universités des pays du Sahel. Il révèle les fissures et les conflits entre les groupes, et analyse leurs modes oraux, écrits et vestimentaires d’affichage et de performance. Cet ouvrage apporte ainsi un puissant éclairage sur l’emprise du religieux sur l’élite en formation, et examine les deux interrogations qui alimentent l’activisme religieux universitaire : la signification de la revendication d’une identité musulmane ou chrétienne, et comment celle-ci façonne la modernité des deux religions et vice-versa. A lire pour comprendre le dynamisme des terribles crises qui amènent la région sahélienne à se tourner sur elle-même.
 
