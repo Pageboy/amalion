@@ -7,7 +7,7 @@ cover_image: ../uploads/EntreleSavoiretleCulte-web.jpg
 isbn: 782359260908 PB, 9782359260915 E
 price: $35 • £30 • €35 • CFA15000
 extent: 234 mm x 156 mm, 224pp, 2020
-layout: catalogue
+layout: catalogue_item
 ---
 **Préface par Benjamin Soares**
 
