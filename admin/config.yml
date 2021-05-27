@@ -72,9 +72,15 @@ collections:
           hint: "If this is switched on, the link will show on the menubar to the right.",
         }
       - { label: "Body", name: "body", widget: "markdown" }
+
       - label: "Layout"
         name: "layout"
-        widget: "hidden"
+        widget: "select"
+        hint: "You don't normally need to change this."
+        options:
+          - { label: "Standard Page", value: "page" }
+          - { label: "Catalogue", value: "catalogue" }
+          - { label: "Events", value: "events" }
         default: "page"
 
   - name: "catalogue"
@@ -133,7 +139,7 @@ collections:
       - label: "Layout"
         name: "layout"
         widget: "hidden"
-        default: "catalogue"
+        default: "catalogue_item"
 
   - name: "events"
     label: "Events" # Used in the UI

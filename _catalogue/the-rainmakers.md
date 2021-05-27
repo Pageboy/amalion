@@ -6,7 +6,7 @@ author: ff
 isbn: 9782359261028 PB  9782359261035 E
 price: $14.95 • £12.95 • €15.50 • CFA7500
 extent: 207 x 123 mm, 132 pp, 2020
-layout: catalogue
+layout: catalogue_item
 ---
 ## Paul Kisakye
 
