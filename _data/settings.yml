@@ -3,9 +3,11 @@ title: Amalion Publishing
 description: ""
 footer_text: Copyright 2021 Amalion
 logo: ../uploads/lionlogo.jpg
-favicon: ../uploads/favicon.ico
 gridlayout: true
-items: []
 fixednavbar: true
+items:
+  - name: News
+    siteurl: /news/
 bannerheight: 10vmax
+favicon: ../uploads/favicon.ico
 header_text: Amalion
