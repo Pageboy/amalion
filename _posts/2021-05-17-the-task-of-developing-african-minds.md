@@ -2,7 +2,7 @@
 layout: post
 title: The Task of Developing African Minds
 date: 2019-07-26T13:42:54.241Z
-title_color: "#ffffff"
+category: "news"
 ---
 Created by a publisher in Senegal and an author based in Niger, the Sarraounia Prize is accepting manuscripts for young adult readers.
 
