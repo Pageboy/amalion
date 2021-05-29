@@ -17,11 +17,7 @@
 {%- else -%}
 <meta name="twitter:title" content="{{site.data.settings.title}}">
 {%- endif -%}
-{%- if page.excerpt != null -%}
-<meta name="twitter:description" content="{{page.excerpt | strip_html}}">
-{%- else -%}
-<meta name="twitter:description" content="{{site.data.settings.description}}">
-{%- endif -%}
+<meta name="twitter:description" content="{{post.content | markdownify | strip_html | truncatewords: 50}}">
 {%- if page.header_feature_image != null -%}
 <meta name="twitter:image" content="{{site.url}}{{page.header_feature_image | replace: "..", "" }}">
 {%- else -%}

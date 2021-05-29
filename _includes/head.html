@@ -6,20 +6,6 @@
     {%- include typography.html -%}
     {%- include stylesheets.html -%}
 
-<!-- add banner height from the config settings -->
-
-    <style>
-      .home #main {
-        height:{{ site.data.settings.bannerheight }};
-      }
-
-      @media screen and (max-width: 450px) {
-
-        .home #main {
-          height:20vmin;
-        }
-      }
-    </style>
 
     <link rel="shortcut icon" href="{{ site.data.settings.favicon | relative_url }}" type="image/x-icon">
     <link rel="icon" href="{{ site.data.settings.favicon | relative_url }}" type="image/x-icon">
