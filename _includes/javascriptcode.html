@@ -47,7 +47,7 @@ $(document).ready(function() {
 </script> -->
 
 <script>
-  {% if page.layout = "catalogue" %}
+  {% if page.layout == catalogue %}
   if (localStorage.getItem("netlify-cms-user") != '') {
   var theuser = JSON.parse(localStorage.getItem("netlify-cms-user")).name;
   $("#user").html("<a class='editlink' title='With permission through GitHub' href='/admin/#/collections/catalogue/entries{{ page.path | remove: '.md' | remove: '_catalogue' }}'>" + "edit this page" + "</a>");
@@ -55,6 +55,3 @@ $(document).ready(function() {
 {% endif %}
 </script>
 
-
-<!-- 
-admin/#/collections/catalogue/entries/entre-le-savoir-et-le-culte-activisme-et-mouvements-religieux-dans-les-universités-du-sahel -->
