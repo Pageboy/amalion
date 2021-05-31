@@ -3,7 +3,7 @@ layout: post
 title: The Rainmakers by Paul Kisakye wins Sarraounia Prize for Young Adult
   Fiction 2020
 date: 2020-10-01T13:31:40.607Z
-title_color: "#ffffff"
+category: "news"
 ---
 We are proud to announce that *The Rainmakers* by **Paul Kisakye** is the
 winner of the inaugural edition of the **Sarraounia Prize for Young Adult

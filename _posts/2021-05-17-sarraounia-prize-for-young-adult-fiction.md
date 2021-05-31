@@ -2,7 +2,7 @@
 layout: post
 title: Sarraounia Prize for Young Adult Fiction
 date: 2021-05-17T13:44:42.728Z
-title_color: "#ffffff"
+category: "news"
 ---
 The **[Arts & Culture programme at Abdou Moumouni University](https://www.facebook.com/La-fili%C3%A8re-Arts-et-CultureUAM-2261231903951300/?notify_field=blurb&modal=profile_completion "Arts & Culture programme")** in Niger and the publishing house **Amalion** in Senegal are pleased to announce the call for entries for the **[Sarraounia Prize for Young Adult Fiction](http://www.sarraounia.com/ "Sarraouni Prize for Young Adult Fiction")** to contribute to the availability of reading material for African young adults and to promote literature to help better understand the world of African youths. Every two years, the Sarraounia Prize will be awarded to the best unpublished fiction for young adults written by African authors and illustrators based in Africa.
 

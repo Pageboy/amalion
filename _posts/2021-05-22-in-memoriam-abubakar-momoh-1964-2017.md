@@ -2,6 +2,7 @@
 layout: post
 title: "In Memoriam: Abubakar Momoh (1964-2017)"
 date: 2017-06-07T11:17:52.017Z
+category: "news"
 ---
 We are deeply saddened that Abubakar Momoh, a friend, mentor and staunch Amalion supporter, has died. Momoh passed away suddenly on May 29, 2017.
 

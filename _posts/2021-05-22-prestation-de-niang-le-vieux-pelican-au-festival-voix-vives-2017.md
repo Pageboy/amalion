@@ -3,6 +3,7 @@ layout: post
 title: "Festival de poésie Voix Vives 2017: La voix d’Ibrahima Amadou Niang en
   Méditerranée"
 date: 2017-08-30T11:05:43.256Z
+category: "news"
 ---
 ![Prestation de Niang, Le Vieux Pelican au Festival Voix Vives 2017](../uploads/Voixvives_Niang_Le-Vieux-Pelican.jpg "Prestation de Niang, Le Vieux Pelican au Festival Voix Vives 2017")
 

@@ -2,7 +2,7 @@
 layout: post
 title: Le Niger instaure le premier Prix Sarraounia de la Fiction Jeune Adulte
 date: 2019-07-31T13:39:24.441Z
-title_color: "#ffffff"
+category: "news"
 ---
 Heulard Mégane - [ActuaLitté ](https://www.actualitte.com/article/culture-arts-lettres/le-niger-instaure-le-premier-prix-sarraounia-de-la-fiction-jeune-adulte/95943)22.07.2019
 

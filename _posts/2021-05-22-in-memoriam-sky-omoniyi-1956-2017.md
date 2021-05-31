@@ -2,6 +2,7 @@
 layout: post
 title: "In Memoriam: Sky Omoniyi (1956-2017"
 date: 2017-05-30T12:05:51.094Z
+category: "news"
 ---
 ![Tope Omoniyi (1956-2017)](../uploads/tope-omoniyi.jpg "Tope Omoniyi (1956-2017)")
 

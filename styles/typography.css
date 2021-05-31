@@ -37,6 +37,7 @@ h1 a {
   font-size: 2.8rem;
   line-height: 0.9;
   margin-left: 0.8rem;
+  margin-right: 0.6rem;
 }
 
 h2 {
@@ -89,6 +90,12 @@ blockquote {
 
 /* when the screen gets small the fonts then change size. There are 2 steps here. You can leave this alone*/
 
+@media screen and (max-width: 900px) {
+  .site-header .site-title {
+    font-size: 2.1rem;
+  }
+}
+
 @media screen and (max-width: 768px) {
   body {
     font-size: 1.1em;
@@ -103,7 +110,11 @@ blockquote {
   }
 
   header#main h1 {
-    font-size: 2.1em;
+    font-size: 1.9em;
+  }
+
+  .site-header .site-title {
+    font-size: 2.5rem;
   }
 
   p {
@@ -127,4 +138,16 @@ blockquote {
   p {
     font-size: 1.3em;
   }
+}
+
+nav li {
+  padding: 3px;
+}
+
+li.active {
+  background-color: #fa7c03;
+}
+
+.active a {
+  color: white !important;
 }
