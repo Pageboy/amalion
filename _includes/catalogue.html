@@ -1,7 +1,7 @@
 <div class="posts">
 
   {%- assign items = site.catalogue | sort: 'title' -%}
-    {%- for catalogue in items limit:30 -%}
+    {%- for catalogue in items limit:{{include.range}} -%}
     <div class="post-teaser">
         <span>
           <header>

@@ -4,12 +4,18 @@ layout: default
 
 <div class="home">
 <article class="page-content">
-
+<!-- this would be an introduction if added to the home page -->
   <section class="post-content">
 	{{ content }}
   </section>
 
 </article>
-{%- include homepageitems.html -%}
+
+<!-- now we need 2 blocks - one for the recent catalogue entries and one for the latest news -->
+
+{%- include catalogue.html range="3" -%}
+
+{{ site.posts.first }}
+{%- include newslisting.html newsrange="3" -%}
 
 </div>

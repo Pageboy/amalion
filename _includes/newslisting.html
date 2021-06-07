@@ -20,8 +20,7 @@
     </div>
     {% endif %}
     {% endfor %}
-
-    {%- for post in paginator.posts | sort: "date" -%}
+    {%- for post in paginator.posts | sort: "date" | limit:{{include.newsrange}} -%}
     {%- unless post.pinned -%}
     <div class="post-teaser">
         {%- if post.header_feature_image > "" -%}
