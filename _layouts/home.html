@@ -2,20 +2,23 @@
 layout: default
 ---
 
-<div class="home">
-<article class="page-content">
-<!-- this would be an introduction if added to the home page -->
+<main class="home">
+<!-- <article class="page-content">
   <section class="post-content">
 	{{ content }}
   </section>
-
-</article>
-
-<!-- now we need 2 blocks - one for the recent catalogue entries and one for the latest news -->
-
-{%- include catalogue.html range="3" -%}
-
-{{ site.posts.first }}
-{%- include newslisting.html newsrange="3" -%}
-
+</article> -->
+  <!-- now we need 2 blocks - one for the recent catalogue entries and one for the latest news -->
+<div class="homepage">
+  
+  <section class="latestcatalogue">
+    <h2 class="heading">Recent additions to our catalogue</h2>
+    {%- include catalogue.html range="6" -%}
+  </section>
+  
+  <section class="latestnews">
+    <h2 class="heading">Some recent news</h2>
+    {%- include newslisting.html newsrange="3" -%}
+  </section>
 </div>
+</main>

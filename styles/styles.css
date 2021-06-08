@@ -1514,3 +1514,54 @@ a.word {
   flex-direction: row;
   align-items: left;
 }
+
+/* home page latests */
+/* remove the images from the news excerpt */
+
+.homepage {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  width: 100%;
+  /* margin: 0 auto; */
+  /* background-color: yellow; */
+}
+
+.latestcatalogue {
+  /* background-color: silver; */
+  /* display: flex; */
+  flex-basis: 75%;
+  flex-grow: 2;
+  flex-direction: row;
+}
+
+.latestcatalogue .heading,
+.latestnews .heading {
+  font-size: 1.4rem !important;
+  width: 100%;
+  margin: 0;
+  text-align: center;
+  padding: 1rem;
+}
+
+.latestcatalogue .heading {
+  background-color: rgb(255, 153, 0);
+  color: white !important;
+}
+
+.latestnews .heading {
+  background-color: rgb(167, 101, 3);
+  color: white !important;
+}
+
+.latestnews {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 25%;
+  background-color: rgb(255, 248, 218);
+  border-left: 1px solid rgb(216, 216, 216);
+}
+
+.newsitem img {
+  display: none;
+}

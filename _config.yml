@@ -1,12 +1,12 @@
 # SITE CONFIGURATION
-baseurl: ''  #leave this alone
-url: "https://amalion.netlify.app"   #change this to yours
+baseurl: "" #leave this alone
+url: "https://amalion.netlify.app" #change this to yours
 repository: pageboy/amalion
 # twitter_username: pageboy  #change to your own twitter account
 lang: en_gb
 timezone: UTC
 
-rss: false  # Make sure you created a feed.xml with feed.xml layout
+rss: false # Make sure you created a feed.xml with feed.xml layout
 # excerpt_separator: <!--above-here-is-displayed-on-home-page-->
 
 # Scripts / Features
@@ -34,9 +34,9 @@ paginate: 8
 
 # collections
 collections:
-  homepageitems:
+  news:
     output: true
-    layout: page
+    layout: post
   events:
     output: true
     layout: events
@@ -53,7 +53,7 @@ kramdown:
   # span, block element options fall back to global
   syntax_highlighter_opts:
     # Rouge Options › https://github.com/jneen/rouge#full-options
-    css_class: 'codehilite'
+    css_class: "codehilite"
     # span:
     #   line_numbers: false
     block:
@@ -67,7 +67,7 @@ github: [metadata]
 # if you want the blog to be below the home page through a link  - comment out the following line and then remove the hashes from the next 2 lines. In other words you want to include the blog/index and exclude the index on the home page.
 # exclude: ["blog/index.html"]
 paginate_path: "news/page:num"
-exclude: ["index.html"]
+# exclude: ["index.html"]
 
 # Note you will then want to add the blog to the menubar through the CMS
 # You should also UNCOMMENT the homepageitems section in the config.yml file inside the the admin folder

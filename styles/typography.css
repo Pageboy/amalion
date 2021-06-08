@@ -1,7 +1,24 @@
+html {
+  font-size: 16px;
+}
+
 body {
   color: #262626;
   font-family: "Source Sans Pro", "Trebuchet MS", Helvetica, Arial, sans-serif;
-  font-size: 1.25em;
+  font-size: 1.25rem;
+}
+
+.site-header .site-title {
+  font-size: 2.8rem;
+  line-height: 0.9;
+  margin-left: 0.8rem;
+  margin-right: 0.6rem;
+}
+
+header h1 {
+  margin: 8px 0;
+  line-height: 1.1;
+  font-size: 2.5rem;
 }
 
 h1,
@@ -31,13 +48,6 @@ h1 a {
 .home #main h1 {
   font-size: 3em;
   line-height: 1;
-}
-
-.site-header .site-title {
-  font-size: 2.8rem;
-  line-height: 0.9;
-  margin-left: 0.8rem;
-  margin-right: 0.6rem;
 }
 
 h2 {
@@ -150,4 +160,32 @@ li.active {
 
 .active a {
   color: white !important;
+}
+
+/* on the home page */
+
+body#home .posts header h1 {
+  font-size: 1.5rem;
+}
+
+#home h1 a {
+  font-size: 1em;
+}
+
+#home h1 {
+  line-height: 1;
+}
+
+#home h2 {
+  font-size: 1em;
+  color: #fa7c03;
+}
+
+#home h3 {
+  font-size: 0.8em;
+  color: #ad6118;
+}
+
+#home h4 {
+  font-size: 0.5em;
 }
