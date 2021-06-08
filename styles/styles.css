@@ -756,10 +756,14 @@ h3.tag-anchor i {
 
 .site-footer {
   display: inline-block;
-  text-align: center;
+  text-align: left;
   width: 100%;
   color: #636363;
   font-size: 0.9em;
+  padding: 1rem;
+  border-top: 1px solid rgb(221, 220, 220);
+  background-color: #feeecd;
+  color: #cf4509;
 }
 
 .site-footer .footer-icons ul {
@@ -885,7 +889,7 @@ h3.tag-anchor i {
 }
 
 .site-header nav a:hover {
-  color: rgb(250, 150, 167);
+  color: rgb(194, 17, 17);
 }
 
 .site-header nav a#pull i {
@@ -1542,6 +1546,13 @@ a.word {
   margin: 0;
   text-align: center;
   padding: 1rem;
+}
+@media screen and (max-width: 1024px) {
+  .latestcatalogue .heading,
+  .latestnews .heading {
+    font-size: 1rem !important;
+    padding: 0.7rem;
+  }
 }
 
 .latestcatalogue .heading {

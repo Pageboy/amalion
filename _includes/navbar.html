@@ -24,6 +24,9 @@
 
     <!-- Menu -->
     <ul class="hide">
+      <li {% if page.url == "/" %} class="active"{% endif %}>
+        <a class="clear" aria-label="Home" title="Home" href="/">Home</a>
+    </li>
 			{%- for item in site.data.settings.items -%}
 			{%- unless item.name == null or item.siteurl ==  null -%}
         <li {% if page.url contains item.siteurl %} class="active"{% endif %}>
@@ -34,7 +37,7 @@
 				{%- endunless -%}
 			{%- endfor -%}
         {%- assign name_page = "" -%}
-        {%- for name_page in site.pages -%}
+        {%- for name_page in site.pages | sort: 'title' -%}
             {%- unless name_page.title == null or name_page.show == false -%}
             <li {% if page.url contains name_page.url %} class="active" {% endif %}>
                 <a class="clear" aria-label="{{ name_page.title }}" title="{{ name_page.title }}" href="{{ name_page.url | relative_url }}">

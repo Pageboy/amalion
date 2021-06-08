@@ -43,13 +43,12 @@
 .home .post-teaser,
 .news .post-teaser,
 .catalogue .post-teaser {
-  flex-basis: 370px;
   padding: 0 8px !important;
   margin: 10px;
   border: 1px solid silver;
   -webkit-box-flex: 1;
   -ms-flex: auto;
-  flex: 0 0 1;
+  flex: 1 1 370px;
   max-width: 850px;
   min-width: 180px;
 }
