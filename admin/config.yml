@@ -16,10 +16,10 @@ media_folder: "uploads" # Media files will be stored in the repo under /uploads
 public_folder: "../uploads"
 
 collections:
-  - name: "posts" # Used in routes, e.g., /admin/collections/blog
+  - name: "news" # Used in routes, e.g., /admin/collections/blog
     label: "News" # Used in the UI
     label_singular: "Item"
-    folder: "_posts/" # The path to the folder where the documents are stored
+    folder: "_news/" # The path to the folder where the documents are stored
     editor:
       preview: false
     description: "These are your existing news items. Click -New Item- to create a new post."
