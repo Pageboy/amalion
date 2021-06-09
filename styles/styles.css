@@ -24,7 +24,7 @@ figure {
 }
 
 body {
-  margin: 0;
+  margin: 0 0 65px 0;
 }
 
 article,
@@ -765,6 +765,9 @@ h3.tag-anchor i {
   border-top: 1px solid rgb(221, 220, 220);
   background-color: #feeecd;
   color: #cf4509;
+  position: fixed;
+  bottom: 0;
+  height: 65px; /* set a bottom margin on the body same amount */
 }
 
 .site-footer .footer-icons ul {
@@ -1581,4 +1584,11 @@ a.word {
 
 .newsitem img {
   display: none;
+}
+
+.thumb {
+  max-width: 120px;
+  padding: 0;
+  float: right;
+  margin-left: 1rem;
 }

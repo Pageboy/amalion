@@ -30,7 +30,7 @@ str_javascript_required_disqus: "Please enable JavaScript to view comments."
 post_navigation: true
 
 # PAGINATION
-paginate: 8
+# paginate: 3
 
 # collections
 collections:
@@ -61,13 +61,11 @@ kramdown:
       start_line: 1
 excerpt_separator: <!--more-->
 permalink: pretty
-plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
+plugins: [jekyll-seo-tag, jekyll-sitemap]
 exclude: [".jekyll-cache", "Gemfile", "README.md"]
 github: [metadata]
 # if you want the blog to be below the home page through a link  - comment out the following line and then remove the hashes from the next 2 lines. In other words you want to include the blog/index and exclude the index on the home page.
 # exclude: ["blog/index.html"]
-paginate_path: "news/page:num"
+# paginate_path: "news/page:num"
 # exclude: ["index.html"]
 
-# Note you will then want to add the blog to the menubar through the CMS
-# You should also UNCOMMENT the homepageitems section in the config.yml file inside the the admin folder

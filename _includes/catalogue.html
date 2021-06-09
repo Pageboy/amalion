@@ -6,12 +6,15 @@
         <span>
           <header>
             <h1>
-              <a aria-label="{{ atalogue.title }}" class="post-link" href="{{ catalogue.url | relative_url }}">
+              <a aria-label="{{ catalogue.title }}" class="post-link" href="{{ catalogue.url | relative_url }}">
                 {{ catalogue.title }}
               </a>
             </h1>
           </header>
           <div class="excerpt">
+              {% if catalogue.cover_image %}
+                <img class="thumb" src="{{ catalogue.cover_image| replace: '../uploads', '/uploads' }}" alt="{{ catalogue.title }}" />
+              {% endif %}
               {{ catalogue.content | markdownify | truncatewords: 50 }}
               <a aria-label="{{ post.title }}" class="post-link" href="{{ catalogue.url | relative_url }}">
                 <p>Read more</p>

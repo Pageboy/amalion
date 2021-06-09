@@ -1,0 +1,28 @@
+<div class="posts">
+
+  {%- assign items = site.news | sort: 'date' -%}
+    {%- for news in items limit:{{include.newsrange}} -%}
+    <div class="post-teaser">
+        <span>
+          <header>
+            <h1>
+              <a aria-label="{{ news.title }}" class="post-link" href="{{ news.url | relative_url }}">
+                {{ news.title }}
+              </a>
+            </h1>
+            <div class="post-info">
+              <p class="meta">
+                {{ news.date | date: "%B %-d, %Y" }}
+              </p>
+          </div>
+          </header>
+          <div class="excerpt newsitem">
+              {{ news.content | markdownify | truncatewords: 50 }}
+              <a aria-label="{{ news.title }}" class="post-link" href="{{ news.url | relative_url }}">
+                <p>Read more</p>
+              </a>
+          </div>
+      </span>
+    </div>
+    {% endfor %}
+</div>
