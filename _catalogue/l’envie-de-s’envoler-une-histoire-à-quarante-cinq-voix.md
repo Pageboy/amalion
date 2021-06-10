@@ -2,6 +2,7 @@
 title: "L’envie de s’envoler: Une histoire à quarante-cinq voix"
 order: 1
 date: 2020-01-01T20:00:26.083Z
+cover_image: ../uploads/Envoler-9782359260885-cov-front.jpg
 isbn: 9782359260885 PB,  9782359260892 E
 price: $16.95 • £12.95 • €15.50 • CFA7500
 extent: 203 mm x 127 mm, 114pp
