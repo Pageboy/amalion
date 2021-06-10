@@ -1534,7 +1534,7 @@ a.word {
 .homepage {
   display: flex;
   flex-direction: row;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
   width: 100%;
   /* margin: 0 auto; */
   /* background-color: yellow; */
@@ -1577,9 +1577,9 @@ a.word {
 .latestnews {
   display: flex;
   flex-direction: column;
-  flex-basis: 25%;
   background-color: rgb(255, 248, 218);
   border-left: 1px solid rgb(216, 216, 216);
+  flex: 1 1 25%;
 }
 
 .newsitem img {
