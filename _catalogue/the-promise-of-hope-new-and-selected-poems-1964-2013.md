@@ -1,7 +1,7 @@
 ---
 title: "The Promise of Hope: New and Selected Poems, 1964-2013"
 order: 1
-date: 2021-06-11T17:23:52.665Z
+date: 2014-03-01T18:23:52.665Z
 cover_image: ../uploads/Awoonor.jpg
 isbn: 978-2-35926-030-4
 price: £14.95, $19.95, 16.50, CFA12000
