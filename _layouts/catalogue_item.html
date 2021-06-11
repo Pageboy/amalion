@@ -11,6 +11,15 @@ layout: default
     {% endif %}
     <section class="details">
       {{ content | replace: "../uploads", "/uploads" }}
+      {% if page.isbn %}
+      <p>ISBNs: {{ page.isbn }}</p>
+      {% endif %}
+      {% if page.extent %}
+      <p>Extent: {{ page.extent }}</p>
+      {% endif %}
+      {% if page.price %}
+      <p>Price: {{ page.extent }}</p>
+      {% endif %}
     </section>
   </section>
   <!-- Social media shares -->
