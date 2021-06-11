@@ -12,13 +12,13 @@ layout: default
     <section class="details">
       {{ content | replace: "../uploads", "/uploads" }}
       {% if page.isbn %}
-      <p>ISBNs: {{ page.isbn }}</p>
+      <p class="info"><b>ISBNs:</b> {{ page.isbn }}</p>
       {% endif %}
       {% if page.extent %}
-      <p>Extent: {{ page.extent }}</p>
+      <p class="info"><b>Extent:</b> {{ page.extent }}</p>
       {% endif %}
       {% if page.price %}
-      <p>Price: {{ page.extent }}</p>
+      <p class="info"><b>Price:</b> {{ page.price }}</p>
       {% endif %}
     </section>
   </section>

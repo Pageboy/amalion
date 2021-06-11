@@ -1,8 +1,7 @@
 ---
-title: "Between Learning and Piety: Student Activism and Religious Movements in
-  Sahelian Universities"
+title: "Between Learning and Piety: Student Activism and Religious Movements in Sahelian Universities"
 order: 1
-date: 2021-12-01T19:57:13.631Z
+date: 2021-01-01T19:57:13.631Z
 cover_image: ../uploads/BetweenLearning-Piety_web.jpg
 isbn: 9782359260908 PB,  9782359260915 E
 price: $35 • £30 • €35 • CFA15000

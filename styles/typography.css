@@ -189,3 +189,16 @@ body#home .posts header h1 {
 #home h4 {
   font-size: 0.5em;
 }
+
+/* for the book details  */
+
+.details {
+  padding-bottom: 20px;
+}
+
+.info {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 0.7em;
+  color: saddlebrown;
+  margin-bottom: 4px;
+}

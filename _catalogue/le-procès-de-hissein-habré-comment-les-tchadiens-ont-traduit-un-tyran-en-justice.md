@@ -1,8 +1,7 @@
 ---
 price: $27.95 • £21.95 • €24.95 • CFA12500
-extent: 216 mm x 140 mm, 224pp, 2020
+extent: 216 mm x 140 mm, 224pp
 layout: catalogue_item
-author: test
 title: "Le procès de Hissein Habré: Comment les Tchadiens ont traduit un tyran
   en justice"
 order: 2
