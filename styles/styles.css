@@ -46,7 +46,6 @@ summary {
 body {
   color: #262626;
   font-family: "Source Sans Pro", "Trebuchet MS", Helvetica, Arial, sans-serif;
-  font-size: 1.25em;
   word-wrap: break-word;
 }
 
@@ -403,7 +402,7 @@ article,
 }
 
 article header {
-  margin-bottom: 6%;
+  margin-bottom: 1em;
   text-align: left;
 }
 
