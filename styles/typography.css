@@ -9,13 +9,18 @@ body {
 }
 
 .site-header .site-title {
-  font-size: 6rem;
+  font-size: 5.5rem;
   line-height: 0.9;
   margin-left: 0.8rem;
   margin-right: 0.6rem;
   font-family: "Cinzel", serif;
+  color: black;
   font-weight: 300;
-  font-variant: small-caps;
+  text-transform: uppercase;
+}
+
+.site-header .site-title::first-letter {
+  font-size: 1.2em;
 }
 
 header h1 {
