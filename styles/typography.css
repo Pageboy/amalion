@@ -5,14 +5,17 @@ html {
 body {
   color: #262626;
   font-family: "Source Sans Pro", "Trebuchet MS", Helvetica, Arial, sans-serif;
-  font-size: 1.25rem;
+  font-size: 1.2rem;
 }
 
 .site-header .site-title {
-  font-size: 2.8rem;
+  font-size: 6rem;
   line-height: 0.9;
   margin-left: 0.8rem;
   margin-right: 0.6rem;
+  font-family: "Cinzel", serif;
+  font-weight: 300;
+  font-variant: small-caps;
 }
 
 header h1 {
@@ -41,27 +44,28 @@ h6 a {
   color: #262626;
 }
 
-.content h1 a {
-  font-size: 0.85em;
+.content .catalogue h1,
+.content .news h1 {
+  font-size: 1.4em;
 }
 
-.home #main h1 {
+/* .home main h1 {
   font-size: 3em;
   line-height: 1;
-}
+} */
 
 .content h2 {
-  font-size: 1.5em;
+  font-size: 1.1em;
   color: #fa7c03;
 }
 
 .content h3 {
-  font-size: 1.1em;
+  font-size: 1em;
   color: #ad6118;
 }
 
 h4 {
-  font-size: 1.05em;
+  font-size: 0.95em;
 }
 
 .caption {
@@ -102,7 +106,7 @@ blockquote {
 
 @media screen and (max-width: 900px) {
   .site-header .site-title {
-    font-size: 2.1rem;
+    font-size: 4.1rem;
   }
 }
 
@@ -124,7 +128,7 @@ blockquote {
   }
 
   .site-header .site-title {
-    font-size: 2.5rem;
+    font-size: 4.5rem;
   }
 
   p {
