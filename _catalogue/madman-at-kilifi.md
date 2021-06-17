@@ -2,6 +2,7 @@
 title: Madman at Kilifi
 order: 1
 date: 2014-01-01T18:29:17.204Z
+cover_image: ../uploads/Gachagua.jpg
 isbn: 978-2-35926-031-1
 price: £12.95 $14.95 15.50 CFA7500
 extent: "229 x 152mm; Extent: 76pp"
