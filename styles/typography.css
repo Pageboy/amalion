@@ -111,7 +111,7 @@ blockquote {
 
 @media screen and (max-width: 900px) {
   .site-header .site-title {
-    font-size: 4.1rem;
+    font-size: 3.5rem;
   }
 }
 
@@ -133,7 +133,7 @@ blockquote {
   }
 
   .site-header .site-title {
-    font-size: 4rem;
+    font-size: 3.5rem;
   }
 
   p {
@@ -147,12 +147,20 @@ blockquote {
   }
 
   .site-header .site-title {
-    font-size: 3.1rem;
+    font-size: 2rem;
   }
 
-  /* h1 a {
-    font-size: 0.9em;
-  } */
+  .site-header {
+    height: 90px;
+  }
+
+  .branding img.avatar {
+    max-height: 89px;
+  }
+
+  body {
+    padding-top: 90px;
+  }
 
   header#main h1 {
     font-size: 1.8em;
