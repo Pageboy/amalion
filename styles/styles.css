@@ -125,7 +125,6 @@ aside img {
 }
 
 .post-content figure {
-  max-width: 100%;
   padding: 0.5rem;
   margin: 0 0 0 1rem;
   float: right;
@@ -160,11 +159,11 @@ aside img {
   }
 
   .post-content figure {
-    max-width: 100%;
     padding: 0.5rem;
-    margin: 0;
+    margin: 0 auto;
     float: none;
     width: auto;
+    max-width: 250px;
     border: 1px solid rgb(170, 170, 170);
     font-size: 0.8rem;
   }
@@ -302,23 +301,30 @@ img[align="right"] {
   }
 }
 
-article,
 .comments,
 .feature-image .post-content,
 .feature-image footer,
 .posts .post-teaser,
 .site-footer {
-  padding: 1% 23% 1.5% 23%;
+  padding: 1% 23% 1% 23%;
+}
+
+article {
+  padding: 1% 23% 4em 23%;
 }
 
 @media (max-width: 1000px) {
-  article,
   .comments,
   .feature-image .post-content,
   .feature-image footer,
   .posts .post-teaser,
   .site-footer {
     padding: 6% 12.5%;
+  }
+
+  article {
+    padding-bottom: 2em;
+    margin-bottom: 2em;
   }
 }
 
@@ -816,6 +822,8 @@ h3.tag-anchor i {
   }
 }
 
+/* now follows the branding header block */
+
 .site-header {
   background-image: url("/uploads/headerbackfull.jpg");
   color: #d15e2d;
@@ -825,7 +833,7 @@ h3.tag-anchor i {
   width: 100%;
   top: 0;
   padding-right: 20px;
-  height: 120px;
+  height: 112px;
   z-index: 100;
   display: flex;
   justify-content: space-between;
@@ -852,17 +860,13 @@ h3.tag-anchor i {
 
 .branding img.avatar {
   display: block;
-  max-height: 119px;
+  max-height: 111px;
   /* width: 50px; */
   margin: 0 0.5em;
   padding: 0;
   /* border: 1px solid red; */
 }
-
-/* .site-header .site-title {
-    font-weight: bold;
-    font-size: 3.3em;
-} */
+/* site title is in the typography.css */
 
 .site-header nav {
   font-family: "Source Sans Pro", "Trebuchet MS", Helvetica, Arial, sans-serif;

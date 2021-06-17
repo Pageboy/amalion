@@ -9,7 +9,7 @@ body {
 }
 
 .site-header .site-title {
-  font-size: 5.5rem;
+  font-size: 4rem;
   line-height: 0.9;
   margin-left: 0.8rem;
   margin-right: 0.6rem;
@@ -133,7 +133,7 @@ blockquote {
   }
 
   .site-header .site-title {
-    font-size: 4.5rem;
+    font-size: 4rem;
   }
 
   p {
@@ -146,9 +146,13 @@ blockquote {
     font-size: 0.9em;
   }
 
-  h1 a {
-    font-size: 0.9em;
+  .site-header .site-title {
+    font-size: 3.1rem;
   }
+
+  /* h1 a {
+    font-size: 0.9em;
+  } */
 
   header#main h1 {
     font-size: 1.8em;
