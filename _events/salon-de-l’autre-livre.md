@@ -1,6 +1,7 @@
 ---
 title: Salon de L’autre Livre
 date: 2018-11-16T18:57:55.442Z
+event_image: ../uploads/FB_Lautre-livre.jpg
 layout: event
 ---
 ## Halle des Blancs Manteaux, Paris, France
