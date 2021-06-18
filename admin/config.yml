@@ -175,6 +175,10 @@ collections:
         widget: "image"
         required: false
         hint: "Optional image to go with this event"
+      - label: "Caption"
+        name: "caption"
+        widget: string
+        required: false
       - label: "About this event"
         name: "body"
         widget: "markdown"
