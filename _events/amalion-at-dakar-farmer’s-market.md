@@ -1,7 +1,7 @@
 ---
 title: Amalion at Dakar Farmer’s Market
 date: 2021-06-12T15:22:43.472Z
-layout: event
+layout: post
 ---
 ## Sea Plaza, Dakar
 

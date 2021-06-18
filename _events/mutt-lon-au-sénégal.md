@@ -1,7 +1,7 @@
 ---
 title: Mutt-Lon au Sénégal
 date: 2019-11-02T16:23:53.234Z
-layout: event
+layout: post
 ---
 **Rencontre-Débat**
 

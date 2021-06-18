@@ -11,13 +11,13 @@
               </a>
             </h1>
             <div class="post-info">
-              <b class="meta">
-                <b>Date:</b> {{ event.date | date: "%B %-d, %Y" }}
+              <p class="meta">
+                {{ event.date | date: "%B %-d, %Y" }}
               </p>
           </div>
           </header>
           <div class="excerpt newsitem">
-              {{ event.content }}
+            {{ event.content | markdownify | truncatewords: 50 }}
               <a aria-label="{{ event.title }}" class="post-link" href="{{ event.url | relative_url }}">
               </a>
           </div>
