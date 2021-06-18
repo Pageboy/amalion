@@ -1,0 +1,27 @@
+<div class="posts">
+
+  {%- assign items = site.events | sort: 'date' -%}
+    {%- for event in items limit:{{include.eventsrange}} -%}
+    <div class="post-teaser">
+        <span>
+          <header>
+            <h1>
+              <a aria-label="{{ event.title }}" class="post-link" href="{{ event.url | relative_url }}">
+                {{ event.title }}
+              </a>
+            </h1>
+            <div class="post-info">
+              <b class="meta">
+                <b>Date:</b> {{ event.date | date: "%B %-d, %Y" }}
+              </p>
+          </div>
+          </header>
+          <div class="excerpt newsitem">
+              {{ event.content }}
+              <a aria-label="{{ event.title }}" class="post-link" href="{{ event.url | relative_url }}">
+              </a>
+          </div>
+      </span>
+    </div>
+    {% endfor %}
+</div>
