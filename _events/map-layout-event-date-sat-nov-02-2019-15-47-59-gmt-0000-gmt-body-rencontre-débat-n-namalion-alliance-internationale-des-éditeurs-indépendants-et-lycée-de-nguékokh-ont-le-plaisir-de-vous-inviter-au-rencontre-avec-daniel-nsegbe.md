@@ -1,5 +1,6 @@
 ---
 event_name: Mutt-Lon au Sénégal
+title: Mutt-Lon au Sénégal
 date: 2019-11-02T15:47:59.359Z
 layout: event
 ---
