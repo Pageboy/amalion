@@ -1,5 +1,6 @@
 ---
 event_name: MansaUppsala 2021
+title: MansaUppsala 2021
 date: 2021-06-16T14:43:58.565Z
 layout: event
 ---
