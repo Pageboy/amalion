@@ -254,6 +254,12 @@ collections:
                 hint: "You can optionally select to have this link open in a seperate windows or tab."
                 required: false
 
+          - label: "Show the editor pencil icon on the menubar?"
+            name: "showpencil"
+            widget: "boolean"
+            required: false
+            hint: "You can include the pencil icon to link to your editor at the end of the menu items. If you don't want this, then you need to go to yoursite/admin to edit."
+
       - label: "Select typefaces for body and headings"
         name: "typography"
         show_preview_links: false
