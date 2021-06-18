@@ -1,5 +1,6 @@
 ---
 event_name: Amalion at Dakar Farmer’s Market
+title: Amalion at Dakar Farmer’s Market
 date: 2021-06-12T14:46:22.785Z
 layout: event
 ---
