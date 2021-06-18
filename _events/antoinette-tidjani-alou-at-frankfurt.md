@@ -1,8 +1,7 @@
 ---
 title: Antoinette Tidjani Alou at Frankfurt
 date: 2018-10-13T18:00:37.105Z
-event_image: ../uploads/FB_Frankfurt_72.png
-layout: event
+layout: post
 ---
 ## Frankfurt Book Fair 2018
 

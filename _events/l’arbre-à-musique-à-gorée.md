@@ -1,7 +1,7 @@
 ---
 title: L’arbre à Musique à Gorée
 date: 2018-03-11T19:06:35.650Z
-layout: event
+layout: post
 ---
 ## Centre Culturel Boubacar Joseph Ndiaye, Gorée, Sénégal
 

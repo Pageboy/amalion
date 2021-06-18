@@ -17,7 +17,7 @@
           </div>
           </header>
           <div class="excerpt newsitem">
-            {{ event.content | markdownify | truncatewords: 30 | strip_html }}
+            {{ event.content | markdownify }}
               <a aria-label="{{ event.title }}" class="post-link" href="{{ event.url | relative_url }}">
                <p>Read more</p>
               </a>

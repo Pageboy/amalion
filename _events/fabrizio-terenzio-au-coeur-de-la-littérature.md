@@ -1,8 +1,7 @@
 ---
 title: Fabrizio Terenzio au coeur de la littérature
 date: 2018-02-28T19:03:47.924Z
-event_image: ../uploads/larbre-a-musique-flyer.jpg
-layout: event
+layout: post
 ---
 ## Goethe-Institut Sénégal
 
