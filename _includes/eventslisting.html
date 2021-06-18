@@ -1,6 +1,6 @@
 <div class="posts">
 
-  {%- assign items = site.events | sort: 'date' -%}
+  {%- assign items = site.events | sort: 'date'  | reverse  -%}
     {%- for event in items limit:{{include.eventsrange}} -%}
     <div class="post-teaser">
         <span>
@@ -17,7 +17,7 @@
           </div>
           </header>
           <div class="excerpt newsitem">
-            {{ event.content | markdownify | truncatewords: 50 }}
+            {{ event.content | markdownify | truncatewords: 30 }}
               <a aria-label="{{ event.title }}" class="post-link" href="{{ event.url | relative_url }}">
               </a>
           </div>
