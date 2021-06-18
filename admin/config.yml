@@ -165,7 +165,7 @@ collections:
       preview: false
     fields: # The fields for each document, usually in front matter
       - label: "Name of Event"
-        name: "event_name"
+        name: "title"
         widget: "string"
       - label: "Event Date"
         name: "date"
