@@ -1585,6 +1585,12 @@ a.word {
   display: none;
 }
 
+.eventitem img {
+  display: block;
+  max-width: 50%;
+  float: right;
+}
+
 .thumb {
   max-width: 120px;
   padding: 0;
