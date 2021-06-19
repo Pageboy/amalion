@@ -3,6 +3,8 @@ title: Fabrizio Terenzio au coeur de la littérature
 date: 2018-02-28T19:03:47.924Z
 layout: post
 ---
+![](../uploads/larbre-a-musique-flyer.jpg)
+
 ## Goethe-Institut Sénégal
 
 **Au Coeur de la Littérature**
@@ -11,4 +13,4 @@ layout: post
 
 Lieu: Goethe-Institut Senegal, Rue de Diourbel angle Piscine Olympique Point E, Dakar, Sénégal.
 
-Pour plus d'info [https://www.goethe.de/ins/sn/fr/ver.cfm?fuseaction=events.detail&event\_id=21216041](https://www.goethe.de/ins/sn/fr/ver.cfm?fuseaction=events.detail&event_id=21216041)
+Pour plus d'info <https://www.goethe.de/ins/sn/fr/ver.cfm?fuseaction=events.detail&event_id=21216041>
