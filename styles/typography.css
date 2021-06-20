@@ -61,7 +61,7 @@ h6 a {
 
 .content h2 {
   font-size: 1.1em;
-  color: #fa7c03;
+  color: #b97902;
 }
 
 .content h3 {
@@ -85,8 +85,9 @@ ul {
 }
 
 a {
-  color: #fa7c03;
+  color: #ff6600;
   text-decoration: none;
+  color: yellow;
 }
 
 blockquote {
