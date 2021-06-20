@@ -1597,3 +1597,13 @@ a.word {
   float: right;
   margin-left: 1rem;
 }
+
+.permalink {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 0.7em;
+}
+
+.permalink i {
+  position: relative;
+  top: 4px;
+}
