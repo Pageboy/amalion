@@ -147,11 +147,15 @@ blockquote {
   }
 
   .site-header .site-title {
-    font-size: 1, 8rem;
+    font-size: 2.2rem;
   }
 
   .site-header {
     height: 90px;
+  }
+
+  .site-header nav ul {
+    top: 90px;
   }
 
   .branding img.avatar {
@@ -168,6 +172,29 @@ blockquote {
 
   p {
     font-size: 1.3em;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  body {
+    font-size: 0.7em;
+  }
+
+  .site-header .site-title {
+    font-size: 1.8rem;
+  }
+
+  h1 a {
+    font-size: 0.9em;
+  }
+
+  header#main h1 {
+    font-size: 2.8em;
+  }
+
+  p {
+    font-size: 1.3em;
+    line-height: 1.3;
   }
 }
 
@@ -219,7 +246,7 @@ body#home .posts header h1 {
 
 .info {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-size: 0.7em;
+  font-size: 0.9em;
   color: saddlebrown;
   margin-bottom: 4px;
 }
