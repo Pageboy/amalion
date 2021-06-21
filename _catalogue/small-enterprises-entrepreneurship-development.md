@@ -1,12 +1,11 @@
 ---
 title: Small Enterprises & Entrepreneurship Development
 order: 1
-released: 2021-06-21T16:59:09.198Z
+released: 2012-03-01T18:43:31.931Z
 cover_image: ../uploads/Small-Enterprises.jpg
 isbn: ISBN 9782359260144 PB,  ISBN 9782359260267 E
 price: $35 â€¢ Â£25 â€¢ â‚¬30 â€¢ CFA15000
 extent: "229 mm x 152 mm, Extent: 280 pages"
-layout: catalogue_item
 ---
 ## Enyinna Chuta (Ed.)
 
