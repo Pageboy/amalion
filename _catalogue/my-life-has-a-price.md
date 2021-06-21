@@ -1,7 +1,7 @@
 ---
 title: My Life Has a Price
 order: 1
-date: 2012-12-01T17:56:33.010Z
+released: 2012-12-01T17:56:33.010Z
 cover_image: ../uploads/9782359260168.jpg
 isbn: ISBN 9782359260168 PB,  ISBN 9782359260175 E
 price: $16.95 â€¢ Â£12.95 â€¢ â‚¬18 â€¢ CFA7500
