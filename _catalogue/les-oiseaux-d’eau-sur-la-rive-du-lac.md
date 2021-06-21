@@ -1,7 +1,7 @@
 ---
 title: Les oiseaux d’eau sur la rive du lac
 order: 1
-date: 2019-11-01T20:03:45.910Z
+released: 2019-11-01T20:03:45.910Z
 cover_image: ../uploads/9782359260854-couv.jpg
 isbn: 9782359260854 (P),  9782359260861 (E)
 price: $16.95 • £12.95 • €15.50 • CFA7500

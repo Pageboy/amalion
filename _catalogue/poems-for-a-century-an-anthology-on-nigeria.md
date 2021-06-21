@@ -1,7 +1,7 @@
 ---
 title: "Poems for a Century: An Anthology on Nigeria"
 order: 1
-date: 2014-04-01T17:20:23.361Z
+released: 2014-04-01T17:20:23.361Z
 cover_image: ../uploads/9782359260328.jpg
 isbn: 9782359260328 PB,  9782359260335 E
 price: £12.95 $14.95 12.50 CFA7500

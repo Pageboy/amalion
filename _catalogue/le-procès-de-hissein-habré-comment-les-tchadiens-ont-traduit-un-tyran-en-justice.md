@@ -5,7 +5,7 @@ layout: catalogue_item
 title: "Le procès de Hissein Habré: Comment les Tchadiens ont traduit un tyran
   en justice"
 order: 2
-date: 2021-05-22T13:46:35.969Z
+released: 2021-05-22T13:46:35.969Z
 cover_image: ../uploads/9782359260984-cov-web.jpg
 isbn: 9782359260984 PB,  9782359260991 E
 ---

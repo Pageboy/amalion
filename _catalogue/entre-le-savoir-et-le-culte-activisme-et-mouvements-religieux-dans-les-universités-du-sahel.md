@@ -2,7 +2,7 @@
 title: "Entre le Savoir et le Culte: Activisme et mouvements religieux dans les
   universités du Sahel"
 order: 1
-date: 2021-05-22T12:08:52.961Z
+released: 2021-05-22T12:08:52.961Z
 cover_image: ../uploads/EntreleSavoiretleCulte-web.jpg
 isbn: 782359260908 PB, 9782359260915 E
 price: $35 • £30 • €35 • CFA15000

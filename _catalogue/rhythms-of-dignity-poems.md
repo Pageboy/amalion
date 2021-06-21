@@ -1,7 +1,7 @@
 ---
 title: "Rhythms of Dignity: Poems"
 order: 1
-date: 2021-05-22T17:31:00.549Z
+released: 2021-05-22T17:31:00.549Z
 cover_image: ../uploads/9782359261004-cov.jpg
 isbn: 9782359261004 PB,  9782359261011 E
 price: $18.95 • £15.95 • €15.95 • CFA7500

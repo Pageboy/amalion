@@ -20,6 +20,9 @@ layout: default
       {% if page.price %}
       <p class="info"><b>Price:</b> {{ page.price }}</p>
       {% endif %}
+      {% if page.released %}
+      <p class="info"><b>Release Date:</b> {{ page.released | date: "%B %Y" }}</p>
+      {% endif %}
     </section>
   </section>
   <!-- Social media shares -->

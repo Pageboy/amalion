@@ -1,7 +1,7 @@
 ---
 title: Giving to Help, Helping to Give
 order: 1
-date: 2013-06-01T18:16:10.243Z
+released: 2013-06-01T18:16:10.243Z
 cover_image: ../uploads/Philanthropy.jpg
 isbn: 9782359260205 PB,  9782359260212 E
 price: $39.95 - £24.99  - 30 - CFA15000

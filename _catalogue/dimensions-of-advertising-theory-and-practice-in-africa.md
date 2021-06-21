@@ -1,7 +1,7 @@
 ---
 title: Dimensions of Advertising Theory and Practice in Africa
 order: 1
-date: 2013-09-01T18:12:44.366Z
+released: 2013-09-01T18:12:44.366Z
 cover_image: ../uploads/Advertising-rw.jpg
 isbn: 9782359260182 PB,  9782359260199 Ebook
 price: $35 -  £25 - CFA15000
