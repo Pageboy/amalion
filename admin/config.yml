@@ -105,23 +105,19 @@ collections:
       - label: "Title"
         name: "title"
         widget: "string"
-      - label: "Order"
-        name: "order"
-        widget: "number"
-        value_type: "int"
-        default: 1
-        min: 1
-        max: 20
-        hint: "If you want to order the catalogue items rather than the default alphabetical ordering then put a number here (1 will be at the top of the catalogue list page)."
+      - label: "date"
+        name: "date"
+        widget: "datetime"
+        hint: "this will default to the date that you are editing this. Avoid changing."
       - label: "Release Date"
         name: "released"
         widget: "datetime"
-        hint: "Only the month and year will be displayed."
+        hint: "Only the month and year will be displayed. This will order the entries in the catalogue and put the latest items on the home page."
       - label: "Cover Image"
         name: "cover_image"
         widget: "image"
         required: false
-        hint: "This image will appear to the right and will enlarge on click"
+        hint: "This image will appear to the right and will enlarge on click."
       - label: "Caption"
         name: "caption"
         widget: "string"
@@ -130,6 +126,7 @@ collections:
       - label: "Main Text"
         name: "body"
         widget: "markdown"
+        editor_components: ["image"]
         hint: "You can type straight into this field and use the toolbar to select styles. You can also use markdown directly when you switch this off. In markdown mode, you can also add HTML. Only the first 50 words will show on the news listing page."
       - label: "ISBN Numbers"
         name: "isbn"
