@@ -1,6 +1,5 @@
 ---
 title: Small Enterprises & Entrepreneurship Development
-order: 1
 released: 2012-03-01T18:43:31.931Z
 cover_image: ../uploads/Small-Enterprises.jpg
 isbn: ISBN 9782359260144 PB,  ISBN 9782359260267 E

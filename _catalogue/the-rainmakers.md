@@ -1,6 +1,5 @@
 ---
 title: The Rainmakers
-order: 1
 released: 2021-05-22T17:38:31.132Z
 cover_image: ../uploads/978235926102-8-cov.jpg
 isbn: 9782359261028 PB  9782359261035 E

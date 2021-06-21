@@ -1,6 +1,5 @@
 ---
 title: Madman at Kilifi
-order: 1
 released: 2014-01-01T18:29:17.204Z
 cover_image: ../uploads/Gachagua.jpg
 isbn: 978-2-35926-031-1

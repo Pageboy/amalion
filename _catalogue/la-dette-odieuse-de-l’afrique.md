@@ -1,6 +1,5 @@
 ---
 title: La dette odieuse de l’Afrique
-order: 1
 released: 2013-05-13T16:52:26.347Z
 cover_image: ../uploads/La_dette_odieuse.jpg
 isbn: 9782359260229 PB,  9782359260236 E

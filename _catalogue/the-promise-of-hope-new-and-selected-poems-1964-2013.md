@@ -1,6 +1,5 @@
 ---
 title: "The Promise of Hope: New and Selected Poems, 1964-2013"
-order: 1
 released: 2014-03-01T18:23:52.665Z
 cover_image: ../uploads/Awoonor.jpg
 isbn: 978-2-35926-030-4
