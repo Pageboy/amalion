@@ -9,9 +9,9 @@ extent: "234 x 153 mm, Extent: 464 pp"
 layout: catalogue_item
 order: 1
 ---
-## Tade Akin Aina & Bhekinkosi Moyo (Eds.)
+## **The Context and Politics of African Philanthropy**
 
-**The Context and Politics of African Philanthropy**
+### Tade Akin Aina & Bhekinkosi Moyo (Eds.)
 
 In the past decade, the emerging narratives about philanthropy in Africa are about an increasingly confident and knowledgeable assertion of African capacities to give not only to help but also to transform and seek to address the root causes of injustice, want, ignorance and disease. The narratives are also about the questioning of the role and place of Africans in the world’s philanthropic traditions and what constitutes African specificities but also African differences and varieties.
 
