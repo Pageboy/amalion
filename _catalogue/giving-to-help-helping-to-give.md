@@ -1,13 +1,13 @@
 ---
+price: $39.95 - £24.99  - €30 - CFA15000
+extent: "234 x 153 mm, Extent: 464 pp"
+layout: catalogue_item
+order: 1
 title: Giving to Help, Helping to Give
 date: 2021-06-22T18:23:17.592Z
 released: 2013-06-01T18:16:10.243Z
 cover_image: ../uploads/Philanthropy.jpg
 isbn: 9782359260205 PB,  9782359260212 E
-price: $39.95 - £24.99  - 30 - CFA15000
-extent: "234 x 153 mm, Extent: 464 pp"
-layout: catalogue_item
-order: 1
 ---
 ## **The Context and Politics of African Philanthropy**
 
