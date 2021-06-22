@@ -1,5 +1,6 @@
 ---
 title: The Rainmakers
+date: 2021-06-22T18:45:51.821Z
 released: 2021-05-22T17:38:31.132Z
 cover_image: ../uploads/978235926102-8-cov.jpg
 isbn: 9782359261028 PB  9782359261035 E
@@ -20,3 +21,5 @@ The Sarraounia Prize for Young Adult Fiction is founded by the **Arts & Culture 
 ### Author Details
 
 **Paul Kisakye** is a Ugandan-born writer, editor and writing coach. He is the author of *Tech Explorers League*, a series of sci-fi novels for children; and a non-fiction book *Prodigal Love*. He is an African Writers Trust Publishing Fellow and was shortlisted for the Writivism Short Story Prize in 2013 for his piece, “Emotional Roller Coaster”.
+
+![Paul Kisakye, winner Sarraounia Prize for Young Adult Fiction 2020](../uploads/Paul-Kisakye 2.jpg "Paul Kisakye")
