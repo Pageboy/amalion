@@ -4,6 +4,7 @@ backend:
   branch: master # Branch to update (master by default)
   site_domain: amalion.netlify.app #Your site on netlify
   use_graphql: true
+  open_authoring: true
 
 publish_mode: editorial_workflow
 show_preview_links: false
