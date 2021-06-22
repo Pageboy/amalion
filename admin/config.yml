@@ -121,6 +121,10 @@ collections:
       - label: "Title"
         name: "title"
         widget: "string"
+      - label: "Sub title"
+        widget: "string"
+        required: false
+        hint: "If you need a sub title, this will be added immediately after the main title"
       - label: "date"
         name: "date"
         widget: "datetime"
