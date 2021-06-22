@@ -11,7 +11,9 @@ isbn: 9782359260908 PB,  9782359260915 E
 ---
 ## Student Activism and Religious Movements in Sahelian Universities
 
-## Leonardo A. Villalón & Mamadou Bodian (Eds)
+### Leonardo A. Villalón & Mamadou Bodian (Eds)
+
+### Preface by Benjamin Soares
 
 Linking together new studies based on original research, *Between Learning and Piety* brings us up to date on the evolution of Islam and Christianity among university students in the countries of the Sahel. It reveals the cleavages and conflicts between groups, and analyzes their oral, written and sartorial markers of identity and modes of performance. The book thus provides powerful insights into the influence of religion on this emerging elite, and examines the two questions fuelling religious activism in universities: the significance of claiming a Muslim or a Christian identity, and the ways in which modernity both shapes and is formed by the two religions. This book is essential reading if we are to understand the changing nature of the terrible crises that have led the Sahel region to turn on itself. – **Mamadou Diouf,** Leitner Family Professor of African Studies, Columbia University, USA.
 
