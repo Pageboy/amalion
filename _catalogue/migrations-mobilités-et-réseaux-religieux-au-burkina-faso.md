@@ -1,6 +1,7 @@
 ---
 title: Migrations, mobilités et réseaux religieux au Burkina Faso
-released: 2022-06-10T18:51:31.473Z
+date: 2021-06-22T17:56:19.438Z
+released: 2021-12-01T19:51:31.473Z
 cover_image: ../uploads/9782359261066.jpg
 isbn: 9782359261066 PB,   9782359261080 E
 price: "Price: $35 • £30 • €35 • CFA15000"
