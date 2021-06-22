@@ -3,7 +3,7 @@ price: $35 • £30 • €35 • CFA15000
 extent: 234 mm x 156 mm, 224pp, 2020
 layout: catalogue_item
 order: 1
-title: "Entre le Savoir et le Culte: "
+title: Entre le Savoir et le Culte
 date: 2021-06-22T19:53:43.000Z
 released: 2020-11-01T12:08:52.961Z
 cover_image: ../uploads/EntreleSavoiretleCulte-web.jpg
