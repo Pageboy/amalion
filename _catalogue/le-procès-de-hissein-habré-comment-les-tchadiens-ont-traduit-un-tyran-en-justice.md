@@ -1,7 +1,7 @@
 ---
 title: Le procès de Hissein Habré
 date: 2021-06-22T19:58:40.261Z
-released: 2021-05-22T13:46:35.969Z
+released: 2021-02-01T13:46:35.969Z
 cover_image: ../uploads/9782359260984-cov-web.jpg
 caption: "Le procès de Hissein Habré: Comment les Tchadiens ont traduit un tyran
   en justice"
