@@ -1,4 +1,6 @@
 ---
+caption: "Between Learning and Piety: Student Activism and Religious Movements
+  in Sahelian Universities"
 price: $35 • £30 • €35 • CFA15000
 extent: 234 mm x 156 mm, 224pp
 layout: catalogue_item
