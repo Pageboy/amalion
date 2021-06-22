@@ -21,8 +21,17 @@ layout: default
       <p class="info"><b>Price:</b> {{ page.price }}</p>
       {% endif %}
       {% if page.released %}
-      <p class="info"><b>Release Date:</b> {{ page.released | date: "%B %Y" }}</p>
+      {% capture nowsecs %}{{'now' | date: '%s'}}{% endcapture %}
+      {% capture releasedsecs %}{{page.released | date: "%s"}}{% endcapture %}
+      {% if nowsecs < releasedsecs %}
+        <p class="info"><b>Will be published in:</b> {{ page.released | date: "%B %Y" }}</p>
+      {% elsif nowsecs > releasedsecs %}
+        <p class="info"><b>Release Date:</b> {{ page.released | date: "%B %Y" }}</p>
       {% endif %}
+      {% endif %}
+
+      <p class="info"><a title="see how to order this item" href="/order/">Order Information <i class="fa fa-caret-right"></i></a></p>
+
     </section>
   </section>
   <!-- Social media shares -->

@@ -16,8 +16,14 @@
                 <img class="thumb" src="{{ catalogue.cover_image| replace: '../uploads', '/uploads' }}" alt="{{ catalogue.title }}" />
               {% endif %}
               {{ catalogue.content | markdownify | truncatewords: 50 }}
-              {% if catalogue.released %}
-                <p class="info"><b>Release Date:</b> {{ catalogue.released | date: "%B %Y" }}</p>
+              {% if catalogue.released and {include.range} != '6' %}
+              {% capture nowsecs %}{{'now' | date: '%s'}}{% endcapture %}
+              {% capture releasedsecs %}{{catalogue.released | date: "%s"}}{% endcapture %}
+                {% if nowsecs < releasedsecs %}
+                  <p class="info"><b>Will be published in:</b> {{ catalogue.released | date: "%B %Y" }}</p>
+                  {% else %}
+                  <p class="info"><b>Release Date:</b> {{ catalogue.released | date: "%B %Y" }}</p>
+                {% endif %}
               {% endif %}
               <a aria-label="{{ post.title }}" class="post-link" href="{{ catalogue.url | relative_url }}">
                 <p class="permalink">Read more <i class="fa fa-caret-right fa-2x"></i></p>
