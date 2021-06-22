@@ -51,14 +51,14 @@ collections:
     label_singular: "Page"
     description: "These are separate pages not date ordered, but simply available from the menu if you turn that setting on."
     folder: "pages/" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    delete: true # turn this to false when dev finished
-    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    create: false # Allow users to create new documents in this collection
+    delete: false
+    slug: "{{slug}}"
     media_folder: "/uploads"
     public_folder: "../uploads"
     editor:
       preview: false
-    fields: # The fields for each document, usually in front matter
+    fields:
       - { label: "Title", name: "title", widget: "string" }
       - {
           label: "Subtitle",
