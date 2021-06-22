@@ -13,7 +13,7 @@ isbn: 9782359260908 PB,  9782359260915 E
 ---
 ## Student Activism and Religious Movements in Sahelian Universities
 
-### Leonardo A. Villalón & Mamadou Bodian (Eds)
+## Leonardo A. Villalón & Mamadou Bodian (Eds)
 
 ### Preface by Benjamin Soares
 
