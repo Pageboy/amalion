@@ -4,14 +4,13 @@ extent: "234 x 153 mm, Extent: 464 pp"
 layout: catalogue_item
 order: 1
 title: Giving to Help, Helping to Give
+subtitle: The Context and Politics of African Philanthropy
 date: 2021-06-22T18:23:17.592Z
 released: 2013-06-01T18:16:10.243Z
 cover_image: ../uploads/Philanthropy.jpg
 isbn: 9782359260205 PB,  9782359260212 E
 ---
-## **The Context and Politics of African Philanthropy**
-
-### Tade Akin Aina & Bhekinkosi Moyo (Eds.)
+## Tade Akin Aina & Bhekinkosi Moyo (Eds.)
 
 In the past decade, the emerging narratives about philanthropy in Africa are about an increasingly confident and knowledgeable assertion of African capacities to give not only to help but also to transform and seek to address the root causes of injustice, want, ignorance and disease. The narratives are also about the questioning of the role and place of Africans in the world’s philanthropic traditions and what constitutes African specificities but also African differences and varieties.
 

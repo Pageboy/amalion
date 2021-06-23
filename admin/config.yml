@@ -122,6 +122,7 @@ collections:
         name: "title"
         widget: "string"
       - label: "Sub title"
+        name: "subtitle"
         widget: "string"
         required: false
         hint: "If you need a sub title, this will be added immediately after the main title"

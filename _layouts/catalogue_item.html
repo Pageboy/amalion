@@ -4,6 +4,9 @@ layout: default
 <article id="page-content">
   <header id="main"><span id="user"></span>
       <h1 class="title">{{ page.title }}</h1>
+      {% if page.subtitle %}
+      <h2 class="subtitle">{{ page.subtitle }}</h2>
+      {% endif %}
   </header>
   <section class="post-content">
     {% if page.cover_image %}
@@ -24,9 +27,9 @@ layout: default
       {% capture nowsecs %}{{'now' | date: '%s'}}{% endcapture %}
       {% capture releasedsecs %}{{page.released | date: "%s"}}{% endcapture %}
       {% if nowsecs < releasedsecs %}
-        <p class="info"><b>Will be published in:</b> {{ page.released | date: "%B %Y" }}</p>
-      {% elsif nowsecs > releasedsecs %}
         <p class="info"><b>Release Date:</b> {{ page.released | date: "%B %Y" }}</p>
+      {% elsif nowsecs > releasedsecs %}
+        <p class="info"><b>Released Date:</b> {{ page.released | date: "%B %Y" }}</p>
       {% endif %}
       {% endif %}
 

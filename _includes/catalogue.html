@@ -10,6 +10,9 @@
                 {{ catalogue.title }}
               </a>
             </h1>
+            {% if catalogue.subtitle %}
+            <h2 class="subtitle">{{ catalogue.subtitle }}</h2>
+            {% endif %}
           </header>
           <div class="excerpt">
               {% if catalogue.cover_image %}
@@ -20,9 +23,9 @@
               {% capture nowsecs %}{{'now' | date: '%s'}}{% endcapture %}
               {% capture releasedsecs %}{{catalogue.released | date: "%s"}}{% endcapture %}
                 {% if nowsecs < releasedsecs %}
-                  <p class="info"><b>Will be published in:</b> {{ catalogue.released | date: "%B %Y" }}</p>
-                  {% else %}
                   <p class="info"><b>Release Date:</b> {{ catalogue.released | date: "%B %Y" }}</p>
+                  {% else %}
+                  <p class="info"><b>Released Date:</b> {{ catalogue.released | date: "%B %Y" }}</p>
                 {% endif %}
               {% endif %}
               <a aria-label="{{ post.title }}" class="post-link" href="{{ catalogue.url | relative_url }}">
