@@ -1,7 +1,7 @@
 ---
 title: The Rainmakers
 date: 2021-06-22T18:45:51.821Z
-released: 2021-05-22T17:38:31.132Z
+released: 2020-11-01T17:38:31.132Z
 cover_image: ../uploads/978235926102-8-cov.jpg
 isbn: 9782359261028 PB  9782359261035 E
 price: $14.95 • £12.95 • €15.50 • CFA7500
