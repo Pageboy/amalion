@@ -17,7 +17,7 @@ $(document).ready(function() {
   {
     var imageCaption = $(this).attr("alt");
      var currentImage = $(this);
-     currentImage.wrap("<figure><a title='this will popup a larger image' class='popup' href='" + currentImage.attr("src") + "'/><span class='caption'>" + imageCaption +
+     currentImage.wrap("<figure><a class='popup' href='" + currentImage.attr("src") + "'/><span class='caption'>" + imageCaption +
             "</span></figure>");
     
   });
