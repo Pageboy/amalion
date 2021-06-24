@@ -67,8 +67,8 @@ collections:
     label_singular: "Page"
     description: "These are separate pages not date ordered, but simply available from the menu if you turn that setting on."
     folder: "pages/" # The path to the folder where the documents are stored
-    create: false # Allow users to create new documents in this collection
-    delete: false
+    create: true # Allow users to create new documents in this collection
+    delete: true
     slug: "{{slug}}"
     media_folder: "/uploads"
     public_folder: "../uploads"
