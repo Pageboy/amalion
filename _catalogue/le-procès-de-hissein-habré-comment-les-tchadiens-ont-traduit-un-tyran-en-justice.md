@@ -1,5 +1,6 @@
 ---
 title: Le procès de Hissein Habré
+subtitle: Comment les Tchadiens ont traduit un tyran en justice
 date: 2021-06-22T19:58:40.261Z
 released: 2021-02-01T13:46:35.969Z
 cover_image: ../uploads/9782359260984-cov-web.jpg
@@ -10,8 +11,6 @@ price: $27.95 • £21.95 • €24.95 • CFA12500
 extent: 216 mm x 140 mm, 224pp
 layout: catalogue_item
 ---
-## Comment les Tchadiens ont traduit un tyran en justice
-
 ## Celeste Hicks
 
 «C’est une histoire d’enfer sur terre qui devait être racontée, et de la détermination de l’humanité à y faire face. Le merveilleux récit d’une campagne qui, après 25 ans, a rendu la justice» – **Mike Dottridge,** Amnesty International.
