@@ -1,18 +1,16 @@
 ---
-caption: "Between Learning and Piety: Student Activism and Religious Movements
-  in Sahelian Universities"
+title: Between Learning and Piety
+subtitle: Student Activism and Religious Movements in Sahelian Universities
+released: 2021-12-01T19:57:13.631Z
+caption: ""
 price: $35 • £30 • €35 • CFA15000
 extent: 234 mm x 156 mm, 224pp
 layout: catalogue_item
 order: 1
-title: Between Learning and Piety
 date: 2021-06-22T11:45:40.753Z
-released: 2021-12-01T19:57:13.631Z
 cover_image: ../uploads/BetweenLearning-Piety_web.jpg
 isbn: 9782359260908 PB,  9782359260915 E
 ---
-## Student Activism and Religious Movements in Sahelian Universities
-
 ## Leonardo A. Villalón & Mamadou Bodian (Eds)
 
 ### Preface by Benjamin Soares
