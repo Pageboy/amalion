@@ -18,8 +18,8 @@ When strange happenings at the farm start causing havoc, mayhem and destruction,
 
 The Sarraounia Prize for Young Adult Fiction is founded by the **Arts & Culture programme at Abdou Moumouni University,** Niger and the publisher **Amalion,** Senegal to contribute to the availability of reading material for African young adults and to promote literature to help better understand the world of African youths. Every two years, the Sarraounia Prize will be awarded to the best unpublished fiction for young adults written in English, French or Hausa by African authors and illustrators based in Africa.
 
+![Paul Kisakye, winner Sarraounia Prize for Young Adult Fiction 2020](../uploads/Paul-Kisakye 2.jpg "Paul Kisakye")
+
 ### Author Details
 
 **Paul Kisakye** is a Ugandan-born writer, editor and writing coach. He is the author of *Tech Explorers League*, a series of sci-fi novels for children; and a non-fiction book *Prodigal Love*. He is an African Writers Trust Publishing Fellow and was shortlisted for the Writivism Short Story Prize in 2013 for his piece, “Emotional Roller Coaster”.
-
-![Paul Kisakye, winner Sarraounia Prize for Young Adult Fiction 2020](../uploads/Paul-Kisakye 2.jpg "Paul Kisakye")
