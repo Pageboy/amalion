@@ -674,11 +674,11 @@ h3.tag-anchor i {
   justify-content: space-between;
   text-align: left;
   width: 100%;
-  color: #636363;
   font-size: 0.9em;
   padding: 1rem;
   border-top: 1px solid rgb(221, 220, 220);
   background-color: #feeecd;
+  opacity: 0.96;
   color: #cf4509;
   position: fixed;
   bottom: 0;
@@ -808,7 +808,7 @@ h3.tag-anchor i {
 }
 
 .site-header nav a:hover {
-  color: rgb(194, 17, 17);
+  color: #c21111;
 }
 
 .site-header nav a#pull i {
@@ -1382,19 +1382,19 @@ a.word {
 }
 
 .latestcatalogue .heading {
-  background-color: rgb(255, 153, 0);
+  background-color: #ff9900;
   color: white !important;
 }
 
 .latestnews .heading {
-  background-color: rgb(167, 101, 3);
+  background-color: #a76503;
   color: white !important;
 }
 
 .latestnews {
   display: flex;
   flex-direction: column;
-  background-color: rgb(255, 248, 218);
+  background-color: #fff8da;
   border-left: 1px solid rgb(216, 216, 216);
   flex: 1 1 25%;
 }

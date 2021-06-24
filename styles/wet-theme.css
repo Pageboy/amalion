@@ -1,0 +1,40 @@
+.site-header {
+  background-image: url("/uploads/headerbackfull_wet.jpg");
+}
+.site-header nav a:hover {
+  color: #26c211;
+}
+.latestcatalogue .heading {
+  background-color: #2ebb03;
+}
+.latestnews .heading {
+  background-color: #088304;
+}
+a {
+  color: #0a9768;
+}
+.site-footer {
+  background-color: #fdfdd6;
+  color: #48a808;
+}
+.content h2 {
+  color: #64b902;
+}
+.content h3 {
+  color: #18ad51;
+}
+li.active {
+  background-color: #21c001;
+}
+#home h2 {
+  color: #3e8602;
+}
+#home h3 {
+  color: #148a49;
+}
+.info {
+  color: #91a32a;
+}
+.latestnews {
+  background-color: #e5ffda;
+}

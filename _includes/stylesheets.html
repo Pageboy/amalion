@@ -80,6 +80,11 @@ body {
 </style>
 {%- endif -%}
 
+<!-- color theme selection may be wet (greenish) or dry (redish - default) -->
+
+{%- if site.data.typography.theme == "wet" -%}
+<link rel="stylesheet" href="{{site.baseurl}}/styles/wet-theme.css">
+{%- endif -%}
 
 <!-- headings -->
 
