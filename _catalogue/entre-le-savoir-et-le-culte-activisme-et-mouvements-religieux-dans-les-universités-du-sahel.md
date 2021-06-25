@@ -1,17 +1,16 @@
 ---
-price: $35 • £30 • €35 • CFA15000
-extent: 234 mm x 156 mm, 224pp, 2020
-layout: catalogue_item
-order: 1
 title: Entre le Savoir et le Culte
+subtitle: Activisme et mouvements religieux dans les universités du Sahel
 date: 2021-06-22T19:53:43.000Z
 released: 2020-11-01T12:08:52.961Z
 cover_image: ../uploads/EntreleSavoiretleCulte-web.jpg
 isbn: 782359260908 PB, 9782359260915 E
+price: $35 • £30 • €35 • CFA15000
+extent: 234 mm x 156 mm, 224pp, 2020
+layout: catalogue_item
+order: 1
 ---
-## Activisme et mouvements religieux dans les universités du Sahel
-
-### Préface par Benjamin Soares
+## Préface par Benjamin Soares
 
 *Entre le Savoir et le Culte* présente des études et documents originaux qui mettent à jour l’évolution de l’islam et du christianisme parmi les étudiants d’universités des pays du Sahel. Il révèle les fissures et les conflits entre les groupes, et analyse leurs modes oraux, écrits et vestimentaires d’affichage et de performance. Cet ouvrage apporte ainsi un puissant éclairage sur l’emprise du religieux sur l’élite en formation, et examine les deux interrogations qui alimentent l’activisme religieux universitaire : la signification de la revendication d’une identité musulmane ou chrétienne, et comment celle-ci façonne la modernité des deux religions et vice-versa. A lire pour comprendre le dynamisme des terribles crises qui amènent la région sahélienne à se tourner sur elle-même. – **Mamadou Diouf,** Leitner Family Professor of African Studies, Columbia University, États-Unis.
 
