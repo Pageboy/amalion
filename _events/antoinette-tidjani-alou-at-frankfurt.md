@@ -3,11 +3,12 @@ title: Antoinette Tidjani Alou at Frankfurt
 date: 2018-10-13T18:00:37.105Z
 layout: post
 ---
-![](../uploads/FB_Frankfurt_72.png)
 
 ## Frankfurt Book Fair 2018
 
 ### Antoinette Tidjani Alou talks to Olatoun Gabi Williams
+
+![](../uploads/FB_Frankfurt_72.png)
 
 **Literature Across Borders**
 

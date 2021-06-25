@@ -10,8 +10,6 @@
 
 <!-- add a link to the image itself and wrap in figure and add caption from alt -->
 <script>
-
-
 $(document).ready(function() {
   $('.post-content img').each(function ()
   {
@@ -23,9 +21,15 @@ $(document).ready(function() {
   });
 });
 
+$(document).ready(function() {
+  $('figure').each(function ()
+  {
+     var thefigure = $(this);
+     thefigure.unwrap();
+    
+  });
+});
 </script>
-
-
 
 <!-- now follows the javascript to show that a post can be edited -->
 
