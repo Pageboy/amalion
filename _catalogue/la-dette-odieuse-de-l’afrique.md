@@ -1,7 +1,7 @@
 ---
 title: La dette odieuse de l’Afrique
 subtitle: Comment l’endettement et la fuite des capitaux ont saigné un continent
-released: 2013-05-13T16:52:26.347Z
+release: 2013-05-13T16:52:26.347Z
 cover_image: ../uploads/La_dette_odieuse.jpg
 isbn: 9782359260229 PB,  9782359260236 E
 price: $25.95  £16.95  €24.50  CFA12500
