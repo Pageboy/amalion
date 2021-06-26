@@ -129,3 +129,13 @@
 .css-12vfcwo {
   font-size: 120%;
 }
+/* for safari only */
+
+@media not all and (min-resolution: 0.001dpcm) {
+  @media {
+    *:before,
+    *:after {
+      display: none;
+    }
+  }
+}
