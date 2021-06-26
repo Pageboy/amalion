@@ -1,5 +1,6 @@
 ---
 title: La dette odieuse de l’Afrique
+subtitle: Comment l’endettement et la fuite des capitaux ont saigné un continent
 released: 2013-05-13T16:52:26.347Z
 cover_image: ../uploads/La_dette_odieuse.jpg
 isbn: 9782359260229 PB,  9782359260236 E
@@ -8,8 +9,6 @@ extent: "198 x 129 mm, Extent: 208 pages"
 layout: catalogue_item
 ---
 ## Léonce Ndikumana & James K. Boyce
-
-**Comment l’endettement et la fuite des capitaux ont saigné un continent**
 
 Dans _La dette odieuse de l’Afrique_, Boyce et Ndikumana révèlent le fait choquant que, contrairement à la perception populaire comme quoi l’Afrique ponctionne les ressources financières de l’Occident, le continent est en fait un créancier net du reste du monde. Le volume de la fuite des capitaux de l’Afrique est remarquable : plus de 700 milliards de dollars au cours des quatre dernières décennies. Toutefois, les actifs de l’Afrique détenus à l’étranger sont privés et cachés tandis que ses dettes extérieures sont publiques, dues par les peuples africains à travers leurs gouvernements.
 
