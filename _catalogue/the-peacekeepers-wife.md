@@ -1,7 +1,7 @@
 ---
 title: The Peacekeeper's Wife
 date: 2021-06-27T14:03:18.119Z
-released: 2021-06-27T14:03:18.136Z
+released: 2015-09-01T14:03:18.136Z
 cover_image: ../uploads/Eze.jpg
 caption: The Peacekeeper's Wife
 isbn: 9782359260441 PB  9782359260458 Ebook
