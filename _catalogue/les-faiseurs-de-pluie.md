@@ -9,7 +9,7 @@ price: $14.95 • £12.95 • €15.50 • CFA7500
 extent: 207 x 123 mm, 140 pp
 layout: catalogue_item
 ---
-# **Paul Kisakye**
+## **Paul Kisakye**
 
 **Prix Sarraounia de la Fiction Jeune Adulte 2020**
 
