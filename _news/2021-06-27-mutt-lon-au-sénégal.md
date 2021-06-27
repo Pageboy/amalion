@@ -2,7 +2,7 @@
 layout: post
 category: news
 title: Mutt-Lon au Sénégal
-date: 2021-06-27T12:29:13.134Z
+date: 2019-10-08T12:29:13.134Z
 eventdate: 2019-11-02T13:29:13.149Z
 ---
 ## Rencontre-Débat
