@@ -5,8 +5,6 @@ title: Antoinette Tidjani Alou at Frankfurt
 date: 2021-06-27T12:34:22.704Z
 eventdate: 2018-10-13T12:34:22.715Z
 ---
-October 13, 2018
-
 ## Frankfurt Book Fair 2018
 
 ### Antoinette Tidjani Alou talks to Olatoun Gabi Williams
