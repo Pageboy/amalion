@@ -4,14 +4,17 @@ layout: default
 <article id="page-content" {%- if page.header_feature_image > "" -%}class="feature-image"{% endif %}>
   <header id="main"><span id="user"></span>
       <h1 id="{{ page.title | escape | url_encode }}" class="title">{{ page.title }}</h1>
-      <div class="post-info">
+      {%- if page.eventdate -%}
         <p class="meta">
-          {{ page.date | date: "%B %-d, %Y" }}
+        Event date: {{ page.eventdate | date: "%B %-d, %Y" }}
         </p>
-      </div>
+      {%- endif -%}
   </header>
   <section class="post-content">
       {{ content | replace: "../uploads", "/uploads" }}
+      <p class="meta">
+        Date posted: {{ page.date | date: "%B %-d, %Y" }}
+      </p>
   </section>
   <!-- Social media shares -->
   {% include share_buttons.html %}
