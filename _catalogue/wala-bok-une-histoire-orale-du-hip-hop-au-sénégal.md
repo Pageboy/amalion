@@ -5,7 +5,7 @@ released: 2015-08-31T12:28:52.771Z
 cover_image: ../uploads/9782359260151-walabok.jpg
 caption: "Wala Bok: Une histoire orale du hip hop au Sénégal"
 isbn: "9782359260151"
-price: $34.95 £24.99 €28.5 CFA15000
+price: $34.95 • £24.99 • €28.5 • CFA15000
 extent: "234 x 156 mm, Extent: 304 pp"
 layout: catalogue_item
 ---
