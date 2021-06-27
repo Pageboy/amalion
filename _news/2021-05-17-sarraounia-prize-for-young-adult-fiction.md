@@ -1,12 +1,11 @@
 ---
 layout: post
+category: news
 title: Sarraounia Prize for Young Adult Fiction
-date: 2021-05-17T13:44:42.728Z
-category: "news"
+date: 2019-04-01T13:44:42.728Z
+eventdate: 2019-04-01T18:32:41.741Z
 ---
 The **[Arts & Culture programme at Abdou Moumouni University](https://www.facebook.com/La-fili%C3%A8re-Arts-et-CultureUAM-2261231903951300/?notify_field=blurb&modal=profile_completion "Arts & Culture programme")** in Niger and the publishing house **Amalion** in Senegal are pleased to announce the call for entries for the **[Sarraounia Prize for Young Adult Fiction](http://www.sarraounia.com/ "Sarraouni Prize for Young Adult Fiction")** to contribute to the availability of reading material for African young adults and to promote literature to help better understand the world of African youths. Every two years, the Sarraounia Prize will be awarded to the best unpublished fiction for young adults written by African authors and illustrators based in Africa.
-
-<!--more-->
 
 For the 2020 edition, the winner will receive a prize of **1,000 euros**, and the winning entry will be published and disseminated by Amalion and its partners from May 2020. The Sarraounia Prize will explore all traditional and digital media technologies to disseminate its activities and will endeavour to promote the writer and their work in various forums, in order to bring their work to the attention of book industry actors and the general public. longer: 
 
@@ -31,8 +30,8 @@ An award ceremony will be held in April 2020 in Niamey, where the winner will be
 The winning applicant authorizes the Sarraounia Prize and Amalion and its partners to edit, publish and disseminate the work all over the world.
 
 **CALENDAR**
- * 30 June 2019: Call for application and submission.
 
+* 30 June 2019: Call for application and submission.
 * 30 September 2019: Closing Date for applications
 * 30 November 2019: Jury Selection
 * 15 December 2020: Official Annoncement of Winne
