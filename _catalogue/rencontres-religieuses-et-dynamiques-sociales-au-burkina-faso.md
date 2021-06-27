@@ -9,9 +9,11 @@ price: $40 • $40 • £30 • €35 • CFA17500
 extent: 234 mm x 156 mm, 344pp; photos, illustrations
 layout: catalogue_item
 ---
-# Alice Degorce, Ludovic O. Kibora & Katrin Langewiesche (Éds)
+## Alice Degorce, Ludovic O. Kibora & Katrin Langewiesche (Éds)
 
-**Préface par Professeur Benjamin Soares, Department of Religion, Université de Floride, États-Unis.**
+### **Préface par Professeur Benjamin Soares,** 
+
+Department of Religion, Université de Floride, États-Unis.
 
 Le Burkina Faso est caractérisé par un paysage religieux, où se côtoient religions traditionnelles, musulmanes et chrétiennes. Cette cohabitation s’inscrit dans un contexte social et historique étudié de longue date par les chercheurs. Alors que la situation sécuritaire se dégrade depuis plusieurs années dans la zone sahélo-saharienne, la question religieuse est de plus en plus mise sur le devant de la scène burkinabè. Cet ouvrage collectif propose aux lecteurs une synthèse des connaissances accumulées par les chercheurs au cours des dernières décennies sur les différentes religions et les dynamiques sociales qui y sont associées.
 
