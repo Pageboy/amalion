@@ -39,7 +39,19 @@ collections:
           default: "news",
         }
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - {
+          label: "Publish Date",
+          name: "date",
+          widget: "datetime",
+          hint: "This is what determines the order on the news page with the latest on th top.",
+        }
+      - {
+          label: "Event Date",
+          name: "eventdate",
+          widget: "datetime",
+          required: false,
+          hint: "If this is an Event, you can put the actual date in here. This will display as one date (day,month,year. Other details (such as range of dates) can go into the main text field.",
+        }
       - {
           label: "Main Text",
           name: "body",

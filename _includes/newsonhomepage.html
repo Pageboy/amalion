@@ -1,6 +1,6 @@
 <div class="posts">
 
-  {%- assign items = site.news | sort: 'date' -%}
+  {%- assign items = site.news | sort: 'date' | reverse -%}
     {%- for news in items limit:{{include.newsrange}} -%}
     <div class="post-teaser">
         <span>

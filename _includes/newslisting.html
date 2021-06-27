@@ -1,6 +1,6 @@
 <div class="posts">
 
-  {%- assign items = site.news | sort: 'date' -%}
+  {%- assign items = site.news | sort: 'date' | reverse -%}
     {%- for news in items limit:{{include.newsrange}} -%}
     <div class="post-teaser">
         <span>
@@ -10,14 +10,17 @@
                 {{ news.title }}
               </a>
             </h1>
-            <div class="post-info">
-              <p class="meta">
-                {{ news.date | date: "%B %-d, %Y" }}
-              </p>
-          </div>
+            {%- if news.eventdate -%}
+            <p class="meta">
+              Event date: {{ news.eventdate | date: "%B %-d, %Y" }}
+            </p>
+            {- endif -}
           </header>
           <div class="excerpt newsitem">
               {{ news.content | markdownify | truncatewords: 50 }}
+                <p class="meta">
+                  Date posted: {{ news.date | date: "%B %-d, %Y" }}
+                </p>
               <a aria-label="{{ news.title }}" class="post-link" href="{{ news.url | relative_url }}">
                 <p class="permalink">Read more <i class="fa fa-caret-right fa-2x"></i></p>
               </a>

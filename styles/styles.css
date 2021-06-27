@@ -368,12 +368,18 @@ header {
   border-bottom: 1px solid silver;
 }
 
-.meta,
 #post-nav p {
   color: #595959;
   letter-spacing: 0.1em;
   margin: 0;
   text-transform: uppercase;
+}
+
+.meta {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 0.7em;
+  color: #595959;
+  margin: 0;
 }
 
 .post-info {
