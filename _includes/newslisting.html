@@ -14,7 +14,7 @@
             <p class="meta">
               Event date: {{ news.eventdate | date: "%B %-d, %Y" }}
             </p>
-            {- endif -}
+            {%- endif -%}
           </header>
           <div class="excerpt newsitem">
               {{ news.content | markdownify | truncatewords: 50 }}
