@@ -10,7 +10,7 @@ price: $16.95 £12.95 €15.50 CFA7500
 extent: 144 pp 140 x 216 mm
 layout: catalogue_item
 ---
-# Antoinette Tidjani-Alou
+## Antoinette Tidjani-Alou
 
 “Tidjani Alou’s writing sketches the commonplace and the metaphysical, with heft, honesty, and audacity. The range is compelling, as she takes us through lives in places as diverse as Accra and Niamey. The prose is deft, her metaphors sting with accuracy. This is a writer to think and feel with.” **– Emmanuel Iduma, editor, *Saraba Magazine.***
 
