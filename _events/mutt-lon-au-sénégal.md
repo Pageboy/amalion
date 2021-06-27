@@ -5,6 +5,8 @@ layout: post
 ---
 **Rencontre-Débat**
 
+![Daniel Nsegbe (Mutt-lon) au Sénégal](../uploads/FB_DanielNsegbeDakar.jpg "Daniel Nsegbe (Mutt-lon) au Sénégal")
+
 Amalion, Alliance internationale des éditeurs indépendants et Lycée de Nguékokh ont le plaisir de vous inviter au rencontre avec Daniel Nsegbe, lauréat du Prix Ahmadou Kourouma 2014 et auteur du livre "[Ceux qui sortent dans la nuit](http://www.amalion.net/catalogue_en/item/ceux_qui_sortent_dans_la_nuit/ "Ceux qui sortent dans la nui")" par Mutt-Lon.
 
 Date: **Samedi 2 novembre 2019** de **10.00h** à **12.30**
