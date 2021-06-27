@@ -2,7 +2,7 @@
 layout: post
 category: news
 title: Antoinette Tidjani Alou at Frankfurt
-date: 2021-06-27T12:34:22.704Z
+date: 2018-06-06T12:34:22.704Z
 eventdate: 2018-10-13T12:34:22.715Z
 ---
 ## Frankfurt Book Fair 2018
