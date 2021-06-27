@@ -24,4 +24,6 @@ layout: catalogue_item
 
 ### Author Details
 
+![Akwasi Aidoo](../uploads/akwasi-2.jpg "Akwasi Aidoo")
+
 **Akwasi Aidoo** is a Senior Fellow at Humanity United, a foundation dedicated to building peace and advancing human freedom around the world. Prior to that, Akwasi was the founding Executive Director of TrustAfrica; head of the health and equity program of the Canadian International Development Research Centre (IDRC) in West and Central Africa; head of the Ford Foundation's offices in Senegal and Nigeria, and Director of the Ford Foundation’s Special Initiative for Africa. Akwasi currently serves on the Boards of several international organizations and foundations on the continent and around the world. In 2015, he received the Africa Philanthropy Award in Tanzania. Akwasi was educated in Ghana and the United States and received a PhD in Sociology from the University of Connecticut in 1985. He has taught at universities in Ghana, Tanzania, and the United States. He writes poetry and fiction.

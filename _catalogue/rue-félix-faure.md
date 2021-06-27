@@ -1,9 +1,10 @@
 ---
 title: Rue Félix-Faure
+date: 2021-06-27T10:58:29.843Z
 released: 2021-06-08T13:00:51.483Z
 cover_image: ../uploads/9782359260960.jpg
 isbn: 9782359260960 PB,  9782359260977 E
-price: "Price: $21.95 • £16.95 • €19.50 • CFA12500"
+price: $21.95 • £16.95 • €19.50 • CFA12500
 extent: 216 x 140 mm, 260pp
 layout: catalogue_item
 ---

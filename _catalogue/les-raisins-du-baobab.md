@@ -3,9 +3,9 @@ title: Les Raisins du baobab
 date: 2021-06-22T10:27:19.924Z
 released: 2010-03-01T11:27:19.933Z
 cover_image: ../uploads/lesRaisins.jpg
-isbn: 978-2-35926-007-6 PB
-price: $16.95 â€¢ Â£10.95 â€¢ â‚¬15.50 â€¢ CFA7500
-extent: "203 x 127 mm, Extent: 86 pages"
+isbn: 978235926007 PB
+price: $16.95 £10.95 €15.50 CFA7500
+extent: 86 pp 203 x 127 mm
 layout: catalogue_item
 ---
 ## Ibrahima Amadou Niang
