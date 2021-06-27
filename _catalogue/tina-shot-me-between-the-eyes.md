@@ -1,6 +1,6 @@
 ---
-title: Tina Shot Me Between the Eyes
-subtitle: and Other Stories
+title: Tina Shot Me Between the Eyes and Other Stories
+subtitle: ""
 date: 2021-06-27T11:11:41.818Z
 released: 2017-11-01T11:11:41.834Z
 cover_image: ../uploads/9782359260724-tina-shot-me-between-the-eyes.jpg
@@ -23,3 +23,5 @@ In fifteen formidable lyrical prose, *Tina Shot Me Between the Eyes* explores 
 ![Antoinette Tidjani-Alou](../uploads/antoinette_tidjani.jpg "Antoinette Tidjani-Alou")
 
 **Antoinette Tidjani Alou** did her undergraduate studies at the University of the West Indies (Mona Campus, Kingston) and her postgraduate studies at the University of Bordeaux (France). She is a Professor of French and Comparative Literature and Director of the Arts and Culture Programme at the Université Abdou Moumouni de Niamey, in Niger where she has lived for more than two decades. An independent translator, she has published several articles and books. Writing in both French and in English, covering life­writing, poetry and short stories.
+
+Review: [Vignettes on our lives and dreams by Theresa Mallinson, Mail and Guardian, 2 August 2019.](https://mg.co.za/article/2019-08-02-00-vignettes-on-our-lives-and-dreams)
