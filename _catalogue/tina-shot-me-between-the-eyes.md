@@ -5,7 +5,7 @@ date: 2021-06-27T11:11:41.818Z
 released: 2017-11-01T11:11:41.834Z
 cover_image: ../uploads/9782359260724-tina-shot-me-between-the-eyes.jpg
 caption: Tina Shot Me Between the Eyes and Other Stories
-isbn: 978-2-35926-072-4 PB  978-2-35926-073-1 Ebook
+isbn: 9782359260724 PB  9782359260731 Ebook
 price: $16.95 £12.95 €15.50 CFA7500
 extent: 144 pp 140 x 216 mm
 layout: catalogue_item
