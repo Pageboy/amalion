@@ -9,17 +9,10 @@ eventdate: 2009-07-10T11:55:36.449Z
 
 *An eclectic group gathered on a Friday evening at Kadjinol Station for the launch of* Give Me Room to Move My Feet, *in what turned out to be a delightful evening of words and motion. With Kora music by Diabate, the drums from the Goree group in the air, and the taste of ablo, shrimps, and chicken wings on the palate, members of the community and the poet read from the new collection. Karima Grant captures the evening in words.*
 
- 
-
-Come.
-
-The green trees will be our shade
-
-As we watch this sacred birth.
-
+Come.\
+The green trees will be our shade\
+As we watch this sacred birth.\
 The night is seductive”
-
- 
 
 A sultry Friday evening, late June. Summer shades of people seeking rest and comfort from a week’s worth of battle on the front of the war for African economic justice and truly sustainable development gather quietly at Kadjinol Station. The night unfolds dreamily around the lighted fountain, even the sun bows in submission to the echoing ebb and flow rhythms of the djembe. The poet, Mildred Kiconco Barya sits upon a stage, scribbling thoughtful words of love and dedication onto the newly purchased pages of her first collaboration with Amalion Publishing, *Give Me Room To Move My Feet.*
 
@@ -27,12 +20,8 @@ A sultry Friday evening, late June. Summer shades of people seeking rest and com
 
 At evening’s end, the people linger, reluctant to fall into the now dark night. But they return to their lives fortified by a unique vision and eloquent voice of grace – new songs of and for Africa, Amalion Publishing’s mission of excellence.
 
- 
-
-"Soon it will be farewell
-
-Death and dawn.
-
+"Soon it will be farewell\
+Death and dawn.\
 There she is ripe, round”
 
 The poet steps from the stage, ending this particular night, but inaugurating and illuminating a new and more powerful future.
