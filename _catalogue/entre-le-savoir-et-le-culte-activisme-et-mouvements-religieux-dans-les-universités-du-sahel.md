@@ -1,7 +1,7 @@
 ---
 title: Entre le Savoir et le Culte
 price: $35 • £30 • €35 • CFA15000
-extent: 234 mm x 156 mm, 224pp, 2020
+extent: 224pp, 234 mm x 156 mm
 layout: catalogue_item
 order: 1
 subtitle: Activisme et mouvements religieux dans les universités du Sahel
