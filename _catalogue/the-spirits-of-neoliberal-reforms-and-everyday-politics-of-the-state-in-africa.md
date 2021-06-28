@@ -5,8 +5,8 @@ released: 2017-06-26T13:54:25.545Z
 cover_image: ../uploads/9782359260670-Spirits.jpg
 caption: The Spirits of Neoliberal Reforms and Everyday Politics of the State in Africa
 isbn: 9782359260670 PB  9782359260687 Ebook
-price: $40 £30 €35 CFA15000
-extent: 229 mm x 152 mm, 208pp
+price: $40 • £30 • €35 • CFA15000
+extent: 208 pp, 229 mm x 152 mm
 layout: catalogue_item
 ---
 ## Béatrice Hibou, Boris Samuel & Laurent Fourchard (Eds.)
