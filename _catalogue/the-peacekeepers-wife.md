@@ -5,7 +5,7 @@ released: 2015-09-01T14:03:18.136Z
 cover_image: ../uploads/Eze.jpg
 caption: The Peacekeeper's Wife
 isbn: 9782359260441 PB  9782359260458 Ebook
-price: $19.95 £16.95 €20.50 CFA13000
+price: $19.95 • £16.95 • €20.50 • CFA13000
 extent: 272 pp; 216 x 140 mm
 layout: catalogue_item
 ---
