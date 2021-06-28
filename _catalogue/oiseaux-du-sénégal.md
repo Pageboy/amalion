@@ -4,7 +4,7 @@ date: 2017-05-01T10:59:40.218Z
 released: 2017-05-01T10:59:40.246Z
 cover_image: ../uploads/oiseaux-du-senegal.jpg
 isbn: 9782359260748 BrochÃ©
-price: $24.95 £19.95 €24.50 CFA15000
+price: $24.95 • £19.95 • €24.50 • CFA15000
 extent: 132pp, 216 x 140mm
 layout: catalogue_item
 ---
