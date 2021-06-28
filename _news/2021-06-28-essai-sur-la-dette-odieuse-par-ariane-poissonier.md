@@ -3,7 +3,7 @@ layout: post
 category: news
 title: Essai sur La dette odieuse par Ariane Poissonier
 date: 2013-10-29T13:05:31.655Z
-eventdate: ""
+eventdate: null
 ---
 Lors d’une conférence organisée à Dakar, en avril 2013, devant des étudiants d’une école de commerce, Léonce Ndikumana martèle : « *Ce n’est pas l’Afrique qui est endettée vis-à-vis du monde, c’est plutôt le monde qui est endetté vis-à-vis de l’Afrique ; le mythe selon lequel l’Afrique ne peut pas réduire la pauvreté est créé par le drainage de ses ressources. L’Afrique peut éradiquer la pauvreté si ses ressources restent sur le continent.* » En quelques mots, le professeur d’économie, né au Burundi, résume l’un des messages principaux du livre *La dette odieuse de l’Afrique. Comment l’endettement et la fuite des capitaux ont saigné un continent,* qu’il a signé avec son collègue James K. Boyce.
 

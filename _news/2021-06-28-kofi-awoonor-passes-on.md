@@ -3,7 +3,7 @@ layout: post
 category: news
 title: Kofi Awoonor passes on
 date: 2013-10-09T13:02:23.725Z
-eventdate: ""
+eventdate: null
 ---
 ![Kofi Awoonor passes on](../uploads/Awoonor.jpg "Kofi Awoonor passes on")
 

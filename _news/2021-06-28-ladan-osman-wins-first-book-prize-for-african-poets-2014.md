@@ -3,7 +3,7 @@ layout: post
 category: news
 title: Ladan Osman wins First Book Prize for African Poets 2014
 date: 2014-03-22T13:11:11.816Z
-eventdate: ""
+eventdate: null
 ---
 ![Ladan Osman wins First Book Prize for African Poets 2014](../uploads/20140207osman.jpg "Ladan Osman wins First Book Prize for African Poets 2014")
 

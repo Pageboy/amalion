@@ -17,11 +17,7 @@
         {%- endif -%}
       </header>
       <div class="excerpt newsitem">
-        {%- if news.eventdate -%}
-        {{ news.content | markdownify | truncatewords: 35 }}
-        {%- else -%}
-        {{ news.content | markdownify | truncatewords: 50 }}
-        {%- endif -%}
+        {{ news.content | markdownify | truncatewords: 50 | remove: "<em>" | remove: "</em>"}}
         <a aria-label="{{ news.title }}" class="post-link" href="{{ news.url | relative_url }}">
           <p class="permalink">Read more <i class="fa fa-caret-right fa-2x"></i></p>
         </a>

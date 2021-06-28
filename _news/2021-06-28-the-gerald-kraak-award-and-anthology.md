@@ -3,7 +3,7 @@ layout: post
 category: news
 title: The Gerald Kraak Award and Anthology
 date: 2016-03-12T13:27:20.238Z
-eventdate: ""
+eventdate: null
 ---
 ![The Gerald Kraak Award and Anthology](../uploads/web-capture_28-6-2021_132710_www.amalion.org.jpeg "The Gerald Kraak Award and Anthology")
 

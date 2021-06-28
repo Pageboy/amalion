@@ -3,7 +3,7 @@ layout: post
 category: news
 title: Louis Camara interviewed by Le Soleil
 date: 2015-12-12T13:25:39.757Z
-eventdate: ""
+eventdate: null
 ---
 Author of the Amalion publication *Le Choix de l’Ori*, Louis Camara, was interviewed by Mbagnick K. Diagne, journalist at Senegalese newspaper *Le Soleil*, to talk about his book. Topics ranged from Camara’s choice of publishers, the Yoruba culture and his wishes for artistic creativity in the future.
 

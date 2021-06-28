@@ -3,7 +3,7 @@ layout: post
 category: news
 title: Wala Bok on RFI Musique
 date: 2015-09-15T13:21:14.746Z
-eventdate: ""
+eventdate: null
 ---
 An article on Fatou Kandé Senghor’s new book *Wala Bok: Une histoire orale du hip hop au Sénégal* (2015) was published by RFI Musique. RFI Musique is a TV programme and website that delivers the latest news about French and African music.
 

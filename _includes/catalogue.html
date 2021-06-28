@@ -18,11 +18,7 @@
               {% if catalogue.cover_image %}
                 <img class="thumb" src="{{ catalogue.cover_image| replace: '../uploads', '/uploads' }}" alt="{{ catalogue.title }}" />
               {% endif %}
-              {% if catalogue.content contains '<!--more-->' %}
-              {{ catalogue.content | split:'<!--more-->' | first }}
-            {% else %}
-            {{ catalogue.content | markdownify | truncatewords: 50 }}
-            {% endif %} 
+            {{ catalogue.content | markdownify | truncatewords: 50 | remove: "<em>" | remove: "</em>"}}
                   <p class="info"><b>Release Date:</b> {{ catalogue.released | date: "%B %Y" }}</p>
               <a aria-label="{{ post.title }}" class="post-link" href="{{ catalogue.url | relative_url }}">
                 <p class="permalink">Read more <i class="fa fa-caret-right fa-2x"></i></p>

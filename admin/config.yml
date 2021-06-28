@@ -50,6 +50,7 @@ collections:
           name: "eventdate",
           widget: "datetime",
           required: false,
+          default: null,
           hint: "If this is an Event, you can put the actual date in here. This will display as one date (day,month,year. Other details (such as range of dates) can go into the main text field.",
         }
       - {

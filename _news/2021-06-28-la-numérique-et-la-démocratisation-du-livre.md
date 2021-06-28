@@ -3,7 +3,7 @@ layout: post
 category: news
 title: La numérique et la démocratisation du livre
 date: 2016-06-02T13:30:52.432Z
-eventdate: ""
+eventdate: null
 ---
 La deuxième édition des [Assises de l’édition francophone ](http://www.salondulivre.ch/fr/pages/les-assises-de-l-edition-francophone-et-suisse-27-et-28-avril-2016-12649)tenue le 27 avril 2016 lors du Salon international du livre et de la presse de Genève avait pour thème « Numérique et édition : panacée ou enfer ? Le livre face aux défis de la technologie ». Plusieurs questions liées au numérique et à son impact majeur sur la chaîne du livre ont fait l’objet des discussions entre les différents intervenants.
 

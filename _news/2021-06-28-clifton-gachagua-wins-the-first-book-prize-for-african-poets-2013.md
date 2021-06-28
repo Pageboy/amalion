@@ -3,7 +3,7 @@ layout: post
 category: news
 title: Clifton Gachagua wins the First Book Prize for African Poets 2013
 date: 2013-01-28T12:51:28.421Z
-eventdate: ""
+eventdate: null
 ---
 ![Clifton Gachagua wins the First Book Prize for African Poets 2013](../uploads/Clifton-Gachagua.jpg "Clifton Gachagua wins the First Book Prize for African Poets 2013")
 

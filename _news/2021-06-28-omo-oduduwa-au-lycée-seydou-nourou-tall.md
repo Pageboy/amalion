@@ -3,7 +3,7 @@ layout: post
 category: news
 title: Omo Oduduwa au Lycée Seydou Nourou Tall
 date: 2016-06-09T16:15:52.821Z
-eventdate: ""
+eventdate: null
 ---
 ![Omo Oduduwa au Lycée Seydou Nourou Tall](../uploads/web-capture_28-6-2021_133250_www.amalion.org.jpeg "Omo Oduduwa au Lycée Seydou Nourou Tall")
 

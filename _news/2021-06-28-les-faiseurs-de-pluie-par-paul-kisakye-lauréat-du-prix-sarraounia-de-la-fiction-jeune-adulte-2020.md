@@ -4,7 +4,7 @@ category: news
 title: Les faiseurs de pluie par Paul Kisakye, lauréat du Prix Sarraounia de la
   Fiction Jeune Adulte 2020
 date: 2020-09-30T15:54:19.597Z
-eventdate: ""
+eventdate: null
 ---
 Nous sommes heureux de présenter le lauréat de la première édition du **Prix Sarraounia de la Fiction Jeune Adulte 2020**, **Paul Kisakye** pour *The Rainmakers \[Les faiseurs de pluie]*. L'aventure-mystère de cinq adolescents et d'un oncle retrouvé pendant la monotonie des vacances dans une ferme hi-tech d’Ouganda, s'est démarquée des centaines de manuscrits en français et en anglais que nous avons reçu de tout le continent.
 

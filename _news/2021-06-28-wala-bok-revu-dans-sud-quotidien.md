@@ -3,7 +3,7 @@ layout: post
 category: news
 title: Wala Bok revu dans Sud Quotidien
 date: 2015-10-02T13:22:21.524Z
-eventdate: ""
+eventdate: null
 ---
 Fatou Kandé Senghor a été interviewée par Théodora Sy Sambou dans *Sud Quotidien*. Fatou Kandé Senghor discute son livre Wala Bok: Une histoire orale du hip hop au Sénégal (2015) 
 

@@ -3,7 +3,7 @@ layout: post
 category: news
 title: Kandé Senghor on Ousmane Sembene’s influence
 date: 2015-09-11T13:19:31.085Z
-eventdate: ""
+eventdate: null
 ---
 Fatou Kandé Senghor, the author of *Wala Bok: Une histoire orale du hip hop au Sénégal* (2015), has always had strong African role models in her life. One of the most prominent figures was the late Senegalese writer and cinematographer Ousmane Sembène, strongly considered as the ‘father of African cinema’ and one of the most prominent pan-African artists in the world. In an interview with [EnQuête*+*](http://www.enqueteplus.com/content/en-prive-avec-fatou-kande-senghor-artiste-%E2%80%98%E2%80%99-ne-peut-pas-arriver-et-faire-hollywood-demain%E2%80%99%E2%80%99 "Fatou Kandé Senghor Interview"), Kandé Senghor reveals the depth of Sembène’s influence on not only her writing, but also the, ideology that prompted her to write the book.
 

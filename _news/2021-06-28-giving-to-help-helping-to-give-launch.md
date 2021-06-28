@@ -3,7 +3,7 @@ layout: post
 category: news
 title: Giving to Help, Helping to Give launch
 date: 2013-08-15T12:58:34.772Z
-eventdate: ""
+eventdate: null
 ---
 ![Giving to Help, Helping to Give launch](../uploads/philanthropy-launch-web2.jpg "Giving to Help, Helping to Give launch")
 

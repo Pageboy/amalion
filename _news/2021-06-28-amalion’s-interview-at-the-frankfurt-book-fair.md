@@ -3,7 +3,7 @@ layout: post
 category: news
 title: Amalion’s interview at the Frankfurt Book Fair
 date: 2015-03-05T13:13:10.813Z
-eventdate: ""
+eventdate: null
 ---
 Germany-based Diaspora news outlet togonews.info interviewed Sulaiman Adebowale, Director of Amalion Publishing, about his involvement in the 2014 Frankfurt Book Fair in Frankfurt, Germany. The interview was conducted jointly by Chariffou Ouro-Sama and Clemens Benkel from the Africa Development Group. The Frankfurt Book Fair attracts thousands of professional publishers from all over the world to meet and trade content on an international level. Not only reserving itself to the book market, it represents multiculturality through achievements in art and literature. 
 

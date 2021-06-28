@@ -3,7 +3,7 @@ layout: post
 category: news
 title: Blogger Aboubacar Demba Cissokho reviews Wala Bok
 date: 2015-09-09T13:15:37.646Z
-eventdate: ""
+eventdate: null
 ---
 Blogger Aboubacar Demba Cissokho gives us his review of Fatou Kandé Senghor’s *Wala Bok: Une histoire orale du hip hop au Sénégal* (2015).
 

@@ -3,7 +3,7 @@ layout: post
 category: news
 title: Amalion authors at Paroles Indigo Festival
 date: 2015-11-09T13:24:03.481Z
-eventdate: ""
+eventdate: null
 ---
 Three Amalion titles featured at this year’s edition of *Paroles Indigo*, a literary and artistic festival of voices from around the world. Fatou Kandé Senghor (*Wala Bok: Une Histoire orale du hip hop au Sénégal*), Kevin Eze (*The Peacekeeper’s Wife*), and the late Kofi Awoonor (The Promise of Hope) represented by Sulaiman Adebowale. The festival, which took place in the historic Roman city of Arles, France, ran from 30th October until the 2nd November 2015.
 

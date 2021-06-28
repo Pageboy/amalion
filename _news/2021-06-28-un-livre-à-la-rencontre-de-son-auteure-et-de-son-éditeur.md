@@ -3,7 +3,7 @@ layout: post
 category: news
 title: Un livre à la rencontre de son auteure et de son éditeur
 date: 2016-06-01T13:29:15.344Z
-eventdate: ""
+eventdate: null
 ---
 ![Un livre à la rencontre de son auteure et de son éditeur](../uploads/SulaimanAdebowale-AntoineGlaser-FatouKande-geneve.jpg "Un livre à la rencontre de son auteure et de son éditeur")
 

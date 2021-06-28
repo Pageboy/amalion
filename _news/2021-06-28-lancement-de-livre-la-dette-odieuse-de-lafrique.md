@@ -3,7 +3,7 @@ layout: post
 category: news
 title: "Lancement de livre: La dette odieuse de l'Afrique"
 date: 2013-04-11T12:55:30.607Z
-eventdate: ""
+eventdate: null
 ---
 ![Lancement de livre: La dette odieuse de l'Afrique](../uploads/dette-odieuse-launch.jpg "Lancement de livre: La dette odieuse de l'Afrique")
 

@@ -3,7 +3,7 @@ layout: post
 category: news
 title: Wala Bok at the Goethe Institute
 date: 2015-10-05T13:23:15.079Z
-eventdate: ""
+eventdate: null
 ---
 On the 30th September 2015, the book *Wala Bok: Une histoire orale du hip hop au Sénégal* by Fatou Kandé Senghor was presented to the public at the *Goethe-Institute* in Dakar, Senegal. In it, Senghor talks about her love of hip-hop and its influence on Senegalese, music, and culture.
 

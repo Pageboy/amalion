@@ -3,7 +3,7 @@ layout: post
 category: news
 title: A child’s life for €375
 date: 2012-12-13T12:49:58.981Z
-eventdate: ""
+eventdate: null
 ---
 Fahmida Khan, the writer for Pambazuka News, reviews Tina Okpara’s eye-opening memoir ‘My Life has a Price’. Pambazuka News is a pan-African community dedicated to the promotion of social justice in Africa. Here is an excerpt of the review:
 
