@@ -1,11 +1,12 @@
 ---
 title: "L’Enquête et ses graphies en sciences sociales: figurations
   iconographiques d’après société"
+date: 2021-06-28T14:00:56.670Z
 released: 2019-03-01T20:06:19.653Z
 cover_image: ../uploads/Enquete-9782359260786_web.jpg
 isbn: 9782359260786 PB,  9782359260793 E
 price: $40 • £30 • €35 • CFA15000
-extent: 234 mm x 156 mm, 208pp
+extent: 208pp, 234 mm x 156 mm
 layout: catalogue_item
 ---
 ## Katrin Langewiesche & Jean-Bernard Ouédraogo (Éds)

@@ -7,7 +7,7 @@ caption: "Les oiseaux d’eau sur la rive du lac: Une anthologie de jeunes adult
   africains"
 isbn: 9782359260854 (P),  9782359260861 (E)
 price: $16.95 • £12.95 • €15.50 • CFA7500
-extent: 216 mm x 140 mm, 244pp
+extent: 244pp, 216 mm x 140 mm
 layout: catalogue_item
 ---
 ## Edwige-Renée Dro, Elias Mutani & Zukiswa Wanner (Éds)

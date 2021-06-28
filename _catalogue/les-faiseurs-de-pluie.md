@@ -6,7 +6,7 @@ cover_image: ../uploads/978235926104-2-cov.jpg
 caption: Les faiseurs de pluie
 isbn: 9782359261042 PB  9782359261059 E
 price: $14.95 • £12.95 • €15.50 • CFA7500
-extent: 207 x 123 mm, 140 pp
+extent: 140pp, 207 x 123 mm
 layout: catalogue_item
 ---
 ## **Paul Kisakye**

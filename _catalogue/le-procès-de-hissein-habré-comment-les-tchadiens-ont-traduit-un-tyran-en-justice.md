@@ -8,7 +8,7 @@ caption: "Le procès de Hissein Habré: Comment les Tchadiens ont traduit un tyr
   en justice"
 isbn: 9782359260984 PB,  9782359260991 E
 price: $27.95 • £21.95 • €24.95 • CFA12500
-extent: 216 mm x 140 mm, 224pp
+extent: 224pp, 216 mm x 140 mm
 layout: catalogue_item
 ---
 ## Celeste Hicks

@@ -4,7 +4,8 @@ date: 2021-06-22T09:49:20.053Z
 released: 2011-08-01T09:49:20.073Z
 cover_image: ../uploads/Her_StoryVol1.jpg
 isbn: 978-2-35926-003-8
-price: $34.95 â€¢ Â£20.99 â€¢ â‚¬25 â€¢ CFA15000
+price: $34.95 • £20.99 • 25 • CFA15000
+extent: 288 pp, 229x152 mm
 layout: catalogue_item
 ---
 ## Anthonia Makwemoisa (Ed.)

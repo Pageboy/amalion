@@ -3,12 +3,12 @@ title: British Colonisation of Northern Nigeria, 1897-1914
 subtitle: " A Reinterpretation of Colonial Sources"
 date: 2021-06-27T13:30:14.300Z
 released: 2016-08-01T13:30:14.314Z
-cover_image: ../uploads/mahmud-tukur.jpg
+cover_image: ../uploads/9782359260465.jpg
 caption: "British Colonisation of Northern Nigeria, 1897-1914:  A
   Reinterpretation of Colonial Sources"
 isbn: 9782359260465 HB,  9782359260472 PB, 9782359260489 Ebook
-price: $59.95 £45 €54.50 CFA25000 Paperback
-extent: "Size: 234 x 156 mm, Extent: 576 pp"
+price: $59.95 • £45 • €54.50 • CFA25000 Paperback
+extent: "576pp, Size: 234 x 156 mm"
 layout: catalogue_item
 ---
 ## Mahmud Modibbo Tukur

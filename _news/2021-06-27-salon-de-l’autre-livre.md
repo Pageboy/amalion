@@ -7,7 +7,7 @@ eventdate: 2018-11-16T13:31:42.666Z
 ---
 ## Halle des Blancs Manteaux, Paris, France
 
-**L*‘autre* Livre**
+**L'*autre* Livre**
 
 ![Salon de L’autre Livre](../uploads/FB_Lautre-livre.jpg)
 
@@ -17,4 +17,4 @@ Lieu: Halle des Blancs Manteaux, 48 rue Vieille-du-Temple, 7500 Paris, France.
 
 Stand D24
 
-Pour plus d’info [https://www.lautrelivre.f
+Pour plus d’info \[https://www.lautrelivre.fr]

@@ -5,8 +5,8 @@ released: 2009-06-01T13:11:49.638Z
 cover_image: ../uploads/Give-Me-Room-Barya2.jpg
 caption: Give Me Room to Move My Feet
 isbn: 9782359260014 HB
-price: $17.50 GBP10.95 €12.50 CFA7500
-extent: "Size: 129 x 198 mm, Extent: 128 pp"
+price: $17.50 • £10.95 • €12.50 • CFA7500
+extent: 128pp, 129 x 198 mm
 layout: catalogue_item
 ---
 ## Mildred Kiconco Barya
