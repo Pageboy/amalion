@@ -3,8 +3,8 @@ title: Le Choix de l’Ori
 date: 2015-04-01T10:40:39.684Z
 released: 2015-04-01T10:40:39.701Z
 cover_image: ../uploads/Louis_Camara.jpg
-isbn: 9782359260373 brochÃ©, 9782359260380 ebook
-price: £12.95 $16.95 €14.50 CFA7500
+isbn: 9782359260373 brochure, 9782359260380 ebook
+price: £12.95 • $16.95 • €14.50 • CFA7500
 extent: 144 pages, 203 x 127 mm
 layout: catalogue_item
 ---
