@@ -4,7 +4,7 @@ date: 2017-06-01T11:09:08.799Z
 released: 2017-06-01T11:09:08.820Z
 cover_image: ../uploads/Kalidou_Kasse.jpg
 isbn: 9782359260410 reliÃ©
-price: $64.95 £39.99 €48.50 CFA25000
+price: $64.95 • £39.99 • €48.50 • CFA25000
 extent: 144 pages, 216 x 280 mm
 layout: catalogue_item
 ---
