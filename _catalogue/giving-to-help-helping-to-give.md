@@ -1,9 +1,9 @@
 ---
-price: $39.95 - £24.99  - €30 - CFA15000
-extent: "234 x 153 mm, Extent: 464 pp"
+title: Giving to Help, Helping to Give
+price: $39.95 • £24.99 • €30 • CFA15000
+extent: 464pp, 234 x 153 mm
 layout: catalogue_item
 order: 1
-title: Giving to Help, Helping to Give
 subtitle: The Context and Politics of African Philanthropy
 date: 2021-06-22T18:23:17.592Z
 released: 2013-06-01T18:16:10.243Z
