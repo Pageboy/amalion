@@ -4,7 +4,7 @@ date: 2017-04-01T10:35:06.572Z
 released: 2017-04-01T10:35:06.591Z
 cover_image: ../uploads/9782359260502_Iyewa.jpg
 isbn: 9782359260502 PB, 9782359260519 Ebook
-price: $16.95 £12.95 €15.50 CFA7500
+price: $16.95 • £12.95 • €15.50 • CFA7500
 extent: "144 pp 216 x 140 mm "
 layout: catalogue_item
 ---
