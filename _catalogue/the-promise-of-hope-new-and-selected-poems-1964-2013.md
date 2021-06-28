@@ -1,10 +1,11 @@
 ---
 title: "The Promise of Hope: New and Selected Poems, 1964-2013"
+date: 2021-06-28T13:50:12.912Z
 released: 2014-03-01T18:23:52.665Z
 cover_image: ../uploads/Awoonor.jpg
 isbn: 978-2-35926-030-4
-price: £14.95, $19.95, 16.50, CFA12000
-extent: "229 x 152mm; Extent: 328pp"
+price: £14.95 • $19.95 • 16.50 • CFA12000
+extent: 328 pp, 229 x 152mm
 layout: catalogue_item
 ---
 ## Kofi Awoonor
