@@ -9,9 +9,9 @@ eventdate: 2018-03-11T16:53:15.778Z
 
 **Présentation, dédicace**
 
-Éditions Amalion et Mairie de l’ile de Gorée ont le plaisir de vous inviter à la présentation du livre : “[L’arbre à musique](http://www.amalion.net/catalogue_en/item/larbre_a_musique/)” par Fabrizio Terenzio.
+Amalion et Mairie de l’ile de Gorée ont le plaisir de vous inviter à la présentation du livre : “[L’arbre à musique](http://www.amalion.net/catalogue_en/item/larbre_a_musique/)” par Fabrizio Terenzio.
 
-En présence de Maitre Augustin Senghor, Maire de l’Ile de Gorée et Monsieur Pape Samba Kane, journaliste et écrivain
+En présence de Maitre Augustin Senghor, Maire de l’Ile de Gorée et Monsieur Pape Samba Kane, journaliste et écrivain.
 
 Lieu: Centre Culturel Boubacar Joseph Ndiaye, Gorée, Sénégal.
 
