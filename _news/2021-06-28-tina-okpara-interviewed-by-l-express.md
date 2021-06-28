@@ -1,7 +1,7 @@
 ---
 layout: post
 category: news
-title: Tina Okpara interviewed by L Express
+title: Tina Okpara interviewed by L'Express
 date: 2010-09-06T12:10:43.637Z
 eventdate: 2010-09-13T12:10:43.683Z
 ---
