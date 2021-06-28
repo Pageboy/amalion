@@ -1,7 +1,7 @@
 ---
 title: Ceux qui sortent dans la nuit
-date: 2021-06-28T11:03:52.766Z
-released: 2021-06-28T11:03:52.818Z
+date: 2017-06-01T11:03:52.766Z
+released: 2017-06-01T11:03:52.818Z
 cover_image: ../uploads/Mutt-Lon-ceux-qui-sortent-danslanuit.jpg
 isbn: 9782359260564 PB
 price: $16.95 £14.95 €12.50 CFA5000
