@@ -13,7 +13,7 @@ eventdate: 2017-11-03T16:57:43.747Z
 
 **Friday, November 3, 2:00–3:00 PM \[18:00–19.00 GMT]** 
 
-**The Library of Congress**
+### The Library of Congress
 
 The African and Middle Eastern Division Reading Room
 
