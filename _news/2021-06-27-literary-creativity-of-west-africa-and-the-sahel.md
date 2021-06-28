@@ -15,10 +15,10 @@ eventdate: 2017-11-03T16:57:43.747Z
 
 **The Library of Congress**
 
-**The African and Middle Eastern Division Reading Room**
+The African and Middle Eastern Division Reading Room
 
-**LJ - 220, Thomas Jefferson Building, 10 First St. SE, Washington, DC 20540, USA.**
+LJ - 220, Thomas Jefferson Building, 10 First St. SE, Washington, DC 20540, USA.
 
-**Free and Open to the Public**
+Free and Open to the Public
 
-**Please allow time to clear security.**
+Please allow time to clear security.
