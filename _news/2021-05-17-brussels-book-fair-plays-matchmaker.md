@@ -5,11 +5,11 @@ title: Brussels Book Fair Plays Matchmaker
 date: 2019-03-03T14:46:51.712Z
 eventdate: 2021-06-28T16:33:18.827Z
 ---
-Amalion participated at the Talentueux Indés forum organised by the Paris-based literary agency Pierre Astier during the Foire du Livre du Bruxelles, 14-17 February 2019. Ed Nawotka did a piece on this exciting fair in Publishers Weekly.
+Amalion participated at the Talentueux Indés forum organised by the Paris-based literary agency **Pierre Astier** during the Foire du Livre du Bruxelles, 14-17 February 2019. Ed Nawotka did a piece on this exciting fair in Publishers Weekly.
 
 ## Brussels Book Fair Plays Matchmaker
 
-By Ed Nawotka, Feb 22, 2019, **Publishers Weekly**
+By Ed Nawotka, Feb 22, 2019, ***Publishers Weekly***
 
 The Foire du Livre du Bruxelles, known in English as the Brussels Book Fair, celebrated its 50th anniversary this month with a new international program aimed at raising the event’s profile. Held February 14–17, this year’s fair, which serves the French-speaking community in Belgium, attracted 72,000 visitors, up 5% from 2018.
 
