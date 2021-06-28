@@ -20,7 +20,7 @@
               {%- if news.eventdate -%}
                 {{ news.content | markdownify | truncatewords: 90 }}
               {%- else -%}
-                {{ news.content | markdownify | truncatewords: 50 }}
+                {{ news.content | markdownify | truncatewords: 60 }}
               {%- endif -%}
                 <p class="meta">
                   Date posted: {{ news.date | date: "%B %-d, %Y" }}
