@@ -1,12 +1,13 @@
 ---
-title: Dimensions of Advertising Theory and Practice in Africa
+price: $35 •  £25 • CFA15000
+extent: 288pp, 229 mm x 152 mm
+layout: catalogue_item
 order: 1
+title: Dimensions of Advertising Theory and Practice in Africa
+date: 2021-06-28T14:12:05.603Z
 released: 2013-09-01T18:12:44.366Z
 cover_image: ../uploads/Advertising-rw.jpg
 isbn: 9782359260182 PB,  9782359260199 Ebook
-price: $35 -  £25 - CFA15000
-extent: "229 mm x 152 mm, Extent: 288 pages"
-layout: catalogue_item
 ---
 ## Rotimi Williams Olatunji and Beatrice A. Laninhun (Eds.)
 
