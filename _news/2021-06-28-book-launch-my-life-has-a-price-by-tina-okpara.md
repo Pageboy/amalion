@@ -5,6 +5,8 @@ title: "Book Launch: My Life Has a Price by Tina Okpara"
 date: 2012-10-16T12:42:36.764Z
 eventdate: 2012-10-27T12:42:36.784Z
 ---
+![Book Launch: My Life Has a Price by Tina Okpara](../uploads/tinaokpara-web.jpg "Book Launch: My Life Has a Price by Tina Okpara")
+
 **Book Launch:** *My Life Has a Price* by Tina Okpara
 
 African Futures Carousel
@@ -22,8 +24,6 @@ Copies of the book will be available for sale at the venue, at a discount launch
 For more info see the [African Book Festival](http://www.slamcentral.org/abf/category/saturday-october-27/ "African Book Festival")
 
 How to get here [http://www.slamcentral.org/abf/venue/](http://www.slamcentral.org/abf/venue/ "The Free Word Centre")
-
- 
 
 **Book Presentation:** *My Life Has a Price* by Tina Okpara
 
