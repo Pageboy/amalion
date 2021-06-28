@@ -4,8 +4,8 @@ date: 2017-08-01T10:20:07.378Z
 released: 2017-08-01T10:20:07.389Z
 cover_image: ../uploads/9782359260755_larbre-a-musique.jpg
 isbn: 9782359260755 PB, 9782359260762 Ebook
-price: $16.95 £12.95 €15.50 CFA7500
-extent: 116 pp, 140 x 216 mm â€¢ 2017
+price: $16.95 • £12.95 • €15.50 • CFA7500
+extent: "116 pp, 140 x 216 mm "
 layout: catalogue_item
 ---
 ## Fabrizio Terenzio
