@@ -8,6 +8,8 @@ eventdate: null
 ---
 Nous sommes heureux de présenter le lauréat de la première édition du **Prix Sarraounia de la Fiction Jeune Adulte 2020**, **Paul Kisakye** pour *The Rainmakers \[Les faiseurs de pluie]*. L'aventure-mystère de cinq adolescents et d'un oncle retrouvé pendant la monotonie des vacances dans une ferme hi-tech d’Ouganda, s'est démarquée des centaines de manuscrits en français et en anglais que nous avons reçu de tout le continent.
 
+![Paul Kisakye, Lauréat du Prix Sarraounia de la Fiction Jeune Adulte 2020](../uploads/Paul-Kisakye 2.jpg "Paul Kisakye, Lauréat du Prix Sarraounia de la Fiction Jeune Adulte 2020")
+
 Parmi les membres du jury de l'édition 2020 figuraient l'éditrice, **Antoinette Fall Correa** ; l’universitaire, dramaturge et critique littéraire récemment décédé, **Chaibou Dan-Inna** ; la directrice d'édition internationale et agent littéraire, **Sarah Odedina** ; et la libraire, **Binta Tini**.
 
 Le lauréat de cette année recevra un prix de 1.000 euros lors d'une cérémonie de remise de prix qui se tiendra le **24 octobre 2020** à Niamey au Niger et l’ouvrage gagnant sera publié et diffusé en [anglais](http://www.amalion.net/catalogue_en/item/the_rainmakers/ "The Rainmakers") et en [français](http://www.amalion.net/catalogue_en/item/les_faiseurs_de_pluie/ "Les faiseurs de pluie") par Amalion à partir du **30 octobre 2020.**
