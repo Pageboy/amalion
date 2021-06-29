@@ -17,8 +17,7 @@
             {%- endif -%}
           </header>
           <div class="excerpt newsitem">
-                <!-- {{ news.content | markdownify | truncatewords: 60 | remove: "<em>" | remove: "</em>"}} -->
-                {{ news.content | markdownify | truncatewords: 60 | markdownify }}
+                {{ news.content | truncatewords: 60 | markdownify }}
                 <p class="meta">
                   Date posted: {{ news.date | date: "%B %-d, %Y" }}
                 </p>
