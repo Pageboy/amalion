@@ -9,7 +9,7 @@ subtitle: Student Activism and Religious Movements in Sahelian Universities
 date: 2021-06-22T11:45:40.753Z
 released: 2021-12-01T19:57:13.631Z
 cover_image: ../uploads/BetweenLearning-Piety_web.jpg
-isbn: 9782359260908 PB,  9782359260915 E
+isbn: 9782359260908 PB, 9782359260915 Ebook
 ---
 ## Leonardo A. Villalón & Mamadou Bodian (Eds)
 
@@ -21,9 +21,9 @@ Often neglected or poorly understood by foreign analysts, Sahelian universities 
 
 ### Author Details
 
-**Leonardo A. Villalón** est professeur de politique africaine et Doyen du Centre international de l’Université de Floride aux États-Unis, où il coordonne également le Sahel Research Group. Il a publié de nombreux ouvrages sur l’islam et les dynamiques sociopolitiques au Sahel. Il a publié de nombreux ouvrages sur l’islam et les dynamiques sociopolitiques au Sahel, et il est l’éditeur du prochain *Oxford Handbook of the African Sahel*.
+**Leonardo A. Villalón** is Professor of African Politics and Dean of the International Center at the University of Florida in the United States, where he also coordinates the Sahel Research Group. He has published extensively on Islam and socio-political dynamics in the Sahel, and is the editor of the forthcoming *Oxford Handbook of the African Sahel* (OUP 2021).
 
-**Mamadou Bodian** est titulaire d’un PhD de l’Université de Floride, États-Unis. Ses recherches portent sur la sécurité, les systèmes électoraux, ainsi que sur la religion et la réforme de l’éducation dans les pays francophones du Sahel. Il est actuellement chercheur pour le programme Sahel/Afrique de l’Ouest du Stockholm International Peace Research Institute (SIPRI) en Suède.
+**Mamadou Bodian** holds a Ph.D. from the University of Florida, USA. His research focuses on security, electoral systems, as well as religion and educational reform in the French-speaking countries of the Sahel. He is currently a researcher for the Sahel/West Africa programme at the Stockholm International Peace Research Institute (SIPRI) in Sweden.
 
 **Contributors**
 
