@@ -2,7 +2,7 @@
 layout: post
 category: news
 title: "Fatou Kande Senghor: Wala Bok "
-date: 2020-07-13T12:29:12.732Z
+date: 2015-07-13T12:29:12.732Z
 eventdate: ""
 ---
 Après un mois de vacances, 'Au cœur de la littérature' n'a pas redémarré timidement. «Seul celui qui a des idées personnelles est capable de rendre hommage aux idées d'autrui», si cette citation est pleine de sens, c'est que Fatou Kandé Senghor mérite des honneurs pour le travail accompli avec son œuvre intemporelle « Wala Bok ». Un trésor de 300 pages qui rend hommage au hip hop à travers les paroles brutes et authentiques de ses précurseurs.
