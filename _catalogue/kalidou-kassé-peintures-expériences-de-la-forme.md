@@ -3,9 +3,9 @@ title: "Kalidou Kassé peintures : Expériences de la forme"
 date: 2017-06-01T11:09:08.799Z
 released: 2017-06-01T11:09:08.820Z
 cover_image: ../uploads/Kalidou_Kasse.jpg
-isbn: 9782359260410 reliÃ©
+isbn: 9782359260410 relié
 price: $64.95 • £39.99 • €48.50 • CFA25000
-extent: 144 pages, 216 x 280 mm
+extent: 144 pages, 216 x 280 mm; photos
 layout: catalogue_item
 ---
 ## Jean-Bernard Ouédraogo
