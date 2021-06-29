@@ -1,14 +1,14 @@
 ---
 layout: post
 category: news
-title: "Hip-Hop au Sénégal : un livre amorce la Face B de l’histoire"
+title: "Fatou Kande Senghor: Wala Bok "
 date: 2020-07-13T12:29:12.732Z
 eventdate: ""
 ---
-*« Trouve l’histoire des quartiers et tu trouveras les secrets des hommes, des femmes, de la jeunesse et de l’engagement social ».* Ce mot de Sembène Ousmane (1923-2007) a sonné, pour Fatou Kandé Senghor, comme une directive dans son travail de recherche et d’enquête sur ‘’une histoire orale du hip hop au Sénégal’’, sous-titre d’un ouvrage de 304 pages qui vient de paraître chez Amalion.
+Après un mois de vacances, 'Au cœur de la littérature' n'a pas redémarré timidement. «Seul celui qui a des idées personnelles est capable de rendre hommage aux idées d'autrui», si cette citation est pleine de sens, c'est que Fatou Kandé Senghor mérite des honneurs pour le travail accompli avec son œuvre intemporelle « Wala Bok ». Un trésor de 300 pages qui rend hommage au hip hop à travers les paroles brutes et authentiques de ses précurseurs.
 
-Pour Sembène, *« l’immersion dans des lieux uniques, dans des lieux exclusifs, c’est cela la motivation principale de tout documentariste ». « Il faut arrêter votre cinéma pour faire un véritable travail sur le terrain ».*
+C'est par une prestation de slam de Kemit et quelques mots de Sulaiman Adebowale, directeur de la maison d'édition Amalion que tout a commencé. Suite aux ovations, la parole était désormais à l'auteur, confortablement installée près de Bouya Fall et Binta Ndiaye les modératrices.\
+\
+Pour se présenter, Fatou Kandé Senghor reviendra d'abord sur l'origine de son nom avant de rappeler qu'elle est le cumul de plusieurs choses mais que la casquette d'artiste est celle qui lui correspond le mieux. Ce livre était une nécessité pour restituer un patrimoine à toute une communauté, «c'est un livre venu naturellement après dix ans d'investigation». Si elle a restitué ces témoignages, c'est pour garder la matière première même si elle a tout de même établi des bases solides avant d'introduire ces témoignages, dans le respect de la différence des niveaux entre les artistes. Sur les femmes dans le hip hop (les nanas), elle précise qu'elles doivent travailler sur l'expression pour être plus compétitives et que bien souvent elles se servent de la séduction pour avoir des ouvertures (comme Lil'Kim aux Etats-Unis).
 
-Cela a certainement guidé l’auteur qui, *« en étant accepté par les autres »,* s’est livré à une *« immersion dans les impasses fleuries du Plateau habité par la bourgeoisie dakaroise, jusque dans la banlieue populaire où les concerts underground se terminent par des jets de pierres contre les forces de l’ordre, où les bagarres éclatent parmi les fans, tandis que les rappeurs tentent de calmer le public pour continuer la fête »*, ainsi qu’elle l’écrit dans son introduction.
-
-Pour l’article complet cliquer [ici](https://legrenierdekibili.com/2020/07/13/hip-hop-au-senegal-un-livre-amorce-la-face-b-de-lhistoire/)
+Pour l'article complet cliquer [ici](https://www.goethe.de/ins/sn/fr/kul/sup/ceu/20869182.html)
