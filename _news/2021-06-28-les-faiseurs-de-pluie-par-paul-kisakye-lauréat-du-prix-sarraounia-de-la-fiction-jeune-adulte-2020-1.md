@@ -32,4 +32,4 @@ Pour plus d’informations sur le prix, visitez le site [www.sarraounia.com](ht
 
 Pour les requêtes-média sur l’auteur, le livre et la date de sortie, contactez [nous,](http://sarraounia.com/fr/contact-2/ "Prix Sarraounia ") 
 
-Télécharger PDF Communiqué FRE
+Télécharger [PDF Communiqué FRE](uploads/laureat-prixsarraounia-fre.pdf)
