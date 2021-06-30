@@ -9,4 +9,4 @@ On the 30th September 2015, the book *Wala Bok: Une histoire orale du hip hop a
 
  Senghor touched on such subjects as the importance of the book to the local community, the position of women in Senegalese hip-hop, the evolution of language, her influences (such as Daara J, Duggy Tee, etc), and many more aspects. The event closed with a testimony to the art form and a performance from local rap artist Matador.
 
-Full story [here](http://www.goethe.de/ins/sn/dak/kul/dus/lit/ceu/fr14887334.htm "Wala Bok")
+Full story [here](https://www.goethe.de/ins/sn/fr/kul/sup/ceu/20869182.html)

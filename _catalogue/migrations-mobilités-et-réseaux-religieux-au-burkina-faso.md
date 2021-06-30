@@ -4,9 +4,9 @@ date: 2021-06-22T17:56:19.438Z
 released: 2021-06-01T19:51:31.473Z
 cover_image: ../uploads/9782359261066.jpg
 caption: Migrations, mobilités et réseaux religieux au Burkina Faso
-isbn: 9782359261066 PB,   9782359261080 E
-price: "Price: $35 • £30 • €35 • CFA15000"
-extent: 234 x 156 mm, 240pp
+isbn: 9782359261066 PB, 9782359261080 Ebook
+price: $35 • £30 • €35 • CFA15000
+extent: 240pp, 234 x 156 mm
 layout: catalogue_item
 ---
 ## Alice Degorce & Ludovic Kibora (Éds)

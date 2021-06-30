@@ -2,7 +2,7 @@
 title: The Grapes from the Baobab
 date: 2017-05-01T10:51:17.204Z
 released: 2017-05-01T10:51:17.229Z
-cover_image: ../uploads/raisin-baobab.jpg
+cover_image: ../uploads/The-grapes-from-the-baobab-cover.jpg
 isbn: 9782359260694 PB, 9782359260700 E
 price: $16.95 • £14.95 • €12.50 • CFA8000
 extent: 96pp, 216 x 140mm
