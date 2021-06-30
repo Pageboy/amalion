@@ -28,4 +28,4 @@ The poet steps from the stage, ending this particular night, but inaugurating an
 
 \---Karima Grant
 
-*Karima Grant is the author of the acclaimed picture book* Sofie and the City *(2006),* Nelson Mandela *(2005), a biography for young readers, and a winner of the MacArthur-Leithauser Travel Award for Excellence in Creative Writing.*
+Karima Grant is the author of the acclaimed picture book *Sofie and the City* (2006), *Nelson Mandela* (2005), a biography for young readers, and a winner of the MacArthur-Leithauser Travel Award for Excellence in Creative Writing.
