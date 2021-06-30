@@ -13,7 +13,7 @@ logo_url: https://amalion.netlify.app/uploads/lionlogoCMS.jpg
 
 # Do NOT edit below this line
 
-media_folder: "uploads" # Media files will be stored in the repo under /uploads
+media_folder: "/uploads" # Media files will be stored in the repo under /uploads
 public_folder: "../uploads"
 
 collections:
