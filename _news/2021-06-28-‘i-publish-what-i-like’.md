@@ -3,7 +3,7 @@ layout: post
 category: news
 title: ‘I publish what I like’
 date: 2011-08-26T12:16:22.279Z
-eventdate: 2011-09-02T12:16:22.298Z
+eventdate: ""
 ---
 Akintayo Abodunrinin [NEXT](http://234next.com/csp/cms/sites/Next/ArtsandCulture/5739321-147/story.csp "I Publish What I Like"), August 20, 2011.
 
