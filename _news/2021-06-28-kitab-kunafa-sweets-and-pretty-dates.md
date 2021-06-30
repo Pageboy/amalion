@@ -3,7 +3,7 @@ layout: post
 category: news
 title: Kitab, kunafa sweets and pretty dates
 date: 2011-04-24T12:13:10.121Z
-eventdate: 2011-05-01T12:13:10.137Z
+eventdate: ""
 ---
 ![Kitab, kunafa sweets and pretty dates](../uploads/Amalion-at-Abu-Dhabi.jpg "Kitab, kunafa sweets and pretty dates")
 
