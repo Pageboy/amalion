@@ -1,7 +1,7 @@
 ---
 layout: post
 category: news
-title: "UGANDA : 100 POEMS TO TICKLE YOUR MIND AND SOUL"
+title: "Review: 100 Poems to tickle your mind and Soul in Uganda Monitor"
 date: 2012-02-10T12:25:09.540Z
 eventdate: ""
 ---
