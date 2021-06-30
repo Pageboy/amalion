@@ -1,10 +1,11 @@
 ---
 title: "Poems for a Century: An Anthology on Nigeria"
+date: 2021-06-30T16:40:31.339Z
 released: 2014-04-01T17:20:23.361Z
 cover_image: ../uploads/9782359260328.jpg
 isbn: 9782359260328 PB,  9782359260335 E
-price: £12.95 $14.95 12.50 CFA7500
-extent: "203 x 127 mm, Extent: 108 pages"
+price: $14.95 • £12.95 • 12.50 • CFA7500
+extent: "108 pp; Size: 203 x 127 mm"
 layout: catalogue_item
 ---
 ## Tope Omoniyi (Ed.)

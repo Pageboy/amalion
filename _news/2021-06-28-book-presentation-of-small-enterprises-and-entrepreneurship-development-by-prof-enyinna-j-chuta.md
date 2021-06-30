@@ -1,8 +1,8 @@
 ---
 layout: post
 category: news
-title: Book Presentation of Small Enterprises and Entrepreneurship Development
-  by Prof Enyinna J. Chuta
+title: "Book Presentation: Small Enterprises & Entrepreneurship Development by
+  Prof Enyinna J. Chuta"
 date: 2012-06-21T12:34:40.805Z
 eventdate: 2012-06-28T12:34:40.820Z
 ---
