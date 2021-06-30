@@ -3,11 +3,11 @@ layout: post
 category: news
 title: New Book Launched by Amalion
 date: 2009-07-01T11:55:36.433Z
-eventdate: 2009-07-10T11:55:36.449Z
+eventdate: ""
 ---
 ![New Book Launched by Amalion](../uploads/Give-Me-Room-Barya2.jpg "New Book Launched by Amalion")
 
-*An eclectic group gathered on a Friday evening at Kadjinol Station for the launch of* Give Me Room to Move My Feet, *in what turned out to be a delightful evening of words and motion. With Kora music by Diabate, the drums from the Goree group in the air, and the taste of ablo, shrimps, and chicken wings on the palate, members of the community and the poet read from the new collection. Karima Grant captures the evening in words.*
+An eclectic group gathered on a Friday evening at Kadjinol Station for the launch of *Give Me Room to Move My Feet*, in what turned out to be a delightful evening of words and motion. With Kora music by Diabate, the drums from the Goree group in the air, and the taste of ablo, shrimps, and chicken wings on the palate, members of the community and the poet read from the new collection. Karima Grant captures the evening in words.
 
 Come.\
 The green trees will be our shade\
@@ -28,4 +28,4 @@ The poet steps from the stage, ending this particular night, but inaugurating an
 
 \---Karima Grant
 
-*Karima Grant is the author of the acclaimed picture book* Sofie and the City *(2006),* Nelson Mandela *(2005), a biography for young readers, and a winner of the MacArthur-Leithauser Travel Award for Excellence in Creative Writing.*
+Karima Grant is the author of the acclaimed picture book *Sofie and the City* (2006), *Nelson Mandela* (2005), a biography for young readers, and a winner of the MacArthur-Leithauser Travel Award for Excellence in Creative Writing.

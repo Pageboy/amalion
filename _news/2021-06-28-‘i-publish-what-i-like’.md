@@ -3,7 +3,7 @@ layout: post
 category: news
 title: ‘I publish what I like’
 date: 2011-08-26T12:16:22.279Z
-eventdate: 2011-09-02T12:16:22.298Z
+eventdate: ""
 ---
 Akintayo Abodunrinin [NEXT](http://234next.com/csp/cms/sites/Next/ArtsandCulture/5739321-147/story.csp "I Publish What I Like"), August 20, 2011.
 
@@ -35,8 +35,6 @@ How does he make ends meet if he only publishes what he likes?
 
 The publisher whose titles are available in bookstores in Nigeria, the UK, and the US, discloses that the fiction series he is starting is "a very eclectic stock." A novel by Karima Abbott of Senegalese-St.Lucian's parentage is on the schedule as is a work by a Nigerian writer. "We also have a Nigerian writer who has written an amazing love story set in two African countries and linked to a peace-keeping mission," is all he reveals.
 
- 
-
 **By pure chance**
 
 ‘A History of the Yoruba People' by Stephen Adebanji Akintoye, a professor and former director, Institute of African Studies, Obafemi Awolowo University, Ile Ife, is arguably Amalion's most popular title in Nigeria for now. Fate, he says, had a hand in his getting the manuscript. "We got that manuscript by pure chance. It's unbelievable. Akintoye who is based in the US, sends his manuscript to Hans Zell, a mentor of mine who has done a lot for African publishing. Hans Zell told him: I know the man who will do this for you. That's how I got it but I didn't get it because I am Yoruba. People ask me, how come ‘A History of the Yoruba People' was published in Dakar - and I say, Yorubas are everywhere."
@@ -47,4 +45,4 @@ Adebowale notes that there are differences between Akintoye's work and Samuel Jo
 
 Does he feel threatened by the big publishers around? Adebowale, who plans to set up a branch later in Nigeria and who will launch electronic titles of Amalion's books, avers, "I don't feel threatened at all. We don't put the same thing on the table and we don't go about it the same way in the sense that I engage authors differently and they may have another experience with the big multinational companies. There are benefits of a small publishing program and there are disadvantages as well. The field is wide for quite a lot of publishers and there is a huge volume of work that we don't get the chance to publish. Maybe the more the merrier but we shouldn't lose sight of quality, particularly in Africa. The more publishers that are doing quality work the better for the environment whether in Senegal, Nigeria, Ghana, and Africa as a whole."
 
-**Written by Akintayo Abodunrin** andpublished in [NEXT](http://234next.com/csp/cms/sites/Next/ArtsandCulture/5739321-147/story.csp "I Publish What I Like"), August 20, 2011. Copyright 234Next.com, Timbuktu Media Ltd.
+**Written by Akintayo Abodunrin** and published in [NEXT](http://234next.com/csp/cms/sites/Next/ArtsandCulture/5739321-147/story.csp "I Publish What I Like"), August 20, 2011. Copyright 234Next.com, Timbuktu Media Ltd.

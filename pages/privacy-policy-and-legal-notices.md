@@ -5,7 +5,9 @@ date: 2021-06-30T17:29:27.390Z
 show: false
 layout: page
 ---
-Amalion, Amalion Publishing, Éditions Amalion, Amalion Sarl and its related initiatives (collectively, "Amalion") recognize the importance of protecting the information collected from Users in the operation of this website, and take reasonable steps to maintain the security, integrity and privacy of any information in accordance with this Privacy and Data Protection Policy. By submitting your information to Amalion you consent to the practices described herein.
+**Amalion** is a division of Amalion Sarl, a limited liability company registered in Senegal.
+
+Amalion, Amalion Publishing, Éditions Amalion, Amalion Sarl and its related initiatives (collectively, "Amalion", a registered trademark) recognize the importance of protecting the information collected from Users in the operation of this website, and take reasonable steps to maintain the security, integrity and privacy of any information in accordance with this Privacy and Data Protection Policy. By submitting your information to Amalion you consent to the practices described herein.
 
 Amalion will seek to ensure that any identifiable personal information it collects during the registration and purchasing processes will be adequate, relevant and not excessive for purposes of operating this website or any of the services operated hereunder, it will be kept accurate and up-to-date based on information provided and it will be deleted when no longer needed. Except where necessary in connection with services provided by appropriate intermediaries, who will be required to comply with the confidentiality provisions of this policy, or as expressly provided herein, Amalion will not disclose any personal information identifying Users to any third party, unless required by law or otherwise needed in connection with legal proceedings or unless we have received your consent. Amalion may use personal information and any other piece of communication or information supplied to Amalion for internal business and research purposes and to help enhance and develop our websites.
 
