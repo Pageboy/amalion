@@ -18,7 +18,7 @@
               {% if catalogue.cover_image %}
                 <img class="thumb" src="{{ catalogue.cover_image| replace: '../uploads', '/uploads' }}" alt="{{ catalogue.title }}" />
               {% endif %}
-              {{ catalogue.content | truncatewords: 50 | markdownify }}
+              {{ catalogue.content | truncatewords: 52 | markdownify }}
               <span class="permalink">
                 <a aria-label="{{ catalogue.title }}" class="post-link" href="{{ catalogue.url | relative_url }}">Read more <i class="fa fa-caret-right fa-2x"></i></a>
               </span>
