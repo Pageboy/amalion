@@ -34,4 +34,4 @@ Pour les requêtes-média sur l'auteur, le livre et la date de sortie, contactez
 
 Télécharger PDF Communiqué FRE
 
-Télécharger [PDF Lauréat FRE](uploads/winner-sarraouniaprize-eng.pdf)
+Télécharger [PDF Lauréat FRE](/uploads/winner-sarraouniaprize-eng.pdf)
