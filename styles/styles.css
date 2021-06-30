@@ -377,8 +377,8 @@ header {
 
 .meta {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-size: 0.7em;
-  color: #595959;
+  font-size: 0.6em;
+  color: #818181;
   margin: 0;
 }
 
@@ -1426,6 +1426,8 @@ a.word {
 .permalink {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 0.7em;
+  position: relative;
+  top: -1.5rem;
 }
 
 .permalink i {

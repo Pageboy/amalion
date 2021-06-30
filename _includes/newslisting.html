@@ -17,13 +17,13 @@
             {%- endif -%}
           </header>
           <div class="excerpt newsitem">
-                {{ news.content | truncatewords: 60 | markdownify }}
-                <p class="meta">
-                  Date posted: {{ news.date | date: "%B %-d, %Y" }}
-                </p>
-              <a aria-label="{{ news.title }}" class="post-link" href="{{ news.url | relative_url }}">
-                <p class="permalink">Read more <i class="fa fa-caret-right fa-2x"></i></p>
-              </a>
+                {{ news.content | truncatewords: 50 | markdownify }}
+              <span class="permalink">
+                <a aria-label="{{ news.title }}" class="post-link" href="{{ news.url | relative_url }}">Read more <i class="fa fa-caret-right fa-2x"></i></a>
+              </span>
+              <p class="meta">
+                Date posted: {{ news.date | date: "%B %-d, %Y" }}
+              </p>
           </div>
       </span>
     </div>
