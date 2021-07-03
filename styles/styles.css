@@ -24,8 +24,8 @@ figure {
 }
 
 body {
-  margin: 0 0 68px 0;
-  padding-top: 112px;
+  margin: 0 0 3.5rem 0;
+  padding-top: 90px;
 }
 
 article,
@@ -682,14 +682,14 @@ h3.tag-anchor i {
   text-align: left;
   width: 100%;
   font-size: 0.9em;
-  padding: 1rem;
+  padding: 0.6rem;
   border-top: 1px solid rgb(221, 220, 220);
   background-color: #feeecd;
   opacity: 0.96;
   color: #cf4509;
   position: fixed;
   bottom: 0;
-  height: 65px; /* set a bottom margin on the body same amount */
+  height: 3.5rem; /* set a bottom margin on the body same amount */
 }
 
 .site-footer .footer-icons ul {
@@ -710,7 +710,7 @@ h3.tag-anchor i {
 }
 
 .site-footer .text {
-  margin: 0;
+  margin: auto 0;
 }
 
 #post-nav {
@@ -751,7 +751,7 @@ h3.tag-anchor i {
   position: fixed;
   top: 0;
   padding-right: 20px;
-  height: 112px;
+  height: 90px;
   z-index: 100;
   display: flex;
   justify-content: space-between;
@@ -778,7 +778,7 @@ h3.tag-anchor i {
 
 .branding img.avatar {
   display: block;
-  max-height: 111px;
+  max-height: 89px;
   /* width: 50px; */
   margin: 0 0.5em;
   padding: 0;
@@ -1378,7 +1378,7 @@ a.word {
   width: 100%;
   margin: 0;
   text-align: center;
-  padding: 1rem;
+  padding: 0.6rem;
 }
 @media screen and (max-width: 1024px) {
   .latestcatalogue .heading,

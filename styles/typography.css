@@ -145,6 +145,10 @@ blockquote {
   p {
     font-size: 1.1em;
   }
+
+  .site-footer {
+    font-size: 0.8rem;
+  }
 }
 
 @media screen and (max-width: 475px) {
@@ -157,7 +161,7 @@ blockquote {
   }
 
   .site-header {
-    height: 90px;
+    height: 80px;
   }
 
   .site-header nav ul {
@@ -165,11 +169,11 @@ blockquote {
   }
 
   .branding img.avatar {
-    max-height: 89px;
+    max-height: 79px;
   }
 
   body {
-    padding-top: 90px;
+    padding-top: 80px;
   }
 
   header#main h1 {
@@ -254,4 +258,8 @@ body#home .posts header h1 {
   font-size: 0.9em;
   color: #8b4513;
   margin-bottom: 4px;
+}
+
+a.privacy {
+  color: #796edf;
 }
