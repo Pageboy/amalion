@@ -3,7 +3,7 @@ layout: post
 category: news
 title: African Books for African Readers
 date: 2013-04-29T12:17:00.000Z
-eventdate: ""
+eventdate: null
 ---
 By Chip Rossetti, *Publishing Perspectives*, April 2013
 

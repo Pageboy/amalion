@@ -3,7 +3,7 @@ layout: post
 category: news
 title: Brussels Book Fair Plays Matchmaker
 date: 2019-03-03T14:46:51.712Z
-eventdate: ""
+eventdate: null
 ---
 Amalion participated at the Talentueux Indés forum organised by the Paris-based literary agency **Pierre Astier** during the Foire du Livre du Bruxelles, 14-17 February 2019. Ed Nawotka did a piece on this exciting fair in Publishers Weekly.
 

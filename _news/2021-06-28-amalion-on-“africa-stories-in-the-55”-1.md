@@ -1,9 +1,9 @@
 ---
 layout: post
 category: news
-title: "Amalion on “Africa: Stories in the 55”"
+title: "Amalion on 'Africa: Stories in the 55'"
 date: 2016-06-22T16:21:42.484Z
-eventdate: ""
+eventdate: null
 ---
 Can we cross African boundaries through books? Head of Amalion Publishing, Sulaiman Adebowale’s interview with Laura Angela Bagnetto on RFI’s “Africa: Stories in the 55” program believes in the role of languages in making it happen. 
 

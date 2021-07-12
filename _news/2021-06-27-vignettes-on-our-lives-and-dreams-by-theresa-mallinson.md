@@ -3,7 +3,7 @@ layout: post
 category: news
 title: Vignettes on our lives and dreams by Theresa Mallinson
 date: 2019-08-02T11:27:37.509Z
-eventdate: ""
+eventdate: null
 ---
 # "Vignettes on our lives and dreams" by Theresa Mallinson
 
