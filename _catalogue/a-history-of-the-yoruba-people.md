@@ -4,9 +4,9 @@ date: 2021-06-27T13:03:49.830Z
 released: 2010-01-31T13:03:49.858Z
 cover_image: ../uploads/History-Yoruba.jpg
 caption: A History of the Yoruba People
-isbn: 9782359260052 HB,  9782359260274 Ebook
-price: $74.95 • £40.99 • €48.50 • CFA25000
-extent: 512pp Illustrations, photos. 234 x 156 mm
+isbn: 9782359260052 HB, 9782359260274 Ebook
+price: $74.95 • £54.99 • €62.50 • CFA35000
+extent: 514pp Illustrations, photos, maps, 234 x 156 mm
 layout: catalogue_item
 ---
 ## Stephen Adebanji Akintoye
