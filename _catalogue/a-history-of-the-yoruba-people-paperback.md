@@ -28,3 +28,5 @@ This exceptionally lucid account gathers and imparts a wealth of research and di
 ### Author Details
 
 Professor **S. Adebanji Akintoye** has been in the front line of African and Yoruba history studies for four decades. After being awarded a PhD. in History from the University of Ibadan in 1966, he joined the History Department at Obafemi Awolowo University, Ife, Nigeria, where he became a professor and Director of the Institute of African Studies. He has also taught African History in universities in the United States. Akintoye has written three books, chapters in many joint books, and several articles in scholarly journals. He took a leading part for some time in the politics of Nigeria, and served on the Nigerian Senate from 1979–1983. He currently lives in the United States.
+
+[Also available in hardback and ebook.](https://www.amalion.net/catalogue/a-history-of-the-yoruba-people/)
