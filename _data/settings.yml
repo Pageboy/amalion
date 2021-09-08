@@ -5,8 +5,8 @@ description: Amalion is a multilingual independent academic publishing house
   multilingue basée à Dakar, Sénégal.
 footer_text: © 2021 Amalion | <a class="privacy" href="/privacy/">Privacy Policy</a>
 logo: ../uploads/lionhead-trans.png
+favicon: ../uploads/favicon.ico
 gridlayout: true
 fixednavbar: true
-showpencil: true
+showpencil: false
 bannerheight: 10vmax
-favicon: ../uploads/favicon.ico

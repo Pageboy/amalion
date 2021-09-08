@@ -88,5 +88,5 @@ Selected Amalion titles are available for use in higher education and tertiary i
 Our examination policy is to invoice you at a 25% discount, plus shipping charge. We would appreciate hearing from you within sixty days from receipt of the book, at which time you may choose from the following options:
 
 * Adopt the book for classroom use with personal notification that an order of ten copies or more has been placed with your college or university bookstore. The charge for that examination copy will be cancelled and the book will become your free desk copy.  
-* Purchase the book for your personal library at the 25% discounted price by returning a copy of the invoice together with your full credit card number and expire date.  
+* Purchase the book for your personal library at the 25% discounted price by returning a copy of the invoice together with payment information, please contact us  
 * Return the book, which is not appropriate for your purpose.
