@@ -16,14 +16,14 @@ In *A History of the Yoruba People*, S. Adebanji Akintoye deploys four decades 
 
 This exceptionally lucid account gathers and imparts a wealth of research and discourses on Yoruba studies for a wider group of readership than ever before. A must read for all.
 
-> “A wondrous achievement, a profound pioneering breakthrough, a reminder to New World historians of what ‘proper history’ is all about – a recount which draws the full landed and spiritual portrait of a people from its roots up – *A History of the Yoruba People* is yet another superlative work of brilliant chronicling and persuasive interpretation by an outstanding scholar and historiographer of Africa.” – **Professor Michael Vickers,** author of *Ethnicity and Sub-Nationalism in Nigeria: Movement for a Mid-West State* (Oxford, 2000) and *Phantom Trail: Discovering Ancient America* (New York, 2005).
->
-> “The book offers not only an interesting and engaging reflection on Yoruba history, but also a fascinating text on what it means to be Yoruba today.” – **Dr Insa Nolte, Senior Lecturer in African Studies, University of Birmingham, UK.**
->
-> “This book is more than a 21st century attempt to (re)present a comprehensive history of the Yoruba … shifting the focus to a broader and more eclectic account. It is a far more nuanced, evidentially-sensitive, systematic account.”\
-> – **Wale Adebanwi, Assistant Professor, African American and African Studies, University of California, Davis, USA.**
->
-> “Akintoye links the Yoruba past with the present, broadening and transcending… in scope and time, and reviving both the passion and agenda that are over a century old, to reveal the long history and definable identity of a people and an ethnicity, one of the most important in Africa and the African Diaspora. Here is an accessible book, with the promise of being ageless, written by the only person who has sustained an academic interest in this subject for nearly half a century, providing the treasures of accumulated knowledge, robust encounters with received wisdom, and mature judgement about the future.” – **Toyin Falola, The Frances Higginbotham Nalle Professor in History, University of Texas at Austin, USA.**
+“A wondrous achievement, a profound pioneering breakthrough, a reminder to New World historians of what ‘proper history’ is all about – a recount which draws the full landed and spiritual portrait of a people from its roots up – *A History of the Yoruba People* is yet another superlative work of brilliant chronicling and persuasive interpretation by an outstanding scholar and historiographer of Africa.” – **Professor Michael Vickers,** author of *Ethnicity and Sub-Nationalism in Nigeria: Movement for a Mid-West State* (Oxford, 2000) and *Phantom Trail: Discovering Ancient America* (New York, 2005).
+
+“The book offers not only an interesting and engaging reflection on Yoruba history, but also a fascinating text on what it means to be Yoruba today.” – **Dr Insa Nolte, Senior Lecturer in African Studies, University of Birmingham, UK.**
+
+“This book is more than a 21st century attempt to (re)present a comprehensive history of the Yoruba … shifting the focus to a broader and more eclectic account. It is a far more nuanced, evidentially-sensitive, systematic account.”\
+– **Wale Adebanwi, Assistant Professor, African American and African Studies, University of California, Davis, USA.**
+
+“Akintoye links the Yoruba past with the present, broadening and transcending… in scope and time, and reviving both the passion and agenda that are over a century old, to reveal the long history and definable identity of a people and an ethnicity, one of the most important in Africa and the African Diaspora. Here is an accessible book, with the promise of being ageless, written by the only person who has sustained an academic interest in this subject for nearly half a century, providing the treasures of accumulated knowledge, robust encounters with received wisdom, and mature judgement about the future.” – **Toyin Falola, The Frances Higginbotham Nalle Professor in History, University of Texas at Austin, USA.**
 
 ### Author Details
 
