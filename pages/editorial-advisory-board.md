@@ -11,7 +11,7 @@ Prof. Isaac Olawale Albert
 
 Dr Tarik Dahou
 
-Ms. Diarra Kamara
+[Ms. Diarra Kamara](https://www.amalion.net/board/kamara/)
 
 [Dr. Kathryn Nwajiaku-Dahou](https://www.amalion.net/board/nwajiakudahou/)
 
