@@ -13,6 +13,6 @@ Dr Tarik Dahou
 
 Ms. Diarra Kamara
 
-Dr. Kathryn Nwajiaku-Dahou
+[Dr. Kathryn Nwajiaku-Dahou](https://www.amalion.net/board/nwajiakudahou/)
 
 [Prof. Jean-Bernard Ouédraogo](https://www.amalion.net/board/ouedraogo/)
