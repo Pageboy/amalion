@@ -5,12 +5,12 @@ date: 2021-06-24T18:31:19.305Z
 show: false
 layout: page
 ---
-**Prof. Isaac Olawale Albert**
+Prof. Isaac Olawale Albert
 
-**Dr Tarik Dahou**
+Dr Tarik Dahou
 
-**Ms. Diarra Kamara**
+Ms. Diarra Kamara
 
-**Dr. Kathryn Nwajiaku-Dahou**
+Dr. Kathryn Nwajiaku-Dahou
 
-**Prof. Jean-Bernard Ouédraogo**
+Prof. Jean-Bernard Ouédraogo
