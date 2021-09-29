@@ -15,4 +15,4 @@ Ms. Diarra Kamara
 
 Dr. Kathryn Nwajiaku-Dahou
 
-Prof. Jean-Bernard Ouédraogo
+[Prof. Jean-Bernard Ouédraogo](https://www.amalion.net/board/ouedraogo/)
