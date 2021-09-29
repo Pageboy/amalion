@@ -1,6 +1,6 @@
 ---
 title: Jean-Bernard Ouédraogo
-permalink: /ouedraogo/
+permalink: /board/ouedraogo/
 date: 2021-09-29T21:28:00.572Z
 show: false
 layout: page
