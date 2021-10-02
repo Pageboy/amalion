@@ -25,3 +25,5 @@ In fifteen formidable lyrical prose, *Tina Shot Me Between the Eyes* explores 
 **Antoinette Tidjani Alou** did her undergraduate studies at the University of the West Indies (Mona Campus, Kingston) and her postgraduate studies at the University of Bordeaux (France). She is a Professor of French and Comparative Literature and Director of the Arts and Culture Programme at the Université Abdou Moumouni de Niamey, in Niger where she has lived for more than two decades. An independent translator, she has published several articles and books. Writing in both French and in English, covering life­writing, poetry and short stories.
 
 Review: [Vignettes on our lives and dreams by Theresa Mallinson, Mail and Guardian, 2 August 2019.](https://mg.co.za/article/2019-08-02-00-vignettes-on-our-lives-and-dreams)
+
+Interview: Audrey Chin ["Writers I Read: In Conversation with Antoinette Tidjani Alou",](https://www.audreychin.com/post/writers-i-read-in-conversation-with-antoinette-tidjani-alou?fbclid=IwAR0nWOBNSbgQu4Asl-OpTbyXvHn-ya5gDLtss8lsou1qnswPZrN30g7_pHQ) 23 August 2021.
