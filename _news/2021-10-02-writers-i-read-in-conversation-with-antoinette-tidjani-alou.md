@@ -3,9 +3,9 @@ layout: post
 category: news
 title: "Writers I Read: In Conversation with Antoinette Tidjani Alou"
 date: 2021-08-23T14:06:22.121Z
-eventdate: ""
+eventdate: 2021-08-23T00:00:00.000Z
 ---
-Wordspinner and storyteller Audrey Chin interviews [Antoinette Tidjani Alou](https://www.amalion.net/catalogue/tina-shot-me-between-the-eyes/) on her web site recently 
+Wordspinner and storyteller **Audrey Chin** interviews [Antoinette Tidjani Alou](https://www.amalion.net/catalogue/tina-shot-me-between-the-eyes/) on her web site recently 
 
 Africa, the cradle of human civiliaztion, calls to us from deep within our bloodlines. 
 
