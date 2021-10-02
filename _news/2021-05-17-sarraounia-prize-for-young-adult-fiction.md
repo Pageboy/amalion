@@ -47,7 +47,7 @@ The **Arts & Culture programme at Abdou Moumouni University** in Niamey, Niger
 The project is funded by **[Culture at Work Africa](http://www.cultureatworkafrica.net/ "Culture at Work Africa")**, a consortium of eight African, European and international partners in collaboration with the European Union to create new opportunities and mobilise stakeholders to promote intercultural dialogue and cultural diversity in urban and peri-urban areas in Africa as drivers for social inclusion and sustainable human development.
 
 **For more information:**
- Sarraounia Prize for Young Adult Fiction - Prix Sarraounia de la Fiction Jeune Adulte
+ Sarraounia Prize for Young Adult Fiction - [Prix Sarraounia de la Fiction Jeune Adulte](uploads/laureat-prixsarraounia-fre.pdf)
 
 Join us on facebook @sarraouniaprizeforyoungadultfiction
 
