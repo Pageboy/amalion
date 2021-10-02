@@ -21,7 +21,7 @@ Contact: \[prenom@]amalion.net
 
 # **Marie Ndiaye**
 
-**Marie Ndiaye** is Editorial Manager at Amalion. For three decades Marie Ndiaye has worked in the area of social sciences and humanities as programme assistant at the Council for the Development of Social Science Research in Africa (CODESRIA), coordinating various projects and exchanges involving scholars, development partners, states institutions and the general public. As an editor and translator, she has worked for several institutions including Amalion, CODESRIA, Goethe University Frankfurt, Institut PANOS, Naatal Mbay, and UNOWA. She translated from the English in collaboration with Y. Féhé Sarr and Issa Sarr, *Le procès de Hissène Habré : comment les Tchadiens ont traduit un dictateur en justice* by Celeste Hicks (Amalion 2020) and *Les faiseurs de pluie* by Paul Kisakye (Amalion 2020).
+**Marie Ndiaye** is Editorial Manager at Amalion. For three decades Marie Ndiaye has worked in the area of social sciences and humanities as programme assistant at the Council for the Development of Social Science Research in Africa (CODESRIA), coordinating various projects and exchanges involving scholars, development partners, state institutions and the general public. As an editor and translator, she has worked for several institutions including Amalion, CODESRIA, Goethe University Frankfurt, Institut PANOS, Naatal Mbay, and UNOWA. She translated from the English in collaboration with Y. Féhé Sarr and Issa Sarr, *Le procès de Hissène Habré : comment les Tchadiens ont traduit un dictateur en justice* by Celeste Hicks (Amalion 2020) and *Les faiseurs de pluie* by Paul Kisakye (Amalion 2020).
 
 Contact: \[firstname@]amalion.net
 
