@@ -9,4 +9,4 @@ Akwasi Aidoo was a guest of John Paul Lederach on "*The Weekly Pause,* a time to
 
 ![](../uploads/akwasi-reading1.jpg "Akwasi on The Weekly Pause")
 
-Listen to Akwasi's reading [here](https://humanityunited.app.box.com/s/sdd150s7ruv16m51dpxzvjwt86rebhxf). Set to music by Kayso - Flourish Amen.
+Listen to Akwasi's reading [here](https://humanityunited.app.box.com/s/sdd150s7ruv16m51dpxzvjwt86rebhxf){:target="_blank"}. Set to music by Kayso - Flourish Amen.
