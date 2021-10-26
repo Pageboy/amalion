@@ -17,4 +17,4 @@ Time zone differences put an end to all that. Also, the polyphonic Antoinette ha
 
 **AC: Hi Antoinette. I really appreciate your setting time aside to tell my readers a little about yourself and your work. Let’s start with the idea of Africa. You live in Niger and have done so for a large part of your life. However, you were born in the Caribbean and educated in many places. In the extract of your book *On m’appelle Nina* (They Call Me Nina) you write about how your younger Jamaican illusions of a luxuriant Africa were tested upon your arrival in the Sahel. Yet you have now managed to grow a garden in its sands. So, what does Africa now mean to you?**
 
-Read the full review h[ere](https://www.audreychin.com/post/writers-i-read-in-conversation-with-antoinette-tidjani-alou?fbclid=IwAR0nWOBNSbgQu4Asl-OpTbyXvHn-ya5gDLtss8lsou1qnswPZrN30g7_pHQ)
+Read the full review h[ere](https://www.audreychin.com/post/writers-i-read-in-conversation-with-antoinette-tidjani-alou?fbclid=IwAR0nWOBNSbgQu4Asl-OpTbyXvHn-ya5gDLtss8lsou1qnswPZrN30g7_pHQ){:target="_blank"}
