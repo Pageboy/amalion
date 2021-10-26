@@ -5,7 +5,7 @@ title: Regards féminins sur le hip-hop sénégalais - Fatou Sall
 date: 2016-01-26T16:38:00.824Z
 eventdate: ""
 ---
-**Le poids des traditions, une culture patriarcale ancrée telle une matrice de vie, un public majoritairement composé d’hommes, des artistes masculins jaloux de leur succès. Autant dire que la représentation féminine dans le rap sénégalais a du mal à se tailler une place pérenne. Certes, des groupes naissent. Certes, des personnalités fortes émergent. Mais cela ne dure pas toujours.**
+Le poids des traditions, une culture patriarcale ancrée telle une matrice de vie, un public majoritairement composé d’hommes, des artistes masculins jaloux de leur succès. Autant dire que la représentation féminine dans le rap sénégalais a du mal à se tailler une place pérenne. Certes, des groupes naissent. Certes, des personnalités fortes émergent. Mais cela ne dure pas toujours.
 
 Entre les années 1990 et 2000, des groupes comme ALIF (Attaque Libératrice pour l’Infanterie Féministe) avaient réussi à se faire une place de choix sur les scènes avant de disparaître. Malgré tout, quelques individualités continuent de pousser les portes du hip hop sénégalais, afin d’en élargir les modalités d’entrées. Fortes des freins et des déconvenues passés, ce sont elles qui posent lucidement leurs regards sur ce milieu, en revendiquant une légitimité trop souvent remise en cause.
 
