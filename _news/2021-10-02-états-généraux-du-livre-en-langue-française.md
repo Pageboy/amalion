@@ -9,4 +9,4 @@ Amalion a participé aux événements tant attendus de l'année **"Les États g�
 
 Présentés dans le cadre du Plan pour la langue française et le plurilinguisme par le président de la République française en mars 2018 et organisés par l'Institut français, les deux journées des États généraux du livre en langue française furent l'occasion de réunir plus de 500 acteurs du livre du monde francophone, à Tunis et en ligne, autour des problématiques du livre : auteurs, éditeurs, diffuseurs, distributeurs, libraires, acteurs du numérique, bibliothèques, associations ou syndicats professionnels, organismes soutenant le livre, institutionnels et professionnels, publics et privés.
 
-Pour plus d'informations, [voir](https://www.lelivreenlanguefrancaise.org/)
+Pour plus d'informations, [voir](https://www.lelivreenlanguefrancaise.org/){:target="_blank"}
