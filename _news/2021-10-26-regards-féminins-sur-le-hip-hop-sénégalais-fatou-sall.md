@@ -14,4 +14,4 @@ Sister Coumbis, ex membre du groupe Gothal (« s’unir » en pulaar), groupe 
 
 ...
 
-Pour lire l'article complet, voir [Regards féminins sur le hip-hop sénégalais" par Fatou Sall, Africultures, janvier 2016](http://africultures.com/regards-feminins-sur-le-hip-hop-senegalais-13430/) {:target="_blank"}.
+Pour lire l'article complet, voir [Regards féminins sur le hip-hop sénégalais" par Fatou Sall, Africultures, janvier 2016](http://africultures.com/regards-feminins-sur-le-hip-hop-senegalais-13430/){:target="_blank"}.
