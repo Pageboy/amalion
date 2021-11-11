@@ -8,7 +8,7 @@ subtitle: Activisme et mouvements religieux dans les universités du Sahel
 date: 2021-06-22T19:53:43.000Z
 released: 2020-11-01T12:08:52.961Z
 cover_image: ../uploads/EntreleSavoiretleCulte-web.jpg
-isbn: 782359260908 PB, 9782359260915 E
+isbn: 9782359260908 PB, 9782359260915 E
 ---
 ## Leonardo A. Villalón & Mamadou Bodian (Éds)
 
