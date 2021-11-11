@@ -7,7 +7,7 @@ eventdate: 2021-08-23T00:00:00.000Z
 ---
 Wordspinner and storyteller **Audrey Chin** interviews [Antoinette Tidjani Alou](https://www.amalion.net/catalogue/tina-shot-me-between-the-eyes/) on her web site recently 
 
-Africa, the cradle of human civiliaztion, calls to us from deep within our bloodlines. 
+Africa, the cradle of human civilization, calls to us from deep within our bloodlines. 
 
 In East Asia, our response often manifests as a yearning for the continent’s wide-open spaces, it’s hosts of animals, it’s exotic otherness; a romanticized image from which the trauma of the Middle Passage, the pain of colonization and today's diaspora of coloured persons is erased. It is a delusion I only woke from in 2017, when I was brought up close to the lived experience of fellow writers from Africa at the University of Iowa International Writing Program.
 
