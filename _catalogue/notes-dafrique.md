@@ -6,7 +6,7 @@ released: 2022-01-01T17:31:13.351Z
 cover_image: ../uploads/9782359261097-couvweb.jpg
 isbn: 9782359261097 PB, 9782359261103 EBook
 price: $35 • £25 • €30 • CFA17000
-extent: 280pp, 234 mm x 156 mm, photographs
+extent: 280pp, 234 mm x 156 mm, plus over 100 photographs
 layout: catalogue_item
 ---
 « Un parcours personnel bien documenté, une excellente lecture qui servira de référence pour beaucoup » – **Wally Badarou, musicien.**
