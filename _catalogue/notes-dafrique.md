@@ -5,7 +5,7 @@ date: 2021-12-08T17:31:13.326Z
 released: 2022-01-01T17:31:13.351Z
 cover_image: ../uploads/9782359261097-couvweb.jpg
 isbn: 9782359261097 PB, 9782359261103 EBook
-price: $35 • £25 • €30 • CFA15000
+price: $35 • £25 • €30 • CFA17000
 extent: 280pp, 234 mm x 156 mm, photographs
 layout: catalogue_item
 ---
