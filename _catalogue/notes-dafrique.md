@@ -7,7 +7,7 @@ cover_image: ../uploads/9782359261097-couvweb.jpg
 caption: "Notes d'Afrique: Un voyage musical avec Youssou N'Dour"
 isbn: 9782359261097 PB, 9782359261103 EBook
 price: $35 • £25 • €29 • CFA17000
-extent: 280pp, 234 mm x 156 mm, plus de 100 photographes
+extent: 280pp, 234 mm x 156 mm, plus de 100 photos
 layout: catalogue_item
 ---
 « Un parcours personnel bien documenté, une excellente lecture qui servira de référence pour beaucoup » – **Wally Badarou, musicien.**
