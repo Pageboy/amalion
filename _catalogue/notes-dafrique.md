@@ -4,9 +4,10 @@ subtitle: Un voyage musical avec Youssou N'Dour
 date: 2021-12-08T17:31:13.326Z
 released: 2022-01-01T17:31:13.351Z
 cover_image: ../uploads/9782359261097-couvweb.jpg
+caption: "Notes d'Afrique: Un voyage musical avec Youssou N'Dour"
 isbn: 9782359261097 PB, 9782359261103 EBook
-price: $35 • £25 • €30 • CFA17000
-extent: 280pp, 234 mm x 156 mm, plus over 100 photographs
+price: $35 • £25 • €29 • CFA17000
+extent: 280pp, 234 mm x 156 mm, plus de 100 photographes
 layout: catalogue_item
 ---
 « Un parcours personnel bien documenté, une excellente lecture qui servira de référence pour beaucoup » – **Wally Badarou, musicien.**
@@ -16,6 +17,8 @@ layout: catalogue_item
 *Notes d’Afrique* relate l’essor de la musique populaire sur le continent – à partir des années 80 lorsque que le terme *World Music* a été inventé comme label marketing, et que des musiciens africains, notamment Youssou N’Dour et ses contemporains, sont apparus sur la scène internationale.
 
 Le livre explique les styles musicaux qui se sont développés depuis les années 60, lorsque de nombreux pays africains ont accédé à l’indépendance. Il couvre les évènements dans la musique et la société du Sénégal, d’Afrique de l’Ouest et du continent, des années d’indépendance à nos jours. Jenny Cathcart nous offre, à travers son expérience personnelle et son travail aux cotés de Youssou N’Dour, des portraits et des histoires de la vie de tous les jours, en Afrique. Il en résulte de nouvelles perspectives pour la culture contemporaine, la religion et la politique, aussi bien pour le développement que pour de futures collaborations sur le contient et dans sa diaspora.
+
+Un tour magnifique des artistes qui ont marqué l’histoire de la musique populaire africaine.
 
 Ali Farka Touré \* Alpha Blondy \* Angélique Kidjo \* Bantu \* Baaba Maal \* Bembeya Jazz \* Bonga \* Coumba Gawlo Seck \* Carlou D \* Cesaria Evora \* Daara J \* Dimi Mint Abba \* Doura Barry \* Fanta Damba \* Franco \* Fela Anikulapo Kuti \* Geoffrey Oryema \* Hugh Masekela \* Ifang Bondi \* Kezia Jones \* King Sunny Ade \* Khaled \* Lura \* Mariza \* Manu Dibango \* Omar Pène \* Osibisa \* Orchestra Baobab \* Pape & Cheikh \* Papa Wemba \* Richard Bona \* Souad Massi \* Salif Keita \* Thomas Mapfumo \* Tiken Jah Fakoly \* Thione Seck \* Wally Badarou \* Wally Seck \* Xalam.
 
