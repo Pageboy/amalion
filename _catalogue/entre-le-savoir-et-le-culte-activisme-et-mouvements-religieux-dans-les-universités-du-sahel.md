@@ -29,3 +29,5 @@ Cet ouvrage examine de manière comparée ce phénomène important dans six pays
 **Leonardo A. Villalón** est professeur de politique africaine et Doyen du Centre international de l’Université de Floride aux États-Unis, où il coordonne également le Sahel Research Group. Il a publié de nombreux ouvrages sur l’islam et les dynamiques sociopolitiques au Sahel. Il a publié de nombreux ouvrages sur l’islam et les dynamiques sociopolitiques au Sahel, et il est l’éditeur du prochain *Oxford Handbook of the African Sahel*.
 
 **Mamadou Bodian** est titulaire d’un PhD de l’Université de Floride, États-Unis. Ses recherches portent sur la sécurité, les systèmes électoraux, ainsi que sur la religion et la réforme de l’éducation dans les pays francophones du Sahel. Il est actuellement chercheur pour le programme Sahel/Afrique de l’Ouest du Stockholm International Peace Research Institute (SIPRI) en Suède.
+
+Voir le programme **[Questions directes avec Mamadou Bodian et Alassane Samba Diop](https://www.amalion.net/news/2021-12-23-questions-directes-avec-mamadou-bodian-sur-itv/)** sur iTV Sénégal.
