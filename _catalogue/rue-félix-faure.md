@@ -16,6 +16,8 @@ Mais voilà qu’une masse sombre envahit la rue, réveille les douleurs tues �
 
 Une enquête policière écrite comme un poème, un hymne à la vie, plus forte que les porteurs de mort, et une quête philosophique menée au son du violon, du blues, et des rires des filles au teint couleur caramel.
 
+![Ken Bugul, auteure de Rue Félix-Faure ](../uploads/kenbugul-20211219-1.jpg "Ken Bugul Photo par Imadiworld")
+
 ### Author Details
 
 Née au Sénégal d’un père marabout âgé de 85 ans et d’une mère qui devra se séparer d’elle alors qu’elle n’a que 5 ans, Mariètou Mbaye Biléoma signe ses ouvrages **Ken Bugul** («personne n’en veut» en wolof). Ses prises de position sur la condition des femmes, l’islam, les rapports Nord-Sud, la liberté de ton, alliant colère et humour, l’imposent comme une des très grandes voix de la littérature africaine avec plus de dix ouvrages.
