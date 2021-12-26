@@ -14,7 +14,7 @@ layout: catalogue_item
 
 « Un recueil étonnant, une bible de musicologue » – **Carlos Gébler, écrivain.**
 
-Notes d’Afrique relate l’essor de la musique populaire sur le continent. Le livre couvre les évènements et les styles musicaux qui se sont développés depuis les années 60, jusqu’aux années 80 lorsque que le terme « World Music » a été inventé comme label marketing et que des musiciens africains, notamment Youssou N’Dour et ses contemporains, sont apparus sur la scène internationale, et la dominance d’Afrobeats de la période contemporaine. 
+*Notes d’Afrique* relate l’essor de la musique populaire sur le continent. Le livre couvre les évènements et les styles musicaux qui se sont développés depuis les années 60, jusqu’aux années 80 lorsque que le terme « World Music » a été inventé comme label marketing et que des musiciens africains, notamment Youssou N’Dour et ses contemporains, sont apparus sur la scène internationale, et la dominance d’Afrobeats de la période contemporaine. 
 
 Jenny Cathcart nous offre, à travers son expérience personnelle et son travail aux côtés de Youssou N’Dour, des portraits et des histoires de la vie de tous les jours et leur influence sur la musique en Afrique. Il en résulte de nouvelles perspectives pour la culture contemporaine, la religion et la politique, aussi bien pour le développement que pour de futures collaborations sur le continent et dans sa diaspora.
 
