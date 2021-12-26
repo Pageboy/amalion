@@ -6,7 +6,7 @@ released: 2022-01-01T17:31:13.351Z
 cover_image: ../uploads/9782359261097-couvweb.jpg
 caption: "Notes d'Afrique: Un voyage musical avec Youssou N'Dour"
 isbn: 9782359261097 PB, 9782359261103 EBook
-price: $35 • £25 • €29 • CFA17000
+price: $30 • £25 • €29 • CFA17000
 extent: 280pp, 234 mm x 156 mm, plus de 100 photos
 layout: catalogue_item
 ---
@@ -14,9 +14,9 @@ layout: catalogue_item
 
 « Un recueil étonnant, une bible de musicologue » – **Carlos Gébler, écrivain.**
 
-*Notes d’Afrique* relate l’essor de la musique populaire sur le continent – à partir des années 80 lorsque que le terme *World Music* a été inventé comme label marketing, et que des musiciens africains, notamment Youssou N’Dour et ses contemporains, sont apparus sur la scène internationale.
+Notes d’Afrique relate l’essor de la musique populaire sur le continent. Le livre couvre les évènements et les styles musicaux qui se sont développés depuis les années 60, jusqu’aux années 80 lorsque que le terme « World Music » a été inventé comme label marketing et que des musiciens africains, notamment Youssou N’Dour et ses contemporains, sont apparus sur la scène internationale, et la dominance d’Afrobeats de la période contemporaine. 
 
-Le livre explique les styles musicaux qui se sont développés depuis les années 60, lorsque de nombreux pays africains ont accédé à l’indépendance. Il couvre les évènements dans la musique et la société du Sénégal, d’Afrique de l’Ouest et du continent, des années d’indépendance à nos jours. Jenny Cathcart nous offre, à travers son expérience personnelle et son travail aux cotés de Youssou N’Dour, des portraits et des histoires de la vie de tous les jours et leur influence sur la musique en Afrique. Il en résulte de nouvelles perspectives pour la culture contemporaine, la religion et la politique, aussi bien pour le développement que pour de futures collaborations sur le contient et dans sa diaspora.
+Jenny Cathcart nous offre, à travers son expérience personnelle et son travail aux côtés de Youssou N’Dour, des portraits et des histoires de la vie de tous les jours et leur influence sur la musique en Afrique. Il en résulte de nouvelles perspectives pour la culture contemporaine, la religion et la politique, aussi bien pour le développement que pour de futures collaborations sur le continent et dans sa diaspora.
 
 Un tour magnifique des artistes qui ont marqué l’histoire de la musique populaire africaine.
 
