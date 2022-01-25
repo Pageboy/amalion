@@ -5,7 +5,7 @@ released: 2019-06-30T12:04:25.100Z
 cover_image: ../uploads/rencontres-religieuses-9782359260830.jpg
 caption: Rencontres religieuses et dynamiques sociales au Burkina Faso
 isbn: 9782359260830PB 9782359260847 E
-price: $40 • $40 • £30 • €35 • CFA17500
+price: $40 • £30 • €35 • CFA17500
 extent: 344pp; photos, illustrations. 234 mm x 156 mm
 layout: catalogue_item
 ---
