@@ -2,7 +2,8 @@
 layout: post
 category: news
 title: Ken Bugul à Dakar Farmers Market
-date: 2022-01-25T16:48:55.057Z
+date: 2021-12-11T16:48:55.057Z
+eventdate: 2022-01-11T18:10:45.732Z
 ---
 ![Ken Bugul at Dakar Farmers Market](../uploads/dk-farmers2b.jpg "Ken Bugul at Dakar Farmers Market")
 
