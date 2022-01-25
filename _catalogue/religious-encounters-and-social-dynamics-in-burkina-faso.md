@@ -18,7 +18,7 @@ Burkina Faso’s religious landscape, where traditional, Islamic and Christian r
 
 The first part of the book thoroughly explores the religious movements and currents present in the country to underline the centrality of religion in understanding social change in its polity. In the second part, the interactions between religions are analyzed across current transversal themes and questions, such as education, demography, politics, the role of faith-based NGOs, the historicity of the notion of jihad or the use of new information and communication technologies to show the connections within the construction of knowledge and political contexts. The contributions acutely show that recent socio-political dynamics in Burkina Faso are undoubtedly redefining religious boundaries and exposing the limitations of a historically and socially rooted contexts of diversity, yet the question remains on how to draw on this diversity and religious coexistence to confront new emerging tensions and conflicts.
 
-**Authors**
+## Author Details
 
 **Alice Degorce** is a research fellow at the Institute de Recherche et Développement (IRD) and a member of the Institut des mondes africains (IMAF), Paris, France. Her work focuses on the religious and linguistic practices of migrants in Burkina Faso. She has published, among others, with Honorine Sawadogo and Aude Nikiema “Les mères de jumeaux autour des mosquées à Ouagadougou: réappropriations, mobilités et mutations urbaines”, *Cahiers d’Outre-Mer,* n° 274 (2018); “Du rap à l’évangélisation. Parcours de vie d'un bishop de Ouagadougou”, *Volume! La revue des musiques populaires,* n° 14-1 (2017) and *Chants funéraires des Mossi (Burkina Faso),* in the collection Classiques Africains, Paris, Karthala, 2014.
 
