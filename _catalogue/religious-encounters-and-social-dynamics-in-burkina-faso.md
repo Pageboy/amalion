@@ -10,7 +10,9 @@ layout: catalogue_item
 ---
 ## Alice Degorce, Ludovic O. Kibora & Katrin Langewiesche (Eds)
 
-### Foreword by Professor Benjamin Soares
+### Foreword by Benjamin Soares
+
+
 
 Burkina Faso’s religious landscape, where traditional, Islamic and Christian religions intersect, is part of a social and historical context spread over several centuries marked by a diversity that has been studied by researchers for a long time. As the security situation deteriorates in recent years in the Sahel region, the religious question is increasingly being redefined and placed at the forefront of the Burkinabe socio-political scene. This collective work offers readers a synthesis of the knowledge accumulated by researchers over the past decades on the different religions and the social dynamics associated with them to shed light on the management of the country’s religious diversity and coexistence without masking the new tensions and conflicts being experienced.
 
