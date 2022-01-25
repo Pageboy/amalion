@@ -10,7 +10,7 @@ layout: catalogue_item
 ---
 ## Alice Degorce, Ludovic O. Kibora & Katrin Langewiesche (Eds)
 
-### **Foreword by Professor Benjamin Soares,**
+### Foreword by Professor Benjamin Soares
 
 Department of Religion, University of Florida, United States.
 
