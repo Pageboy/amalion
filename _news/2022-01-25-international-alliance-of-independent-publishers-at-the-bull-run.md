@@ -13,4 +13,6 @@ Amalion’s participation at the conference included exhibiting at the Navarra B
 
 ![Le logo d'Assises internationales de l’édition indépendante, Pampelune-Iruñea, 2021](../uploads/arton1756-d94b0.png "Le logo d'Assises internationales de l’édition indépendante, Pampelune-Iruñea, 2021")
 
+
+
 Olivia Sanjie covered the conference for *Publishing Perspectives*, see [here.](https://publishingperspectives.com/2021/12/at-the-alliances-conference-in-spain-african-publishers-on-their-challenges/)
