@@ -3,7 +3,7 @@ title: "The Wanderer's Waves: Poems"
 date: 2022-04-04T15:23:51.563Z
 released: 2022-04-04T15:23:51.580Z
 cover_image: ../uploads/9782359261110cov.jpg
-caption: The Wanderer’s Waves Tade Aina
+caption: The Wanderer’s Waves by Tade Aina
 isbn: 9782359261110 PB, 9782359261127 E9
 price: $18.95 • £15.95 • €15.95 • CFA7500
 extent: 128pp, 216 x 140mm
@@ -18,5 +18,7 @@ layout: catalogue_item
 “Travel, landscapes, people, the territories of the senses, of the heart. “Life, for him a geography of minutes”. Echoes from the experiences of the restless soul about the world, whose work also turns him into an eavesdropper, the fly-on-the-wall insights. In this body of work, to be gently savoured, the reader will encounter the dimensions of worlds, refracted in a most refreshing way.” – **Yvonne Adhiambo Owuor,** author of *Dust* (Granta 2015).
 
 ## Author Details
+
+![Tade Aina](../uploads/tade-ainaweb.jpg "Tade Aina")
 
 **Tade Aina**, a Nigerian, Pan-Africanist, scholar, activist, sociologist and Foundation Executive, has worked and published extensively on urbanization, higher education, development, social movements and philanthropy. He has published in literary magazines and edited collections. *The Wanderer’s Waves* is his first full collection of poems. Tade has lived in Lagos, Cairo, Dakar, Nairobi, London, Sussex and New York.
