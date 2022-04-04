@@ -9,7 +9,7 @@ price: $18.95 • £15.95 • €15.95 • CFA7500
 extent: 128pp, 216 x 140mm
 layout: catalogue_item
 ---
-# Tade Aina
+## Tade Aina
 
 “Rich-veined, sensual, and probing, this rewarding collection bears the imprint of a keen, world-wise poet. Tade Aina is a well-traveled man who weaves the lore, legends and histories of hearth and far-flung places with equal self-assurance.” **– Okey Ndibe,** author of *Foreign Gods, Inc.* (Soho Press 2014).
 
@@ -17,6 +17,6 @@ layout: catalogue_item
 
 “Travel, landscapes, people, the territories of the senses, of the heart. “Life, for him a geography of minutes”. Echoes from the experiences of the restless soul about the world, whose work also turns him into an eavesdropper, the fly-on-the-wall insights. In this body of work, to be gently savoured, the reader will encounter the dimensions of worlds, refracted in a most refreshing way.” – **Yvonne Adhiambo Owuor,** author of *Dust* (Granta 2015).
 
-# Author Details
+## Author Details
 
 **Tade Aina**, a Nigerian, Pan-Africanist, scholar, activist, sociologist and Foundation Executive, has worked and published extensively on urbanization, higher education, development, social movements and philanthropy. He has published in literary magazines and edited collections. *The Wanderer’s Waves* is his first full collection of poems. Tade has lived in Lagos, Cairo, Dakar, Nairobi, London, Sussex and New York.
