@@ -4,7 +4,7 @@ date: 2022-03-30T15:23:51.563Z
 released: 2022-03-30T15:23:51.580Z
 cover_image: ../uploads/9782359261110cov.jpg
 caption: The Wanderer’s Waves by Tade Aina
-isbn: 9782359261110 PB, 9782359261127 E9
+isbn: 9782359261110 PB, 9782359261127 E
 price: $18.95 • £15.95 • €15.95 • CFA7500
 extent: 128pp, 216 x 140mm
 layout: catalogue_item
