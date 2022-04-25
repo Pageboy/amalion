@@ -14,11 +14,9 @@ In conversation with Jenny Cathcart & Massamba Mbaye
 Monday 16 May 2022
 16.00–18.00
 [British Council Senegal](https://www.facebook.com/BritishCouncilSenegal/?__cft__[0]=AZVzsZsMmrNaJnIdLEFmOE5v-ebVIuntB2eFngcSCNtjzTqxdmRDTm2aI5wNwrS70vAT3j-ORShiBkZC_Opz1gwm28fdeg5F49mHK_upTk3Moyo4EBsdYSbQLq-DAechupczKAmuXsisfOIoHXuFy98mehtwVq01DwM4NsvYmnPK0-F3I4CLCDuTyZMZ9ghQsWI&__tn__=kK-R)
-Rue AAB-68 Amitié Zone B,
-Dakar, Senegal
+Rue AAB-68 Amitié Zone B, Dakar, Senegal
 Contact: 221 33 869 2700
 
-Due to limited numbers, please RSVP Alex.lambert@britishcouncil.sn 
-or publish@amalion.net
+Due to limited numbers, please RSVP Alex.lambert@britishcouncil.sn or publish@amalion.net
 
 Book available at [www.jumia.sn](http://www.jumia.sn/?fbclid=IwAR1tBLzjRHy_pr0Z8yac63Mbi1JOe7wDPfXb-dlBCHzsMr_sD_hV0yiS_Fo), [Librairie Aux 4 Vents](https://www.facebook.com/Librairieaux4Vents/?__cft__[0]=AZVzsZsMmrNaJnIdLEFmOE5v-ebVIuntB2eFngcSCNtjzTqxdmRDTm2aI5wNwrS70vAT3j-ORShiBkZC_Opz1gwm28fdeg5F49mHK_upTk3Moyo4EBsdYSbQLq-DAechupczKAmuXsisfOIoHXuFy98mehtwVq01DwM4NsvYmnPK0-F3I4CLCDuTyZMZ9ghQsWI&__tn__=kK-R) and [www.amalion.net](http://www.amalion.net/?fbclid=IwAR35QJmZOzqYgzmYzP3iCrHfqe2Mt7Ocp87sYdqcCuvgv2E-iaVuyiznjUk)
