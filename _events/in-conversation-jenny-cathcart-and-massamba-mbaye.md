@@ -1,6 +1,6 @@
 ---
 title: In Conversation with Jenny Cathcart and Massamba Mbaye
-date: 2022-05-16T16:00:19.080Z
+date: 2022-04-25T05:37:38.086Z
 layout: post
 ---
 Notes d'Afrique: un voyage musical avec Youssou N'Dour
