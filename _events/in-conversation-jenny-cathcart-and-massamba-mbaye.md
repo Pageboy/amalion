@@ -1,11 +1,11 @@
 ---
-title: In Conversation Jenny Cathcart and Massamba Mbaye
+title: In Conversation with Jenny Cathcart and Massamba Mbaye
 date: 2022-05-16T16:00:19.080Z
 layout: post
 ---
 Notes d'Afrique: un voyage musical avec Youssou N'Dour
 
-In conversation Jenny Cathcart & Massamba Mbaye
+In conversation with Jenny Cathcart & Massamba Mbaye
 
 ![Notes d'Afrique: un voyage musical avec Youssou N'Dour](../uploads/cathcart_notes_flyer-16mai.jpg "Notes d'Afrique: un voyage musical avec Youssou N'Dour")
 
