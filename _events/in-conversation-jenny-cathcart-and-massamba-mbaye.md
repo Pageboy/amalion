@@ -1,5 +1,5 @@
 ---
-title: In Conversation with Jenny Cathcart and Massamba Mbaye
+title: In Conversation with Jenny Cathcart & Massamba Mbaye
 date: 2022-04-25T05:37:38.086Z
 layout: post
 ---
