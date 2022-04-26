@@ -24,6 +24,6 @@ Contact: 221 33 869 2700
 
 **Massamba Mbaye** est un critique d’art, commissaire d’exposition et historien des théories de la communication. Il enseigne la cybernétique, le marketing stratégique, la communication et les pratiques curatoriales à l’Université Cheikh Anta Diop Dakar, l’Université Virtuelle du Sénégal (UVS), à l'École Nationale des Arts du Sénégal et à l'Institut Madiba. Pendant plus d’une décennie Mbaye a été le Directeur Général du groupe Dmedia, un conglomérat de journaux, radio et télévision. Commissaire 2022 du Pavillon du Sénégal, il est membre du Comité d’orientation de Dak’art et est l’auteur de plusieurs ouvrages sur les arts visuels au Sénégal.
 
-Due to limited numbers, please RSVP Alex.lambert@britishcouncil.sn or publish@amalion.net
+Due to limited numbers, please RSVP Alex.lambert\[a]britishcouncil.sn or publish\[a]amalion.net
 
 Book available at [www.jumia.sn](http://www.jumia.sn/?fbclid=IwAR1tBLzjRHy_pr0Z8yac63Mbi1JOe7wDPfXb-dlBCHzsMr_sD_hV0yiS_Fo), [Librairie Aux 4 Vents](https://www.facebook.com/Librairieaux4Vents/?__cft__[0]=AZVzsZsMmrNaJnIdLEFmOE5v-ebVIuntB2eFngcSCNtjzTqxdmRDTm2aI5wNwrS70vAT3j-ORShiBkZC_Opz1gwm28fdeg5F49mHK_upTk3Moyo4EBsdYSbQLq-DAechupczKAmuXsisfOIoHXuFy98mehtwVq01DwM4NsvYmnPK0-F3I4CLCDuTyZMZ9ghQsWI&__tn__=kK-R) and [www.amalion.net](http://www.amalion.net/?fbclid=IwAR35QJmZOzqYgzmYzP3iCrHfqe2Mt7Ocp87sYdqcCuvgv2E-iaVuyiznjUk)
