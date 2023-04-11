@@ -10,9 +10,7 @@ price: $35 • £30 • €30 • CFA15000
 extent: 228pp, 234 mm x 156 mm
 layout: catalogue_item
 ---
-# Innovation Ecosystems in Africa
-
-## S﻿olving the problems that we have
+## Olugbenga Adesida, Geci Karuri-Sebina, João Resende-Santos & Mammo Muchie (Eds.)
 
 *Innovation Ecosystems in Africa* aims to deepen and broaden the visibility and interrogation of African innovation systems in practice by offering unique academic analysis of the emergence, growth and future prospects of endogenous innovation practices and lessons across the continent. The stories depict systemic innovations in a range of critical development areas from health and education to leadership and entrepreneurialism, and span from North to South, and East to West, covering no less than a dozen different African cities and countries.
 
@@ -22,7 +20,7 @@ In addition to sharing knowledge about exciting but rarely acknowledged cases of
 
 This edited collection uses multi-country, cross-sectoral case studies to advance an empirically grounded, appreciative investigation of how innovation is being used to address fundamental development challenges on the continent, and how the African innovation ecosystems could be made more enabling into the future.
 
-# **About the Editors**
+### **About the Editors**
 
 **Olugbenga Adesida** is a Development Policy and Scenarios Planning specialist and co-founder of the Africa Innovation Summit and the technology enterprise Bonako based in Cabo Verde. He is Associate Editor of the *African Journal of Science, Technology, Innovation and Development,* Director of the Africa Leadership Institute, and a board member of the Pedro Pires Leadership Institute. He holds a doctorate from the London School of Economics, UK, with a thesis on the role of intermediary institutions in the diffusion of complex technological innovations.
 
@@ -34,4 +32,6 @@ This edited collection uses multi-country, cross-sectoral case studies to advanc
 
 **Mammo Muchie** is a South Africa National Research Foundation Research (SARChI) Chair-holder and Professor of Innovation Studies at Tshwane University of Technology, and currently Adjunct Professor at Bahir Dar University and the University of Gondar both in Ethiopia and the Africa Centre of Excellence in Data Science in Rwanda. He is a scientific board member of Globelics and the Globelics Academy; founder and Chief Editor of the *African Journal on Science, Technology, Innovation and Development;* and co-editor along with Bengt-Åke Lundvall and Peter Gammeltoft of the seminal book *Putting Africa First: The Making of African Innovation Systems* (Aalborg University Press, 2003), and author of numerous articles and academic papers. He holds a DPhil in Science, Technology, and Innovation for Development (STI4D) from the University of Sussex, UK.
 
-**Contributors :** Olugbenga Adesida, Yap Boum II, Jeff Chen, Liza Rose Cirolia, Jeremy de Beer, Pauline Anna Marie Delay, Aidan Eyakuze, Kareem Ibrahim, Daniel Irurah, Heinrich Kammeyer, Geci Karuri-Sebina, Deena Khalil, Erika Kraemer-Mbula, Taibat Lawanson, Sechaba Maape, Samuel Munzele Maimbo, Shadreck Mapfumo, Ntombini Marrengane, Martin Mbaya, Mammo Muchie, Robert Mudida, Omar Nagati, Caroline Ncube, Chidi Oguamanam, Brian Omwenga, João Resende-Santos, Davlin Richardson, Nagla Rizk, Vipua Inata Rukambe, Isaac Rutenberg, Youdi Schipper, Tobias Schonwetter.
+**Contributors**
+
+Olugbenga Adesida, Yap Boum II, Jeff Chen, Liza Rose Cirolia, Jeremy de Beer, Pauline Anna Marie Delay, Aidan Eyakuze, Kareem Ibrahim, Daniel Irurah, Heinrich Kammeyer, Geci Karuri-Sebina, Deena Khalil, Erika Kraemer-Mbula, Taibat Lawanson, Sechaba Maape, Samuel Munzele Maimbo, Shadreck Mapfumo, Ntombini Marrengane, Martin Mbaya, Mammo Muchie, Robert Mudida, Omar Nagati, Caroline Ncube, Chidi Oguamanam, Brian Omwenga, João Resende-Santos, Davlin Richardson, Nagla Rizk, Vipua Inata Rukambe, Isaac Rutenberg, Youdi Schipper, Tobias Schonwetter.
