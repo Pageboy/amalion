@@ -6,7 +6,7 @@ released: 2023-04-11T01:37:14.467Z
 cover_image: ../uploads/9782359261158-cov.jpg
 caption: "Innovation Ecosystems in Africa: Solving the problems that we have"
 isbn: 9782359261158 PB, 9782359261165 Ebook
-price: $35 • £30 • €30 • CFA15000
+price: $35 • £25 • €30 • CFA15000
 extent: 228pp, 234 mm x 156 mm
 layout: catalogue_item
 ---
@@ -23,8 +23,6 @@ This edited collection uses multi-country, cross-sectoral case studies to advanc
 ### **About the Editors**
 
 **Olugbenga Adesida** is a Development Policy and Scenarios Planning specialist and co-founder of the Africa Innovation Summit and the technology enterprise Bonako based in Cabo Verde. He is Associate Editor of the *African Journal of Science, Technology, Innovation and Development,* Director of the Africa Leadership Institute, and a board member of the Pedro Pires Leadership Institute. He holds a doctorate from the London School of Economics, UK, with a thesis on the role of intermediary institutions in the diffusion of complex technological innovations.
-
-**Geci Karuri-Sebina** is an Associate Professor with the University of Witwatersrand’s School of Governance, Adjunct Professor at University of Cape Town (African Centre for Cities), Associate of the South African Cities Network, and a founding Director of the Southern African Node of the Millennium Project. She is active across a number of sectors including as board member and Vice President of AfricaLics, organizer of the Civic Tech Innovation Network, and Africa Regional Editor for the journal *foresight*.
 
 **Geci Karuri-Sebina** is an Associate Professor with the University of Witwatersrand’s School of Governance, Adjunct Professor at University of Cape Town (African Centre for Cities), Associate of the South African Cities Network, and a founding Director of the Southern African Node of the Millennium Project. She is active across a number of sectors including as board member and Vice President of AfricaLics, organizer of the Civic Tech Innovation Network, and Africa Regional Editor for the journal *foresight*.
 
