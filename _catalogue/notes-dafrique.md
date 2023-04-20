@@ -10,6 +10,8 @@ price: $30 • £25 • €29 • CFA17000
 extent: 280pp, 234 mm x 156 mm, plus de 100 photos
 layout: catalogue_item
 ---
+## Jenny Cathcart
+
 « Un parcours personnel bien documenté, une excellente lecture qui servira de référence pour beaucoup » – **Wally Badarou, musicien.**
 
 « Un recueil étonnant, une bible de musicologue » – **Carlos Gébler, écrivain.**
