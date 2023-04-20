@@ -1,6 +1,6 @@
 ---
 title: Small Enterprises & Entrepreneurship Development
-subtitle: Empirical evidence, policy evaluation and best practices
+subtitle: Empirical Evidence, Policy Evaluation and Best Practices
 date: 2023-04-20T19:59:34.923Z
 released: 2012-04-01T19:56:47.833Z
 cover_image: ../uploads/Small-Enterprises.jpg
