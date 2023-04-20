@@ -4,7 +4,7 @@ subtitle: Empirical Evidence, Policy Evaluation and Best Practices
 date: 2023-04-20T19:59:34.923Z
 released: 2012-04-01T19:56:47.833Z
 cover_image: ../uploads/Small-Enterprises.jpg
-isbn: " ISBN 9782359260144 PB, ISBN 9782359260267 E"
+isbn: 9782359260144 PB, 9782359260267 E
 price: $34.95 • £24.99 • €25 • CFA15000
 extent: 288pp, 229 mm x 152 mm
 layout: catalogue_item
