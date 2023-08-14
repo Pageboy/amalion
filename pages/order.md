@@ -45,12 +45,18 @@ Tel: +234 1 2700588 • Fax: +234 1 2700599 • [http://www.terrakulture.com](ht
 
 ### Senegal
 
+La Bouquinerie\
+178 avenue du Pdt Lamine Gueye\
+Cabinet médical, 1er étage\
+Tel: 77 872 52 83 • Email: contact(a)labouquinerie.sn\
+[https://www.labouquinerie.sn](https://www.labouquinerie.sn)
+
 Layu\
 Route de King Fahd, Immeuble 26, Almadies, Dakar, Senegal\
 Tel: +221 33868 13 32 Email: info(a)ilovelayu.com
 
 Librairie aux 4 vents\
-55 rue Félix Faure, Quartier du Plateau, Dakar, Senegal.\
+55 rue Félix Faure, Quartier du Plateau, Dakar, Senegal\
 Tel: +221 33 821 80 83 • Fax: +221 33 822 95 36
 
 Librairie Clairafrique\
