@@ -47,7 +47,6 @@ Tel: +234 1 2700588 • Fax: +234 1 2700599 • [http://www.terrakulture.com](ht
 
 La Bouquinerie\
 178 avenue du Pdt Lamine Gueye\
-Cabinet médical, 1er étage\
 Tel: 77 872 52 83 • Email: contact(a)labouquinerie.sn\
 [https://www.labouquinerie.sn](https://labouquinerie.sn/etiquette-produit/amalion/)
 
