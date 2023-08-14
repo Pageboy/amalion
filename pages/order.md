@@ -50,6 +50,10 @@ La Bouquinerie\
 Tel: 77 872 52 83 • Email: contact(a)labouquinerie.sn\
 [https://www.labouquinerie.sn](https://labouquinerie.sn/etiquette-produit/amalion/)
 
+FNAC\
+Centre Commercial Dakar City aux Almadies, Almadies, Dakar, Senegal\
+Tel: +221 33843 48 78
+
 Layu\
 Route de King Fahd, Immeuble 26, Almadies, Dakar, Senegal\
 Tel: +221 33868 13 32 Email: info(a)ilovelayu.com
