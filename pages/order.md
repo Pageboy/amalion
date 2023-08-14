@@ -49,7 +49,7 @@ La Bouquinerie\
 178 avenue du Pdt Lamine Gueye\
 Cabinet médical, 1er étage\
 Tel: 77 872 52 83 • Email: contact(a)labouquinerie.sn\
-[https://www.labouquinerie.sn](https://www.labouquinerie.sn)
+[https://www.labouquinerie.sn](https://labouquinerie.sn/etiquette-produit/amalion/)
 
 Layu\
 Route de King Fahd, Immeuble 26, Almadies, Dakar, Senegal\
