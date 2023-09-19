@@ -1,7 +1,7 @@
 ---
 title: Religious Encounters and Social Dynamics in Burkina Faso
-date: 2022-01-25T12:11:19.854Z
-released: 2022-04-01T12:11:19.882Z
+date: 2023-12-24T12:11:19.854Z
+released: 2023-12-24T12:11:19.882Z
 cover_image: ../uploads/9782359261134.jpg
 isbn: 9782359261134 PB 9782359261141 EBook
 price: $40 • £30 • €35 • CFA17500
