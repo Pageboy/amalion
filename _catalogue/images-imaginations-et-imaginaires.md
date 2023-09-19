@@ -9,9 +9,9 @@ price: $35 • £30 • €35 • CFA15000
 extent: 240pp, 229 mm x 152 mm
 layout: catalogue_item
 ---
-# Images, imaginations et imaginaires
+## Images, imaginations et imaginaires
 
-## Invention et subversion des identités visuelles en Afrique
+### Invention et subversion des identités visuelles en Afrique
 
 La modernité africaine est le résultat de combinaisons originales comportant une dimension figurative ; occultée par les formes ostensibles de domination, une sourde guerre des signes y est toujours active. Ces affrontements symboliques se manifestent dans la scène de la modernité comme mode de fabrication du lien social ordinaire. La construction concurrentielle de cet espace public commence dès les premiers moments d’incorporation des Africains dans les imaginaires européens; les campagnes militaires furent l’occasion d’une concrétisation de cette imagination bientôt colonisatrice. 
 
