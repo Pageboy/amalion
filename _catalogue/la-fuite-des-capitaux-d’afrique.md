@@ -17,7 +17,7 @@ Les preuves révèlent un réseau complexe d’acteurs et de facilitateurs impli
 
 Cet ouvrage combine l’analyse scientifique et l’enquête d’investigation financière ; démontre comment la fuite des capitaux est un problème mondial ; et fournit une analyse unique du rôle de la captation d’état et des réseaux transnationaux dans la fuite des capitaux.
 
-### **A﻿uteurs**
+## **A﻿uteurs**
 
 **Léonce Ndikumana** est professeur d’économie à l’Université du Massachusetts Amherst, où il est Directeur du programme sur la politique de développement en Afrique. Il est Andrew Carnegie Fellow, membre de la Commission indépendante pour la réforme de la fiscalité internationale des entreprises (ICRICT) et professeur honoraire d’économie à l'université du Cap et à l'Université de Stellenbosch en Afrique du Sud. Il a assumé les postes de Directeur des politiques opérationnelles, de Directeur de recherche à la Banque africaine de développement et de Chef de l’analyse macroéconomique à la Commission économique des Nations Unies pour l’Afrique (CEA). Ses précédents ouvrages comprennent *La dette odieuse de l’Afrique: Comment l’endettement et la fuite des capitaux ont saigné un continent* (avec James K. Boyce, Amalion, 2013), et *Capital Flight from Africa Causes, Effects, and Policy Issues* (avec S. Ibi Ajay, OUP, 2014).
 
