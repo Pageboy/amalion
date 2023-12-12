@@ -54,14 +54,6 @@ FNAC\
 Centre Commercial Dakar City aux Almadies, Almadies, Dakar, Senegal\
 Tel: +221 33843 48 78
 
-Layu\
-Route de King Fahd, Immeuble 26, Almadies, Dakar, Senegal\
-Tel: +221 33868 13 32 Email: info(a)ilovelayu.com
-
-Librairie aux 4 vents\
-55 rue Félix Faure, Quartier du Plateau, Dakar, Senegal\
-Tel: +221 33 821 80 83 • Fax: +221 33 822 95 36
-
 Librairie Clairafrique\
 Av Cheikh Anta Diop x Route de Université prolongée, Dakar, Senegal\
 Tel: +221 33864 4429 • Fax: +221 33864 58 54 • Email: clairafinde(a)arc.sn / clairaf(a)orange.sn
