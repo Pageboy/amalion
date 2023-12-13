@@ -17,4 +17,4 @@ L’espace photographique s’invite dans ce procès silencieux d’invention et
 
 ## Auteur
 
-**Jean-Bernard Ouédraogo** est sociologue au CNRS et membre du Laboratoire d'Anthropologie Politique (LAP/ EHESS/CNRS) à Paris, France. Il est l’auteur de plusieurs ouvrages dans le domaine des arts parmi lesquels *Kalidou Kassé peintures* *: Expériences de la forme* (2014) et *Arts photographiques en Afrique* (2002).
+**Jean-Bernard Ouédraogo** est sociologue au CNRS et membre du Laboratoire d'Anthropologie Politique (LAP/ EHESS/CNRS) à Paris, France. Il est l’auteur de plusieurs ouvrages dans le domaine des arts parmi lesquels *L'invention des formes à l'ère de la globalisation: artistes et chercheurs en dialogue* (2022), *L’Enquête et ses graphies en sciences sociales: figurations iconographiques d’après société,* avec Katrin Langewiesche (2019), *Kalidou Kassé peintures* *: Expériences de la forme* (2014) et *Arts photographiques en Afrique* (2002).
