@@ -15,6 +15,6 @@ La modernité africaine est le résultat de combinaisons originales comportant u
 
 L’espace photographique s’invite dans ce procès silencieux d’invention et/ou de subversion des identités et participe à la scansion de l’évolution sociale. Les photographies sont étudiées ici dans le but non pas de montrer des postures exotiques d’indigènes, malhabiles et innocents, qui fondent une certaine esthétique primitiviste, mais de favoriser une distanciation qui permet l’observation des dynamiques internes des sociétés africaines contemporaines. Cette démarche n’est pas sans poser d’importants problèmes épistémologiques qui questionnent la fonction heuristique des images, des imaginations et des imaginaires. Par le truchement des images, cet ouvrage éclaire d’un jour nouveau les distinctions, les frictions et les stratégies d’une modernité africaine objet de tant de mésinterprétations.
 
-## Author Details
+## Auteur
 
-**Jean-Bernard Ouédraogo** est sociologue au CNRS et membre de l’Institut interdisciplinaire d’anthropologie du contemporain (LAIOSIIAC, EHESS/CNRS) à Paris, France. Il est l’auteur de plusieurs ouvrages dans le domaine des arts parmi lesquels *Kalidou Kassé peintures* *: Expériences de la forme* (2014), *Identité visuelle en Afrique* (2008), *Arts photographiques en Afrique* (2002).
+**Jean-Bernard Ouédraogo** est sociologue au CNRS et membre du Laboratoire d'Anthropologie Politique (LAP/ EHESS/CNRS) à Paris, France. Il est l’auteur de plusieurs ouvrages dans le domaine des arts parmi lesquels *Kalidou Kassé peintures* *: Expériences de la forme* (2014) et *Arts photographiques en Afrique* (2002).
