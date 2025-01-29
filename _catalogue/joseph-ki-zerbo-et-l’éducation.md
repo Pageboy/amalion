@@ -16,6 +16,6 @@ Les contributions du présent volume, provenant de l’Afrique globale et diaspo
 
 Sur l’initiative du Centre international Joseph Ki-Zerbo pour l’Afrique et sa Diaspora – N’an laara an sara (CIJKAD-NLAS), cet ouvrage séminal interpelle tout acteur de l’éducation, et toute personne concernée par l’enjeu des systèmes éducatifs de l’Afrique globale.
 
-Auteurs
+## Auteurs
 
 Philosophe de formation, et nourri d’une expérience pédagogique diversifiée au Burkina Faso, à la Guyane, au Sénégal et l’Océanie, **Dr Lazare Ki-Zerbo** a consacré plusieurs publications au panafricanisme et au fédéralisme personnel. **Prof Jacques d’Adesky** est coprésident scientifique du CIJKAD-NLAS. Il a été chercheur et directeur administratif adjoint du Centre d’études afro-asiatiques de l’Université Cândido Mendes, professeur et coordinateur général du cours de relations internationales à l’Université Estácio de Sá au Brésil. Il est l’auteur de *Racismes et antiracismes au Brési*l (2001), et *Uma Breve História do Racismo: Intolerâncias, Genocídio e Crimes contra a Humanidade* (2023).
