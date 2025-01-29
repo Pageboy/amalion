@@ -10,6 +10,8 @@ layout: catalogue_item
 ---
 ## Lazare Ki-Zerbo & Jacques d’Adesky (Dir.)
 
+### P﻿réface par Ana Elisa de Santana Afonso
+
 Au cours de sa vie intellectuelle remarquable, Joseph Ki-Zerbo (1922–2006) a lancé un éloquent cri d’interpellation au sujet de l’extraversion du système éducatif national africain, coupé de l’humus culturel endogène et du champ transnational panafricain. Il appelait de ses vœux et incarnait une souveraineté intellectuelle dans l’éducation des Africain.e.s, préparés décidés à une écocitoyenneté planétaire.
 
 Les contributions du présent volume, provenant de l’Afrique globale et diasporique, du Brésil au Burkina Faso, de la Colombie à la Côte d’Ivoire, interrogent rigoureusement les défis contemporains majeurs à partir de la pensée kizerbienne de l’éducation, soulignant sa pertinence heuristique et son opérationnalité, en la confrontant de manière féconde à des perspectives nouvelles, et à des processus alternatifs concrets.
