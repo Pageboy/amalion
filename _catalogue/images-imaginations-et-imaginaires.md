@@ -2,7 +2,7 @@
 title: Images, imaginations et imaginaires
 subtitle: Invention et subversion des identités visuelles en Afrique
 date: 2023-09-19T01:06:39.641Z
-released: 2023-12-01T01:06:39.656Z
+released: 2024-12-01T01:06:00.000Z
 cover_image: ../uploads/9782359261172-ouedraogo-web.jpg
 isbn: 9782359261172 PB, 9782359261189 E
 price: $35 • £30 • €35 • CFA15000
