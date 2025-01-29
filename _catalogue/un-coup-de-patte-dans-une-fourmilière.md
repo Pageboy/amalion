@@ -3,7 +3,7 @@ title: Un coup de patte dans une fourmilière
 subtitle: Mutations foncières, agricoles et restructuration paysanne en pays
   Nuna au Burkina Faso
 date: 2023-12-12T19:04:48.553Z
-released: 2024-03-31T21:00:20.944Z
+released: 2024-12-15T21:00:20.944Z
 cover_image: ../uploads/97823592612573.jpg
 isbn: 9782359261257 PB, 9782359261264 E
 price: $35 • £30 • €35 • CFA15000
