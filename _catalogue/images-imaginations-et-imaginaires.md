@@ -6,7 +6,7 @@ released: 2024-12-01T01:06:00.000Z
 cover_image: ../uploads/9782359261172-ouedraogo-web.jpg
 isbn: 9782359261172 PB, 9782359261189 E
 price: $35 • £30 • €35 • CFA15000
-extent: 240pp, 229 mm x 152 mm
+extent: 166pp, 229 mm x 152 mm
 layout: catalogue_item
 ---
 ## **Jean-Bernard Ouédraogo**
