@@ -39,9 +39,9 @@ Molofin Nominees\
 18 Lewis Street, Lagos Island, Lagos, Nigeria\
 Email: njpl2010(a)yahoo.com
 
-Terra Kulture\
-Plot 1376 Tiamiyu Savage Street, Victoria Island, Lagos, Nigeria\
-Tel: +234 1 2700588 • Fax: +234 1 2700599 • [http://www.terrakulture.com](http://www.terrakulture.com/)
+Ouida Bookstore\
+34 Ajanaku St, off Salvation Road, Opebi, Ikeja 100281, Lagos, Nigeria\
+Tel: +234 (0)809 465 9313 • Email: info(a)ouidabooks.com • [](http://www.terrakulture.com/)
 
 ### Senegal
 
