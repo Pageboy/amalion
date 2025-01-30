@@ -24,7 +24,8 @@ http://www.sonaec.com
 
 Librairie de France Groupe\
 Avenue Chardy, Immeuble Alpha 2000, 01 BP 228 Abidjan 01 Côte d'Ivoire \
-Tel: +225 27 20 30 6363 / 27 21 25 5255  / 27 22 41 9218  • [](http://www.vidyabookstore.com/)<https://www.librairiedefrance.net/>
+Tel: +225 27 20 30 6363 / 27 21 25 5255  / 27 22 41 9218  • [](http://www.vidyabookstore.com/)\
+<https://www.librairiedefrance.net/>
 
 ### Ghana
 
