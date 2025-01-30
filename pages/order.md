@@ -10,7 +10,7 @@ Information about titles published by Amalion Publishing can be found in various
 ### Africa
 
 Amalion\
-133 Cité Assemblée, Ouakam, BP 5637 Dakar-Fann, 00004 Dakar, Senegal\
+133 Cité Assemblée, Ouakam, BP 5637 Dakar-Fann, 10700 Dakar, Senegal\
 Tel: +221 33860 19 04 • Fax: +221 33860 19 04 • orders(a)amalion.net
 
 ### Benin
