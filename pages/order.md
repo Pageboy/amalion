@@ -5,7 +5,7 @@ date: 2021-05-22T18:40:07.939Z
 show: true
 layout: page
 ---
-Information about titles published by Amalion Publishing can be found in various online and physical retail outlets around the world, including [www.amazon.com](http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=amalion+publishing&x=0&y=0), [www.amazon.fr](https://www.amazon.fr/s?k=amalion&__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss_2), [www.barnesandnoble.com](http://www.barnesandnoble.com/), [www.adlibris.com](http://www.adlibris.com/), [www.centralbooks.com](https://www.centralbooks.com/publishers/ABAAMA/ "Central Books"), [www.fnac.com](https://www.fnac.com/SearchResult/ResultList.aspx?SCat=0%211&Search=amalion&sft=1&sa=0 "Fnac") and [www.jumia.sn](http://www.jumia.sn/) You can also order directly from or through the following partner distributors and outlets:
+Information about titles published by Amalion can be found in various online and physical retail outlets around the world, including [www.amazon.com](http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=amalion+publishing&x=0&y=0), [www.amazon.fr](https://www.amazon.fr/s?k=amalion&__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss_2), [www.barnesandnoble.com](http://www.barnesandnoble.com/), [www.adlibris.com](http://www.adlibris.com/), [www.centralbooks.com](https://www.centralbooks.com/publishers/ABAAMA/ "Central Books"), [www.fnac.com](https://www.fnac.com/SearchResult/ResultList.aspx?SCat=0%211&Search=amalion&sft=1&sa=0 "Fnac") and [www.jumia.sn](http://www.jumia.sn/) You can also order directly from or through the following partner distributors and outlets:
 
 ### Africa
 
