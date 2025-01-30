@@ -20,6 +20,12 @@ SONAEC\
 Tel: +229 2131 22 42 • Fax: +229 2131 2058 • Email: sonaeclibs(a)yahoo.fr\
 http://www.sonaec.com
 
+### Côte d'Ivoire
+
+Librairie de France Groupe\
+Avenue Chardy, Immeuble Alpha 2000, 01 BP 228 Abidjan 01 Côte d'Ivoire \
+Tel: +225 27 20 30 6363 / 27 21 25 5255  / 27 22 41 9218  • [](http://www.vidyabookstore.com/)<https://www.librairiedefrance.net/>
+
 ### Ghana
 
 Vidya Bookstore\
@@ -43,7 +49,7 @@ Ouida Bookstore\
 34 Ajanaku St, off Salvation Road, Opebi, Ikeja 100281, Lagos, Nigeria\
 Tel: +234 (0)809 465 9313 • Email: info(a)ouidabooks.com • [](http://www.terrakulture.com/)
 
-### Senegal
+### Sénégal
 
 La Bouquinerie\
 178 avenue du Pdt Lamine Gueye\
