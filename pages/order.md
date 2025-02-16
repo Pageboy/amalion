@@ -62,8 +62,12 @@ Centre Commercial Dakar City aux Almadies, Almadies, Dakar, Senegal\
 Tel: +221 33843 48 78
 
 Librairie Clairafrique\
-Av Cheikh Anta Diop x Route de Université prolongée, Dakar, Senegal\
+Av Cheikh Anta Diop x Route de Université prolongée, Dakar, Senegal \
 Tel: +221 33864 4429 • Fax: +221 33864 58 54 • Email: clairafinde(a)arc.sn / clairaf(a)orange.sn
+
+Librairie Saly\
+Centre commercial Saly Center, Ngaparou, Senegal\
+Tel: +221 33 957 16 48 • Tel: +221 77 314 73 20 • Email: lalibrairiesaly(a)gmail.com • https://lalibrairiesaly.com/
 
 ### France, Belgium & Switzerland
 
