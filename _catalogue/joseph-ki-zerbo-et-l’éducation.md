@@ -1,7 +1,7 @@
 ---
 title: Joseph Ki-Zerbo et l’éducation
 date: 2025-01-29T21:30:25.059Z
-released: 2025-04-02T21:30:25.136Z
+released: 2025-05-01T21:30:25.136Z
 cover_image: ../uploads/ki-zerbo-9782359261271-web-front.jpg
 isbn: 9782359261271 PB, 9782359261288 E
 price: $40 • £35 • €40 • CFA17500
