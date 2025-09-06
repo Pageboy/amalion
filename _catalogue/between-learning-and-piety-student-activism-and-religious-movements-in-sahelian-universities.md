@@ -7,7 +7,7 @@ order: 1
 title: Between Learning and Piety
 subtitle: Student Activism and Religious Movements in Sahelian Universities
 date: 2021-06-22T11:45:40.753Z
-released: 2025-06-30T19:57:13.631Z
+released: 2025-11-30T19:57:13.631Z
 cover_image: ../uploads/BetweenLearning-Piety_web.jpg
 isbn: 9782359260922 PB, 9782359260939 Ebook
 ---
