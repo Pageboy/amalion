@@ -5,7 +5,7 @@ released: 2025-06-30T23:29:40.863Z
 cover_image: ../uploads/9782359261219.jpg
 isbn: 9782359261219 PB, 9782359261226 E
 price: "Price: $50 • £40 • €45 • CFA25000"
-extent: 526 pp, 234 mm x 156 mm, illus, photos
+extent: 536 pp, 234 mm x 156 mm, illus, photos
 layout: catalogue_item
 ---
 ## Stephen Adebanji Akintoye
