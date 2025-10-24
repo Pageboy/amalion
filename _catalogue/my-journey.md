@@ -4,8 +4,9 @@ subtitle: A memoir
 date: 2025-10-24T22:08:43.911Z
 released: 2025-10-24T22:08:44.001Z
 cover_image: ../uploads/carvalho-9782359261295-web.jpg
-isbn: "97823592601295"
+isbn: 97823592601295 PB, 97823592601301 Ebook
 price: $29.95 • £24.99 • €24.50 • CFA15000
+extent: 204pp, 234 mm x 156 mm, photos
 layout: catalogue_item
 ---
 ## **André François Carvalho**
