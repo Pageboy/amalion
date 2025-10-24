@@ -11,7 +11,7 @@ layout: catalogue_item
 ---
 ## André François Carvalho
 
-## Foreword by Abdoulaye Mar Dièye &  Robert Beugré Mambé
+### Foreword by Abdoulaye Mar Dièye & Robert Beugré Mambé
 
 “This book stands as a profound life lesson from which we can derive a fundamental theorem: self-sacrifice leads to excoellence. This principle encapsulates André François Carvalho’s career... André invites readers on a journey, revealing not only his personal growth but his intellectual legacy. Through his experiences, we learn valuable lessons about combating poverty, transforming economies at their core, and guiding nations through conflict and crisis. His narrative offers both inspiration and practical wisdom for those seeking to make a meaningful impact in the world.” – **Abdoulaye Mar Dièye** is the United Nations Under-Secretary-General, and Special Coordinator for Development in the Sahel.
 
