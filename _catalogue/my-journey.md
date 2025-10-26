@@ -1,5 +1,5 @@
 ---
-title: My Journey
+title: My Journey of Purpose
 subtitle: A memoir
 date: 2025-10-24T22:08:43.911Z
 released: 2025-10-24T22:08:44.001Z
