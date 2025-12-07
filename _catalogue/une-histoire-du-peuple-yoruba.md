@@ -4,7 +4,7 @@ date: 2025-09-05T23:29:40.814Z
 released: 2025-06-30T23:29:40.863Z
 cover_image: ../uploads/9782359261219.jpg
 isbn: 9782359261219 PB, 9782359261226 E
-price: "Price: $50 • £40 • €45 • CFA25000"
+price: "Price: $60 • £45 • €50 • CFA25000"
 extent: 536 pp, 234 mm x 156 mm, illus, photos
 layout: catalogue_item
 ---
