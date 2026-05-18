@@ -15,6 +15,6 @@ We target a wider readership of scholars, academics, students, and other readers
 
 ![Alliance internationale de l'édition indépendante](../uploads/fr-rouge.png "Alliance internationale de l'édition indépendante")
 
-We are headquartered in Dakar, Senegal, whose creative spirits and vibrancy provide stimulants for our production processes and expertise, drawn from within and the world over. Meet the **team [here,](/team/)** and the **Editorial Advisory Board** [**here**.](/board/)
+We are headquartered in Dakar, Senegal, whose creative spirits and vibrancy provide stimulants for our production processes and expertise, drawn from within and the world over. Meet the **founder [here,](/team/)** and the **Editorial Advisory Board** [**here**.](/board/)
 
 Amalion is a member of the **International Alliance of Independent Publishers**.
