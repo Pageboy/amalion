@@ -18,13 +18,3 @@ Contact: \[firstname@]amalion.net
 Sulaiman a travaillé dans la presse écrite et en tant qu’éditeur consultant auprès de plusieurs organisations et institutions au Burkina Faso, France, Nigeria, Sénégal et aux États-Unis; parmi lesquelles African Institute for Economic and Development Planning (IDEP), Association pour la Migration, Leadership et Développement (AMLD), École des hautes études en sciences sociales (EHESS), Institut de recherche pour le développement (IRD), International Food Policy Research Institute (IFPRI), Open Society Initiative for West Africa (OSIWA), International Institute for Environment and Development (IIED Sahel), et Union pour les études démographiques africaines (UAPS). Il est diplômé de l'Université de Lagos, Nigeria et de l'International Centre for Publishing Studies, à Oxford Brookes, Royaume-Uni.
 
 Contact: \[prenom@]amalion.net
-
-# **Marie Ndiaye**
-
-**Marie Ndiaye** is Editorial Manager at Amalion. For three decades Marie Ndiaye has worked in the area of social sciences and humanities as programme assistant at the Council for the Development of Social Science Research in Africa (CODESRIA), coordinating various projects and exchanges involving scholars, development partners, state institutions and the general public. As an editor and translator, she has worked for several institutions including Amalion, CODESRIA, Goethe University Frankfurt, Institut PANOS, Naatal Mbay, and UNOWA. She translated from the English in collaboration with Y. Féhé Sarr and Issa Sarr, *Le procès de Hissène Habré : comment les Tchadiens ont traduit un tyran en justice* by Celeste Hicks (Amalion 2020) and *Les faiseurs de pluie* by Paul Kisakye (Amalion 2020).
-
-Contact: \[firstname@]amalion.net
-
-**Marie Ndiaye** est Manager Éditoriale à Amalion. Pendant trente ans, Marie a travaillé dans le milieu des sciences sociales en tant que qu’assistante de programme au Conseil pour le développement de la recherche en sciences sociales en Afrique (CODESRIA), coordonnant des projets et échanges entre les chercheurs, partenaires de développement, institutions étatiques et le public. En tant que traductrice et correctrice, elle a collaboré avec différentes institutions internationale telles comme Naatal Mbay, Institut PANOS, UNOWA, Amalion, CODESRIA, l’Université Goethe de Francfort. Avec Y. Féhé Sarr et Issa Sarr, Marie Ndiaye a collaboré à la traduction de l’ouvrage de Celeste Hicks, *Le procès de Hissène Habré : comment les Tchadiens ont traduit un tyran en justice* (Amalion 2020). Elle a traduit le dernier livre de Paul Kisakye, *Les faiseurs de pluie* de l’anglais *The Rainmakers* (Amalion 2020).
-
-Contact: \[prenom@]amalion.net
