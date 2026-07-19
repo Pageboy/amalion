@@ -6,7 +6,7 @@ title: "CAS LT Seminar Series 2026 - Thinking through Knowledge Production: A
 date: 2026-03-01T17:56:00.000+00:00
 eventdate: 2026-03-03T16:30:00.000+00:00
 ---
-CAS LT Seminar Series 2026 - Thinking through Knowledge Production: A View from the South by Sulaiman Adebowale, Amalion
+[CAS LT Seminar Series 2026](https://www.african.cam.ac.uk/events/cas-lt-seminar-series-2026-thinking-through-africa-production-performance-practice-sulaiman) - Thinking through Knowledge Production: A View from the South by Sulaiman Adebowale, Amalion
 
 Tuesday 3 March 2026 4:30pm to 6:00pm
 
