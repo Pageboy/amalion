@@ -4,7 +4,7 @@ category: news
 title: "Salon International de l'Édition et du Livre (SIEL) de Rabat "
 date: 2025-04-11T18:33:00.000+00:00
 ---
-3oème édition du SIEL qui se tient à Rabat du 18 au 27 avril 2025.
+30ème édition du SIEL qui se tient à Rabat du 18 au 27 avril 2025.
 
 Amalion participera a la 30ème édition du Salon international du Livre et de l'Édition(SIEL), qui se tiendra du 18 au 27 avril à Rabat, constitue un espace à même de permettre la poursuite des efforts de promotion du livre et de la lecture, a affirmé le ministre de la Jeunesse, de la Culture et de la Communication du Maroc, Mohamed Mehdi Bensaid.
 
